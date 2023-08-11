@@ -1,0 +1,63 @@
+{
+	"ua": "Mozilla/5.0 (Linux; U; Android 13; zh-CN; 21121210C Build/TKQ1.220807.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.58 Quark/6.4.8.334 Mobile Safari/537.36",
+    // 首页地址 用于获取 分类和首页推荐
+	"homeUrl": "https://www.nmddd.com/",
+    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
+	"cateManual": {"电影":"1","电视剧":"2","综艺":"3","动漫":"4"},
+    // 分类页地址 {cateId} 分类id {catePg} 当前页
+	"cateUrl": "https://www.nmddd.com/vod-list-id-{cateId}-pg-{catePg}-order--by-time-class-0-year-0-letter--area--lang-.html",
+    // 同上面的homeVod字段 分类列表中的视频信息
+	"cateVodNode": "//ul[@class='resize_list']/li",
+	"cateVodName": "/a/@title",
+	"cateVodId": "/a/@href",
+	"cateVodImg": "/a/div/img/@src",
+	"cateVodMark": "/a/div/span[@class='sBottom']/span/text()",
+    // // 详情页地址 用于获取详情页信息 及 播放列表和地址
+	"dtUrl": "https://www.nmddd.com{vid}",
+    // 详情节点
+	"dtNode": "//body",
+    // 视频名
+	"dtName": "//h1[@class='title']/a/text()",
+	    // 视频图片
+	"dtImg": "//section[@class='page-hd']/a/img/@src",
+    // 视频分类
+	"dtCate": "//div[@class='desc_item']/font/text()",
+    // 视频年份
+	"dtYear": "",
+    // 视频地区
+	"dtArea": "",
+    // 主演
+	"dtActor": "",
+    // 导演
+	"dtDirector": "",
+    // 视频简介
+	"dtDesc": "",
+	"dtDescR": "",
+    //播放源节点
+	"dtFromNode": "//div[@class='hd']/ul/li",
+    // 播放源名称
+	"dtFromName": "/a/text()",
+    // 播放列表节点  
+	"dtUrlNode": "//div[@class='numList']",
+    // 播放地址节点
+	"dtUrlSubNode": "/ul/li",
+    // 播放地址
+	"dtUrlId": "/a/@href",
+    // 二次处理正则
+	"dtUrlIdR": "",
+    // 剧集名称
+	"dtUrlName": "/a/text()",
+    // 二次处理正则
+	"dtUrlNameR": "",
+	// 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+	"playUrl": "https://www.nmddd.com{playUrl}",
+		// 搜索地址
+	"searchUrl": "https://www.jubaibaic.com/vodsearch/{wd}-------------.html",
+    // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
+	"scVodNode": "//div[@class='media mb-3']",
+	"scVodName": "/a/@title",
+	"scVodId": "/a/@href",
+	"scVodIdR": "",
+	"scVodImg": "/a/div/img/@data-original",
+	"scVodMark": "/a/div/div/text()"
+}

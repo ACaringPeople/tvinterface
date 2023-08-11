@@ -1,0 +1,73 @@
+{
+	"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42",
+    // 首页地址 用于获取 分类和首页推荐
+	"homeUrl": "https://a.sousou.pro/",
+    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
+	"cateManual": {"电影":"1","电视剧":"2","综艺":"4","动漫":"3"},
+    // 分类页地址 {cateId} 分类id {catePg} 当前页
+	"cateUrl": "https://a.sousou.pro/forum-{cateId}-{catePg}.htm?orderby=lastpid&digest=0",
+    // 同上面的homeVod字段 分类列表中的视频信息
+	"cateVodNode": "//div[@class='subject break-all']",
+	"cateVodName": "/a[1]/text()",
+	"cateVodId": "/a[1]/@href",
+	"cateVodImg": "/a[not(contains(i/@class,'wpxz'))]/text().extract_first( default='https://inews.gtimg.com/newsapp_bt/0/13263837859/1000')",
+    // 详情页地址 用于获取详情页信息 及 播放列表和地址
+	"dtUrl": "https://a.sousou.pro{vid}",
+    // 详情节点
+	"dtNode": "//body",
+    // 视频名
+	"dtName": "//h1/text()",
+	    // 视频图片
+	"dtImg": "https://inews.gtimg.com/newsapp_bt/0/13263837859/1000",
+	"dtImgR": "",
+    // 视频分类
+	"dtCate": "",
+	"dtCateR": "",
+    // 视频年份
+	"dtYear": "",
+	"dtYearR": "",
+    // 视频地区
+	"dtArea": "",
+	"dtAreaR": "",
+    // 视频状态
+	"dtMark": "",
+	"dtMarkR": "",
+    // 主演
+	"dtActor": "",
+	"dtActorR": "",
+    // 导演
+	"dtDirector": "",
+	"dtDirectorR": "",
+    // 视频简介
+	"dtDesc": "",
+	"dtDescR": "",
+    // 播放源节点
+	"dtFromNode": "//p[@class='tit']",
+    // 播放源名称
+	"dtFromName": "/text()",
+    // 二次处理正则
+	"dtFromNameR": "",
+    // 播放列表节点  ///../../following-sibling::div/ul
+	"dtUrlNode": "//body",
+    // 播放地址节点
+	"dtUrlSubNode": "//a[contains(@href, 'aliyundrive.com')][1]",
+    // 播放地址
+	"dtUrlId": "/@href",
+    // 二次处理正则
+	"dtUrlIdR": "",
+    // 剧集名称
+	"dtUrlName": "/span/text()",
+    // 二次处理正则
+	"dtUrlNameR": "",
+	// 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+	"playUrl": "",
+		// 搜索地址
+	"searchUrl": "https://a.sousou.pro/search.htm?keyword={wd}",
+    // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
+	"scVodNode": "//div[@class='subject break-all']",
+	"scVodName": "/a[1]/span/text()",
+	"scVodId": "/a[1]/@href",
+	"scVodIdR": "",
+	"scVodImg": "https://inews.gtimg.com/newsapp_bt/0/13263837859/1000",
+	"scVodMark": ""
+}

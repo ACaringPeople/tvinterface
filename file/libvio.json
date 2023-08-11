@@ -1,0 +1,73 @@
+{
+	"ua": "",
+    // 首页地址 用于获取 分类和首页推荐
+	"homeUrl": "https://www.libvio.cc/",
+    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
+	"cateManual": {"电影":"1","电视剧":"2"},
+    // 分类页地址 {cateId} 分类id {catePg} 当前页
+	"cateUrl": "https://www.libvio.cc/type/{cateId}-{catePg}.html",
+    // 同上面的homeVod字段 分类列表中的视频信息
+	"cateVodNode": "//ul[@class='stui-vodlist clearfix']/li",
+	"cateVodName": "/div/a/@title",
+	"cateVodId": "/div/a/@href",
+	"cateVodImg": "/div/a/@data-original",
+	"cateVodMark": "/div/a/span[2]/text()",
+    // 详情页地址 用于获取详情页信息 及 播放列表和地址
+	"dtUrl": "https://www.libvio.cc{vid}",
+    // 详情节点
+	"dtNode": "//div[@class='stui-content']",
+    // 视频名
+	"dtName": "/div[2]/h1/text()",
+	    // 视频图片///div[1]/a/img/@data-original
+	"dtImg": "/div[1]/a/img/@data-original",
+	"dtImgR": "",
+    // 视频分类
+	"dtCate": "/div[2]/p[1]/text()",
+	"dtCateR": "",
+    // 视频年份
+	"dtYear": "",
+	"dtYearR": "",
+    // 视频地区
+	"dtArea": "",
+	"dtAreaR": "",
+    // 视频状态
+	"dtMark": "",
+	"dtMarkR": "",
+    // 主演
+	"dtActor": "/div[2]/p[2]/text()",
+	"dtActorR": "",
+    // 导演
+	"dtDirector": "",
+	"dtDirectorR": "",
+    // 视频简介
+	"dtDesc": "/div[2]/p[6]/span[2]/text()",
+	"dtDescR": "",
+    // 播放源节点
+	"dtFromNode": "//div[@class='stui-vodlist__head']/div/h3",
+    // 播放源名称
+	"dtFromName": "/text()",
+    // 二次处理正则
+	"dtFromNameR": "",
+    // 播放列表节点  ///../../following-sibling::div/ul
+	"dtUrlNode": "//div[@class='stui-vodlist__head']/ul",
+    // 播放地址节点
+	"dtUrlSubNode": "/li",
+    // 播放地址
+	"dtUrlId": "/a/@href",
+    // 二次处理正则
+	"dtUrlIdR": "",
+    // 剧集名称
+	"dtUrlName": "/a/text()",
+    // 二次处理正则
+	"dtUrlNameR": "",
+	// 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+	"playUrl": "https://www.libvio.cc{playUrl}",
+		// 搜索地址
+	"searchUrl": "https://www.libvio.cc/search/-------------.html?wd={wd}&submit=",
+    // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
+	"scVodNode": "//ul[@class='stui-vodlist clearfix']/li",
+	"scVodName": "/div/a/@title",
+	"scVodId": "/div/a/@href",
+	"scVodImg": "/div/a/@data-original",
+	"scVodMark": "/div/a/span[2]/text()"
+}

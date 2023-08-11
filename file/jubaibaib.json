@@ -1,0 +1,64 @@
+{
+	"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42",
+    // 首页地址 用于获取 分类和首页推荐
+	"homeUrl": "https://www.jubaibaic.com/",
+    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
+	"cateManual": {"电影":"dianying","电视剧":"lianxuju","港剧":"gangtaiju","综艺":"zongyi"},
+    // 分类页地址 {cateId} 分类id {catePg} 当前页
+	"cateUrl": "https://www.jubaibaic.com/s/{cateId}/page/{catePg}.html",
+    // 同上面的homeVod字段 分类列表中的视频信息
+	"cateVodNode": "//div[@class='video-item']",
+	"cateVodName": "a/@title",
+	"cateVodId": "/a/@href",
+	//"homeVodIdR": "/v/(\\S+).htm",
+	"cateVodImg": "/a/div[@class='thumb']/img/@data-original",
+	"cateVodMark": "/a/div[@class='thumb']/div[@class='notes']/text()",
+    // // 详情页地址 用于获取详情页信息 及 播放列表和地址
+	"dtUrl": "https://www.jubaibaic.com{vid}",
+    // 详情节点
+	"dtNode": "//div[@class='media ps-1']",
+    // 视频名
+	"dtName": "/div[@class='media-body']/h4/text()",
+	    // 视频图片
+	"dtImg": "/div[@class='thumb me-3']/img/@data-original",
+    // 视频分类
+	"dtCate": "/div[@class='media-body']/div[1]/text()",
+    // 视频年份
+	"dtYear": "",
+    // 视频地区
+	"dtArea": "",
+    // 主演
+	"dtActor": "/div[@class='media-body']/div[2]/text()",
+    // 导演
+	"dtDirector": "/div[@class='media-body']/div[3]/text()",
+    // 视频简介
+	"dtDesc": "/div[@class='media-body']/div[5]/p/text()",
+	"dtDescR": "",
+    //播放源节点
+	"dtFromNode": "//ul[@class='nav nav-tabs border-0']/li",
+    // 播放源名称
+	"dtFromName": "/button/text()",
+    // 播放列表节点  
+	"dtUrlNode": "//div[contains(@class,'tab-content')]/div",
+    // 播放地址节点
+	"dtUrlSubNode": "/ul/li",
+    // 播放地址
+	"dtUrlId": "/a/@href",
+    // 二次处理正则
+	"dtUrlIdR": "",
+    // 剧集名称
+	"dtUrlName": "/a/text()",
+    // 二次处理正则
+	"dtUrlNameR": "",
+	// 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+	"playUrl": "https://www.jubaibaic.com{playUrl}",
+		// 搜索地址
+	"searchUrl": "https://www.jubaibaic.com/vodsearch/{wd}-------------.html",
+    // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
+	"scVodNode": "//div[@class='media mb-3']",
+	"scVodName": "/a/@title",
+	"scVodId": "/a/@href",
+	"scVodIdR": "",
+	"scVodImg": "/a/div/img/@data-original",
+	"scVodMark": "/a/div/div/text()"
+}

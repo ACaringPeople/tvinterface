@@ -1,0 +1,64 @@
+{
+	"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42",
+    // 首页地址 用于获取 分类和首页推荐
+	"homeUrl": "https://auete.art/",
+    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
+	"cateManual": {"电影":"Movie","电视剧":"Tv","综艺":"Zy","动漫":"Dm","其他":"qita"},
+    // 分类页地址 {cateId} 分类id {catePg} 当前页
+	"cateUrl": "https://auete.art/{cateId}/index{catePg}.html",
+    // 同上面的homeVod字段 分类列表中的视频信息
+	"cateVodNode": "//ul[@class='threadlist']/li",
+	"cateVodName": "/h2/a/text()",
+	"cateVodId": "/h2/a/@href",
+	//"homeVodIdR": "/v/(\\S+).htm",
+	"cateVodImg": "/a/img/@src",
+	"cateVodMark": "/a/button/text()",
+    // // 详情页地址 用于获取详情页信息 及 播放列表和地址
+	"dtUrl": "https://auete.art{vid}",
+    // 详情节点
+	"dtNode": "//div[@class='message break-all']",
+    // 视频名
+	"dtName": "substring-after(/p[2],':')",
+	    // 视频图片
+	"dtImg": "/div/a/img/@src",
+    // 视频分类
+	"dtCate": "substring-after(/p[7],':')",
+    // 视频年份
+	"dtYear": "substring-after(/p[10],':')",
+    // 视频地区
+	"dtArea": "substring-after(/p[9],':')",
+    // 主演
+	"dtActor": "substring-after(/p[6],':')",
+    // 导演
+	"dtDirector": "substring-after(/p[4],':')",
+    // 视频简介
+	"dtDesc": "substring-after(/p[15],':')",
+	"dtDescR": "",
+    //播放源节点
+	"dtFromNode": "//div[@id='player_list']",
+    // 播放源名称
+	"dtFromName": "/h2/text()",
+    // 播放列表节点  
+	"dtUrlNode": "//div[@id='player_list']/ul",
+    // 播放地址节点
+	"dtUrlSubNode": "/li",
+    // 播放地址
+	"dtUrlId": "/a/@href",
+    // 二次处理正则
+	"dtUrlIdR": "",
+    // 剧集名称
+	"dtUrlName": "/a/text()",
+    // 二次处理正则
+	"dtUrlNameR": "",
+	// 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+	"playUrl": "https://auete.art{playUrl}",
+		// 搜索地址 https://auete.art/auete2so.php?searchword=%E5%90%8D
+	"searchUrl": "https://auete.art/auete2so.php?searchword={wd}",
+    // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
+	"scVodNode": "//div[@class='card-body']/ul/li",
+	"scVodName": "/div/div/a/span/text()",
+	"scVodId": "/div/div/a/@href",
+	"scVodIdR": "",
+	"scVodImg": "https://auete.art/static/picture/logo.png",
+	"scVodMark": "/div/div[2]/div/span/text()"
+}
