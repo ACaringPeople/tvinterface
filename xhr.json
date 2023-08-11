@@ -126,8 +126,8 @@
             "key" : "drpy_js_喵了个咪",
             "name" : "👠喵了个咪[请更换解析]",
             "type" : 3,
-            "api" : "./lib/drpy.min.js",
-            "ext" : "./lib/猫了个咪.js"
+            "api" : "./file/drpy.min.js",
+            "ext" : "./file/猫了个咪.js"
         },
  {
             "key": "老鸭",
@@ -275,63 +275,63 @@
             ]
         },
         
-    {"key":"csp_xBPQ_左临右射","name":"👠左临右射","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/左临右射.json","jar":"./lib/Yoursmile2.jar"},
-{"key":"csp_xBPQ-四虎","name":"🏆四虎","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/四虎.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_香蕉AV解说","name":"🏆香蕉解说","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉解说.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_香蕉资源","name":"🏆香蕉资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉资源.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_香蕉超清","name":"🏆香蕉超清","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉超清.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_香蕉国产","name":"🏆香蕉国产","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉国产.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_香蕉久久热","name":"🏆香蕉久久热","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉久久热.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_香蕉废柴","name":"🏆香蕉废柴","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉废柴.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_香蕉搜索","name":"🏆香蕉搜索","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉搜索.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_香蕉直播","name":"🏆香蕉直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉直播.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_黄仓库","name":"🏆黄仓库","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/黄仓库.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_banban","name":"🏆banban","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/banban.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_麻豆映画","name":"🏆麻豆映画","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/麻豆映画.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_香蕉","name":"🏆香蕉","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/香蕉.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_性欲轮回","name":"🏆性欲轮回","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/性欲轮回.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_性欲轮回[分类]","name":"🏆性欲轮回[分类]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/性欲轮回[分类].json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_精东影业1","name":"🏆精东影业1","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/精东影业1.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_精东影业2","name":"🏆精东影业2","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/精东影业2.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_顶级国产","name":"🏆顶级国产","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/顶级国产.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_黄瓜","name":"🏆黄瓜","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/黄瓜.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xf_18av","name":"🏆18av[墙]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/18av.json","jar":"./lib/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_左临右射","name":"👠左临右射","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./file/左临右射.json","jar":"./file/Yoursmile2.jar"},
+{"key":"csp_xBPQ-四虎","name":"🏆四虎","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./file/四虎.json","jar":"./file/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_香蕉AV解说","name":"🏆香蕉解说","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./file/香蕉解说.json","jar":"./file/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_香蕉资源","name":"🏆香蕉资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./file/香蕉资源.json","jar":"./file/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_香蕉超清","name":"🏆香蕉超清","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./file/香蕉超清.json","jar":"./file/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_香蕉国产","name":"🏆香蕉国产","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./file/香蕉国产.json","jar":"./file/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_香蕉久久热","name":"🏆香蕉久久热","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./file/香蕉久久热.json","jar":"./file/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_香蕉废柴","name":"🏆香蕉废柴","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./file/香蕉废柴.json","jar":"./file/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_香蕉搜索","name":"🏆香蕉搜索","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./file/香蕉搜索.json","jar":"./file/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_香蕉直播","name":"🏆香蕉直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./file/香蕉直播.json","jar":"./file/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_黄仓库","name":"🏆黄仓库","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./file/黄仓库.json","jar":"./file/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_banban","name":"🏆banban","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./file/banban.json","jar":"./file/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_麻豆映画","name":"🏆麻豆映画","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./file/麻豆映画.json","jar":"./file/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_香蕉","name":"🏆香蕉","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./file/香蕉.json","jar":"./file/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_性欲轮回","name":"🏆性欲轮回","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./file/性欲轮回.json","jar":"./file/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_性欲轮回[分类]","name":"🏆性欲轮回[分类]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./file/性欲轮回[分类].json","jar":"./file/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_精东影业1","name":"🏆精东影业1","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./file/精东影业1.json","jar":"./file/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_精东影业2","name":"🏆精东影业2","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./file/精东影业2.json","jar":"./file/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_顶级国产","name":"🏆顶级国产","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./file/顶级国产.json","jar":"./file/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_黄瓜","name":"🏆黄瓜","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./file/黄瓜.json","jar":"./file/Yoursmile2.jar"},
+    {"key":"csp_xf_18av","name":"🏆18av[墙]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"./file/18av.json","jar":"./file/Yoursmile2.jar"},
 
 
-    {"key":"csp_XBiu_香蕉","name":"🍁香蕉(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/香蕉.json"},
-    {"key":"csp_XBiu_国产传媒","name":"🍁国产传媒(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/国产传媒.json"},
-    {"key":"csp_XBiu_GAOAA","name":"🍁GAOAA(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/GAOAA.json"},
-    {"key":"csp_XBiu_黄仓库","name":"🍁黄仓库(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/黄仓库.json"},
-    {"key":"csp_XBiu_小丑撸","name":"🍁小丑撸(XB)[墙]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/小丑撸.json"},
-    {"key":"csp_XBiu_掏爱撸","name":"🍁掏爱撸(XB)[墙]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/掏爱撸.json"},
-{"key":"drpy_js_banan","name":"👠banan[DRPY18]","type":3,"api":"./lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/banan.js"},
-{"key":"drpy_js_18av","name":"👠18av[DRPY18]","type":3,"api":"./lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/18av.js"},
+    {"key":"csp_XBiu_香蕉","name":"🍁香蕉(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./file/香蕉.json"},
+    {"key":"csp_XBiu_国产传媒","name":"🍁国产传媒(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./file/国产传媒.json"},
+    {"key":"csp_XBiu_GAOAA","name":"🍁GAOAA(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./file/GAOAA.json"},
+    {"key":"csp_XBiu_黄仓库","name":"🍁黄仓库(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./file/黄仓库.json"},
+    {"key":"csp_XBiu_小丑撸","name":"🍁小丑撸(XB)[墙]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./file/小丑撸.json"},
+    {"key":"csp_XBiu_掏爱撸","name":"🍁掏爱撸(XB)[墙]","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./file/掏爱撸.json"},
+{"key":"drpy_js_banan","name":"👠banan[DRPY18]","type":3,"api":"./file/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./file/banan.js"},
+{"key":"drpy_js_18av","name":"👠18av[DRPY18]","type":3,"api":"./file/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./file/18av.js"},
 
 
-{"key":"drpy_js_Missav","name":"👠Missav[DRPY18]","type":3,"api":"./lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/Missav.js"},
+{"key":"drpy_js_Missav","name":"👠Missav[DRPY18]","type":3,"api":"./file/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./file/Missav.js"},
 
 
-{"key":"drpy_js_朱古力","name":"👠朱古力[DRPY18]","type":3,"api":"./lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/朱古力.js"},
+{"key":"drpy_js_朱古力","name":"👠朱古力[DRPY18]","type":3,"api":"./file/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./file/朱古力.js"},
 
 
-{"key":"drpy_js_玩偶姐姐","name":"👠玩偶姐姐[DRPY18]","type":3,"api":"./lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/玩偶姐姐.js"},
+{"key":"drpy_js_玩偶姐姐","name":"👠玩偶姐姐[DRPY18]","type":3,"api":"./file/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./file/玩偶姐姐.js"},
 {"key":"csp_xBPQ_GAOAA","name":"👠GAOAA","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./lib/GAOAA.json","jar":"./lib/XBPQ_0111.jar"},
+"ext":"./file/GAOAA.json","jar":"./file/XBPQ_0111.jar"},
 
 
-{"key":"csp_xBPQ_Jable","name":"👠Jable〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/Jable.json","jar":"./lib/Yoursmile2.jar"},
+{"key":"csp_xBPQ_Jable","name":"👠Jable〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./file/Jable.json","jar":"./file/Yoursmile2.jar"},
 
 
-{"key":"csp_xBPQ_玩偶姐姐","name":"👠玩偶姐姐〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/玩偶姐姐.json","jar":"./lib/Yoursmile2.jar"},
+{"key":"csp_xBPQ_玩偶姐姐","name":"👠玩偶姐姐〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./file/玩偶姐姐.json","jar":"./file/Yoursmile2.jar"},
 
 
-{"key":"csp_xBPQ_朱古力","name":"👠朱古力〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/朱古力.json","jar":"./lib/Yoursmile2.jar"},
+{"key":"csp_xBPQ_朱古力","name":"👠朱古力〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./file/朱古力.json","jar":"./file/Yoursmile2.jar"},
 
 
-{"key":"csp_xBPQ_NOWAV","name":"👠NOWAV〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/NOWAV.json","jar":"./lib/Yoursmile2.jar"},
+{"key":"csp_xBPQ_NOWAV","name":"👠NOWAV〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./file/NOWAV.json","jar":"./file/Yoursmile2.jar"},
 
 
-{"key":"csp_xBPQ_女优","name":"👠女优〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/女优.json","jar":"./lib/Yoursmile2.jar"},
+{"key":"csp_xBPQ_女优","name":"👠女优〔翻墙〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./file/女优.json","jar":"./file/Yoursmile2.jar"},
 
 
 {"key":"csp_Miss","name":"👠Miss AV 墙外〔SP〕","type":3,"api":"csp_Miss","searchable":1,"quickSearch":1,"filterable":1},
@@ -344,7 +344,7 @@
 {"key":"*狼友资源","name":"*🔞狼友资源","type":1,"api":"https://www.langyouzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*皇冠资源","name":"*🔞皇冠资源","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key": "*AIvin","name": "*🔞AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
-{"key":"csp_biubiu_GAOAA","name":"*🔞GAOAA(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/GAOAA.json?sign=RTEogEmpqCt7cdlDCudsxV_SNXZR11Qx11Z5_bDuEYE=:0"}, 
+{"key":"csp_biubiu_GAOAA","name":"*🔞GAOAA(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./file/GAOAA.json?sign=RTEogEmpqCt7cdlDCudsxV_SNXZR11Qx11Z5_bDuEYE=:0"}, 
 
 
 { "key": "(18+)SS资源", "name": "*🔞SS资源", "type": 0, "api": "http://secj8.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 }, 
