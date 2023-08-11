@@ -25,7 +25,7 @@
 	    "key": "woggphp",
 	    "name": "玩偶Ⅱ新T4",
 	    "type": 4,
-	    "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,普画",
+	    "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
 	    "searchable": 1,
 	    "quickSearch": 1,
 	    "filterable": 1,
@@ -40,7 +40,7 @@
       "key": "csp_wogg_cli",
       "name": "玩偶(cli)",
       "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,普画",
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
