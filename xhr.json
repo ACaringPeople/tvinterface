@@ -152,6 +152,24 @@
                 
             ]
         },
+	{
+ "key": "小丑撸",
+ "name": "业余 | 小丑轻便撸",
+ "type": 3,"style":{"type":"rect","radio":1.33},
+ "jar":"./2.jar",
+ "api": "csp_XBPQ",
+ "ext": {
+ "站名": "小丑轻便撸",
+ "主页url": "https://www.jokerlulin.cc",
+ "数组": "class=\"col-md-2 resent-grid recommended-grid sports-recommended-grid\">&&</h5",
+ "图片": "src=\"&&\"",
+ "链接": "href=\"&&\"",
+ "标题": "class=\"title\">&&</a>",
+ "分类url": "https://www.jokerlulin.cc/index.php/vodtype/{cateId}-{catePg}.html",
+ "分类": "麻豆视频$121#91制片厂$122#天美传媒$123#蜜桃传媒$124#皇家华人$125#星空传媒$126#精东影业$127#乐播传媒$128#91茄子$129#玩偶姐姐$133#草莓猛料$136#葫芦影业$139#果冻传媒$140#欧美性爱$29#丝袜美腿$56#亚洲情色$58#步兵无码$28#国产精品$10#空姐模特$19#北京天使$119" 
+       }
+ },
+
        {"key": "天美AV","name": "👠天美AV","type": 1,"api": "https://tmav.art/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
        {"key": "KOK资源","name": "👠KOK资源","type": 1,"api": "https://api.vodkok2.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
        {"key":"QQ传媒","name":"👠QQ传媒","type":1,"api":"https://qqcm.sbs/api.php/provide/vod/","searchable":0,"quickSearch":0},
