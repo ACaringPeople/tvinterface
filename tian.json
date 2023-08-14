@@ -12,39 +12,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
-	    "key": "T4_玩偶",
-	    "name": "玩偶哥哥",
-	    "type": 4,
-	    "api": "http://120.53.102.254/t4/t4ali?sort=原画,蓝光,超清,高清&token=内置token",
-	    "searchable": 1,
-	    "quickSearch": 1,
-	    "filterable": 1
-    },
-    {
-	    "key": "woggphp",
-	    "name": "玩偶Ⅱ新T4",
-	    "type": 4,
-	    "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=内置token",
-	    "searchable": 1,
-	    "quickSearch": 1,
-	    "filterable": 1,
-	    "categories": [
-		  "自营电影",
-		  "自营剧集",
-		  "综艺",
-		  "动漫"
-	   ]
-    },
-    {
-      "key": "csp_wogg_cli",
-      "name": "玩偶(cli)",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=内置token",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-},
 {
       "key": "ali_cli",
       "name": "阿里聚合搜(cli)",
@@ -54,12 +21,6 @@
       "quickSearch": 1,
       "filterable": 1
  },
-    {
-    "key": "贱",
-    "name": "贱贱",
-    "type": 4,
-    "api": "http://120.53.102.254/t4/t477"
-    },
     {
       "key": "csp_WoGG",
       "name": "🎉玩偶┃自营",
@@ -146,16 +107,94 @@
       "quickSearch": 1,
       "changeable": 1
     },
-     {
-      "key": "影探",
-      "name": "探探┃APP",
+    {
+      "key":"圣城影视",
+      "name": "🐨圣城┃影视",
       "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://yt22106.lfytyl.com/api.php/app/"
+      "ext":"https://gitee.com/tiantuhao/tv/raw/master/lib/sc1080.json"
+    },
+    {
+      "key":"明帝影视",
+      "name": "🐨明帝┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"https://ys.md214.cn/api.php/app/"
+    },
+    {
+      "key": "1080蓝光",
+      "name": "🐨蓝光┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable":1,
+      "ext": "https://1080dyw.com/icciu_api.php/v1.vod"
+    },
+    {
+      "key": "无心影视",
+      "name": "🐨无心┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+          "分类":"电影$1#剧集$2#动漫$4#动画片$20#综艺$3#短剧$29",
+          "分类url": "https://www.57movie.cn/vod/show/area/{area}/id/{cateId}/page/{catePg}/"
+          }
+    },
+    {
+      "key": "迷你库",
+      "name": "🐨迷你┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.miniku.cc/xgapp.php/v1/"
+    },
+     {
+      "key": "csp_Ysgc",
+      "name": "😎影视┃APP",
+      "type": 3,
+      "api": "csp_Ysgc",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.ysgc.fun"
+    },
+     {
+      "key": "小鹿",
+      "name": "📽️小鹿┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+          "分类":"电影$1#电视剧$31#综艺$3#动漫$4",
+          "分类url": "http://www.xiaoluys.me/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html"
+          }
+    },
+    {
+      "key": "金曼影视",
+      "name": "📽️金曼┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+          "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
+          "分类url": "https://jinman2.com/index.php/vod/type/id/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"
+          }
+    },
+    {
+      "key": "耐看",
+      "name": "📽️耐看┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://xhww.fun:63/小米/2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
+      "playerType": "1",
+      "ext": "http://xhww.fun:63/小米/源/来看.json"
     },
        {
       "key": "push_agent",
