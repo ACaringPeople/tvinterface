@@ -238,6 +238,16 @@
       "jar": "http://w.g9.pub:66/f/gJ2RuG/xyq802.jar"
     },
     {
+      "key": "csp_XYQHiker_乐猪影视",
+      "name": "🐷乐猪影视(XYQH)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.com/gaotianliuyun/gao/blob/master/XYQHiker/%E4%B9%90%E7%8C%AATV.json"
+    },
+    {
       "key": "csp_DiDuan",
       "name": "🍄低端┃直连",
       "type": 3,
