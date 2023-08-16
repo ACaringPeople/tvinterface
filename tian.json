@@ -13,6 +13,15 @@
       "filterable": 0
     }, 
     {
+      "key": "YGP",
+      "name": "🚀叨观荐影┃速递",
+      "type": 3,
+      "api": "csp_YGP",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
       "key": "Itv",
       "name": "🌟爱奇艺┃(官)",
       "type": 3,
@@ -92,6 +101,17 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
+    },
+    {
+      "key": "探探",
+      "name": "🏵探探┃App",
+      "type": 3,
+      "playerType": "1",
+      "api": "csp_YTVIP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://smallmi.xiaohewanwan.love:63/cili/fan.txt"
     },
     {
       "key": "七夜",
@@ -293,6 +313,46 @@
       "quickSearch": 1,
       "ext": "https://cz01.me/",
       "filterable": 1
+    },
+    {
+      "key": "陌陌",
+      "name": "🍄陌陌┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://wushutvcms.byzz.top/api.php/app/"
+    },
+    {
+      "key": "米米",
+      "name": "🍓莓莓┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://22222.yiyingys.asia/api.php/app/"
+    },
+    {
+      "key": "哈喽",
+      "name": "✌哈喽┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://guan.yy365.vip/api.php/app/"
+    },
+    {
+      "key": "彩虹",
+      "name": "🌈彩虹┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://jh.dytt996.com:996/api.php/app/"
     },
     {
       "key": "酷影",
@@ -509,8 +569,8 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "ext": "https://pan.shangui.cc/f/Dp4Sz/%E4%B9%90%E7%8C%AA.json",
-      "jar": "https://gitee.com/ghjdz/tvbox/raw/master/OPPO/lib/xyq802.jar;md5;8b4d7815240224e910848d075a884058"
+      "jar":"https://gitee.com/tiantuhao/tv/raw/master/lib/XYQ.jar",
+      "ext": "https://gitee.com/tiantuhao/tv/raw/master/lib/%E4%B9%90%E7%8C%AA.json"
     },
     {
       "key": "龟龟",
