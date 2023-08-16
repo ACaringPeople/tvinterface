@@ -22,6 +22,25 @@
       "changeable": 0
     },
     {
+      "key": "csp_wogg_cli",
+      "name": "玩偶(cli)",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"e5e25cd523e64d18993da6eb9422058c"
+    },
+  {
+      "key": "荐片",
+      "name": "荐片(cli)",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_JP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "Itv",
       "name": "🌟爱奇艺┃(官)",
       "type": 3,
@@ -31,9 +50,37 @@
       "filterable": 1,
       "changeable": 0
     },
-    {"key":"youku","name":"🔏官源|优酷","type":3,"jar":"https://gitee.com/zalman2022/mytv/raw/master/file/MySpiderBeta.jar","api":"csp_YOUKU","searchable":1,"filterable":0,"changeable":0},
-    {"key":"360kan","name":"🔏官源|360","type":3,"jar":"https://gitee.com/zalman2022/mytv/raw/master/file/MySpiderBeta.jar","api":"csp_KAN360","searchable":1,"filterable":0,"changeable":0},
-    {"key":"cctv","name":"🔏官源|央视","type":3,"jar":"https://gitee.com/zalman2022/mytv/raw/master/file/MySpiderBeta.jar","api":"csp_CCTV","searchable":1,"filterable":0,"changeable":0,"ext":"https://gitee.com/zalman2022/mytv/raw/master/file/cctv.json"},
+    {
+			"key": "youku",
+			"name": "🔏官源|优酷",
+			"type": 3,
+			"jar": "https://gitee.com/zalman2022/mytv/raw/master/file/MySpiderBeta.jar",
+			"api": "csp_YOUKU",
+			"searchable": 1,
+			"filterable": 0,
+			"changeable": 0
+		},
+		{
+			"key": "360kan",
+			"name": "🔏官源|360",
+			"type": 3,
+			"jar": "https://gitee.com/zalman2022/mytv/raw/master/file/MySpiderBeta.jar",
+			"api": "csp_KAN360",
+			"searchable": 1,
+			"filterable": 0,
+			"changeable": 0
+		},
+		{
+			"key": "cctv",
+			"name": "🔏官源|央视",
+			"type": 3,
+			"jar": "https://gitee.com/zalman2022/mytv/raw/master/file/MySpiderBeta.jar",
+			"api": "csp_CCTV",
+			"searchable": 1,
+			"filterable": 0,
+			"changeable": 0,
+			"ext": "https://gitee.com/zalman2022/mytv/raw/master/file/cctv.json"
+		},
     {
       "key": "Qtv",
       "name": "🌟腾讯┃(官)",
