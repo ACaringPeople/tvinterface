@@ -22,6 +22,25 @@
       "changeable": 0
     },
     {
+      "key": "csp_wogg_cli",
+      "name": "玩偶(cli)",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"e5457f652e55429fa5c1b0b8dcada35b"
+    },
+  {
+      "key": "荐片",
+      "name": "荐片(cli)",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_JP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "Itv",
       "name": "🌟爱奇艺┃(官)",
       "type": 3,
@@ -31,9 +50,37 @@
       "filterable": 1,
       "changeable": 0
     },
-    {"key":"youku","name":"🔏官源|优酷","type":3,"jar":"https://gitee.com/zalman2022/mytv/raw/master/file/MySpiderBeta.jar","api":"csp_YOUKU","searchable":1,"filterable":0,"changeable":0},
-    {"key":"360kan","name":"🔏官源|360","type":3,"jar":"https://gitee.com/zalman2022/mytv/raw/master/file/MySpiderBeta.jar","api":"csp_KAN360","searchable":1,"filterable":0,"changeable":0},
-    {"key":"cctv","name":"🔏官源|央视","type":3,"jar":"https://gitee.com/zalman2022/mytv/raw/master/file/MySpiderBeta.jar","api":"csp_CCTV","searchable":1,"filterable":0,"changeable":0,"ext":"https://gitee.com/zalman2022/mytv/raw/master/file/cctv.json"},
+    {
+			"key": "youku",
+			"name": "🔏官源|优酷",
+			"type": 3,
+			"jar": "https://gitee.com/zalman2022/mytv/raw/master/file/MySpiderBeta.jar",
+			"api": "csp_YOUKU",
+			"searchable": 1,
+			"filterable": 0,
+			"changeable": 0
+		},
+		{
+			"key": "360kan",
+			"name": "🔏官源|360",
+			"type": 3,
+			"jar": "https://gitee.com/zalman2022/mytv/raw/master/file/MySpiderBeta.jar",
+			"api": "csp_KAN360",
+			"searchable": 1,
+			"filterable": 0,
+			"changeable": 0
+		},
+		{
+			"key": "cctv",
+			"name": "🔏官源|央视",
+			"type": 3,
+			"jar": "https://gitee.com/zalman2022/mytv/raw/master/file/MySpiderBeta.jar",
+			"api": "csp_CCTV",
+			"searchable": 1,
+			"filterable": 0,
+			"changeable": 0,
+			"ext": "https://gitee.com/zalman2022/mytv/raw/master/file/cctv.json"
+		},
     {
       "key": "Qtv",
       "name": "🌟腾讯┃(官)",
@@ -101,6 +148,15 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
+    },
+    {
+      "key": "Vofl",
+      "name": "🎈VOF┃直连",
+      "type": 3,
+      "api": "csp_Voflix",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "探探",
@@ -359,7 +415,7 @@
       "name": "😎泰泰┃APP",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -419,7 +475,7 @@
       "name": "😎落落┃APP",
       "type": 3,
       "api": "csp_AppYs",
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -430,7 +486,7 @@
       "name": "😎稻香┃APP",
       "type": 3,
       "api": "csp_AppYs",
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -441,7 +497,7 @@
       "name": "️😎八千┃APP",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -452,7 +508,7 @@
       "name": "️😎蘑菇┃APP",
       "type": 3,
       "api": "csp_AppYs",
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -481,7 +537,7 @@
       "key":"速映影视",
       "name": "🐨速映┃影视",
       "type": 3,
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -492,7 +548,7 @@
       "key":"笑笑影视",
       "name": "🐨笑笑┃影视",
       "type": 3,
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -523,7 +579,7 @@
       "key":"圣城影视",
       "name": "🐨圣城┃影视",
       "type": 3,
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -544,7 +600,7 @@
       "key": "无心影视",
       "name": "🐨无心┃影视",
       "type": 3,
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "api": "csp_XBPQ",
       "ext": {
           "分类":"电影$1#剧集$2#动漫$4#动画片$20#综艺$3#短剧$29",
@@ -576,7 +632,7 @@
       "key": "龟龟",
       "name": "📽️龟龟┃BPQ",
       "type": 3,
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "api": "csp_XBPQ",
       "playerType": "1",
       "ext": {
@@ -601,7 +657,7 @@
       "key": "萌猫",
       "name": "📽️萌猫┃BPQ",
       "type": 3,
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "api": "csp_XBPQ",
       "playerType": "2",
       "ext": {
@@ -635,7 +691,7 @@
       "key": "莱米",
       "name": "📽️莱米┃BPQ",
       "type": 3,
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "api": "csp_XBPQ",
       "playerType": "1",
       "ext": {
@@ -668,7 +724,7 @@
       "key": "双黄",
       "name": "📽️双黄┃BPQ",
       "type": 3,
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "api": "csp_XBPQ",
       "ext": {
         "嗅探词": "v3-dy-o.zjcdn#.m3u8#uc.cn",
@@ -686,7 +742,7 @@
       "key": "土豪",
       "name": "📽️土豪┃BPQ",
       "type": 3,
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "api": "csp_XBPQ",
       "ext": {
         "分类url": "https://tuhao.tv/vsh/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
@@ -710,7 +766,7 @@
       "key": "鲸落",
       "name": "📽️鲸落┃BPQ",
       "type": 3,
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -746,7 +802,7 @@
       "key": "csp_XBPQ_JOJO",
       "name": "📽️JOJO┃BPQ",
       "type": 3,
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -769,7 +825,7 @@
       "key": "兔兔",
       "name": "📽️兔兔┃BPQ",
       "type": 3,
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -797,10 +853,37 @@
       }
     },
     {
+      "key": "臭蛋",
+      "name": "臭蛋┃BPQ",
+      "type": 3,
+      "jar": "http://xhww.fun:63/小米/5.jar",
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "https://cddys.vip/",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+        "分类url": "https://cddys.vip//vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;a",
+        "跳转播放链接": "https://bfq3.cddys.vip/nimasile2/?url=+link_pre*url\":\"&&\"",
+        "二次跳转播放链接": "https://bfq3.cddys.vip/nimasile2/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
+        "线路数组": "<div class=\"module-tab-item tab-item&&</div",
+        "线路标题": "<span>&&</span",
+        "三次跳转播放链接": "\"url\"*\"&&\""
+      }
+    },
+    {
+      "key": "南瓜",
+      "name": "南瓜┃APP",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "http://xhww.fun:63/js/drpy2.min.js",
+      "ext": "http://smallmi.xiaohewanwan.love:63/南瓜.js",
+      "changeable": 0
+    },
+    {
       "key": "素白",
       "name": "📽️素白┃BPQ",
       "type": 3,
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "api": "csp_XBPQ",
       "playerType": "1",
       "ext": "https://gitee.com/tiantuhao/tv/raw/master/lib/%E7%B4%A0%E7%99%BD.json"
@@ -809,7 +892,7 @@
       "key": "奇优",
       "name": "📽️奇优┃BPQ",
       "type": 3,
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "api": "csp_XBPQ",
       "playerType": "1",
       "ext": "https://gitee.com/tiantuhao/tv/raw/master/lib/%E5%A5%87%E4%BC%98.json"
@@ -818,7 +901,7 @@
       "key": "速搜",
       "name": "📽️速搜┃BPQ",
       "type": 3,
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "api": "csp_XBPQ",
       "playerType": "1",
       "ext": "https://gitee.com/tiantuhao/tv/raw/master/lib/%E9%80%9F%E6%90%9C.json"
@@ -827,7 +910,7 @@
       "key": "热播库",
       "name": "📽️热播┃BPQ",
       "type": 3,
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "api": "csp_XBPQ",
       "playerType": "1",
       "ext": "https://gitee.com/tiantuhao/tv/raw/master/lib/%E7%83%AD%E6%92%AD.json"
@@ -836,7 +919,7 @@
       "key": "小鹿",
       "name": "📽️小鹿┃BPQ",
       "type": 3,
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "api": "csp_XBPQ",
       "ext": {
           "分类":"电影$1#电视剧$31#综艺$3#动漫$4",
@@ -847,7 +930,7 @@
       "key": "金曼影视",
       "name": "📽️金曼┃BPQ",
       "type": 3,
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "api": "csp_XBPQ",
       "ext": {
           "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
@@ -859,7 +942,7 @@
       "name": "📽️星辰┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "playerType": "1",
       "ext": "https://gitee.com/tiantuhao/tv/raw/master/lib/%E6%98%9F%E8%BE%B0.json"
     },
@@ -867,7 +950,7 @@
       "key": "零度",
       "name": "📽️零度┃BPQ",
       "type": 3,
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "api": "csp_XBPQ",
       "playerType": "1",
       "ext": "https://gitee.com/tiantuhao/tv/raw/master/lib/%E5%B0%8F%E5%88%80.json"
@@ -876,7 +959,7 @@
       "key": "石榴",
       "name": "📽️石榴┃BPQ",
       "type": 3,
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "api": "csp_XBPQ",
       "playerType": "1",
       "ext": "https://gitee.com/tiantuhao/tv/raw/master/lib/%E7%9F%B3%E6%A6%B4.json"
@@ -885,7 +968,7 @@
       "key": "串串",
       "name": "📽️串串┃️BPQ",
       "type": 3,
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "api": "csp_XBPQ",
       "ext": {
         "请求头": "手机#Referer$http://bczhuiju.com/",
@@ -911,7 +994,7 @@
       "name": "📽️耐看┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "playerType": "1",
       "ext": "https://gitee.com/tiantuhao/tv/raw/master/lib/%E6%9D%A5%E7%9C%8B.json"
     },
@@ -919,7 +1002,7 @@
       "key": "看看",
       "name": "📽️看看┃BPQ",
       "type": 3,
-      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/2.jar",
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "playerType": "1",
       "changeable": 0,
       "api": "csp_XBPQ",
