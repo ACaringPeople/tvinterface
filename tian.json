@@ -112,6 +112,18 @@
       "ext": "https://gitee.com/tiantuhao/tv/raw/master/lib/py_cctv.py"
     },
     {
+      "key": "MV_vod",
+      "name": "🎶明星┃MV",
+      "type": 1,
+      "api": "https://mv.wogg.link/mv/vod",
+      "style": {
+        "type": "oval"
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
       "key": "csp_Bili",
       "name": "🅱哔哔┃合集",
       "type": 3,
@@ -177,6 +189,26 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "http://smallmi.xiaohewanwan.love:63/cili/fan.txt"
+    },
+    {
+      "key": "csp_Nmys",
+      "name": "🌾农民┃直连",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://饭太硬.top/x/json/nmys.json"
+    },
+    {
+      "key": "csp_Ysgc",
+      "name": "🏭工场┃直连",
+      "type": 3,
+      "api": "csp_Ysgc",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.ysgc1.cc/"
     },
     {
       "key": "七夜",
@@ -380,6 +412,21 @@
       "filterable": 1
     },
     {
+      "key": "奇奇",
+      "name": "🍓奇奇┃直连",
+      "type": 1,
+      "api": "http://www.csykkj.club/api.php/provide/vod/from/qiqi",
+      "playUrl": "json:http://lgg.llwwwll.com:5477/home/api?type=ys&uid=387611&key=ahnrvxyzCDGJKPY137&url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫"
+      ]
+    },
+    {
       "key": "陌陌",
       "name": "🍄陌陌┃App",
       "type": 3,
@@ -390,16 +437,6 @@
       "ext": "http://wushutvcms.byzz.top/api.php/app/"
     },
     {
-      "key": "米米",
-      "name": "🍓莓莓┃App",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://22222.yiyingys.asia/api.php/app/"
-    },
-    {
       "key": "哈喽",
       "name": "✌哈喽┃App",
       "type": 3,
@@ -408,16 +445,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "http://guan.yy365.vip/api.php/app/"
-    },
-    {
-      "key": "彩虹",
-      "name": "🌈彩虹┃App",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://jh.dytt996.com:996/api.php/app/"
     },
     {
       "key": "酷影",
