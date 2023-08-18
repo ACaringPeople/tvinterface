@@ -1,5 +1,5 @@
 {
-"spider":"./file/MySpiderBeta.jar",
+"spider":"https://gitee.com/zalman2022/mytv/raw/master/file/MySpiderBeta.jar",
 "lives": [{"name": "Home","url": "./file/live.txt","type": 0,"playerType": 1,"ua": "okhttp/3.12.13","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},{"name": "Open","url": "./file/xhrlive.txt","type": 0,"playerType": 1,"ua": "okhttp/3.12.13","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "sites": [
     {"key":"douban","name":"🔏豆瓣推荐","type":3,"api":"csp_DouBan","quickSearch":1,"filterable":0,"changeable":0},
@@ -7,23 +7,12 @@
      "key": "探探",
       "name": "🏵探探┃App",
       "type": 3,
-      "jar":"./fty.jar;md5;43d5af5fc45bbff83ae54e4f3fe703e5",
+      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
       "playerType": "1",
       "api": "csp_YT",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "影探",
-      "name": "探探┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "./2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://yt22106.lfytyl.com/api.php/app/"
     },
     {
   "key": "么云云",
@@ -36,22 +25,6 @@
   "quickSearch": 0,
   "changeable": 0
 },
-{"key": "T4_玩偶","name": "玩偶哥哥","type": 4,"api": "http://120.53.102.254/t4/t4ali","searchable": 1,"quickSearch": 1,"filterable": 1},
-{
-           "key": "woggphp",
-           "name": "玩偶Ⅱ新T4",
-           "type": 4,
-           "api": "http://home.jundie.top:9520/spider/csp_Wogg",
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 1,
-           "categories": [
-               "自营电影",
-               "自营剧集",
-               "综艺",
-               "动漫"
-           ]
-       },
  {
       "key": "csp_WoGG",
       "name": "👽玩偶哥哥┃4K",
