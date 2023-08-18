@@ -162,6 +162,16 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
     },
     {
+      "key": "飞飞影视",//随便写名字
+      "name": "飞飞影视┃BPQ",//随便写名字
+      "type": 3,
+      "api": "csp_XBPQ",//这个千万不要变
+      "ext": {
+        "分类url":"https://www.kaixinfang.com/vodshow/{cateId}-{area}-------{catePg}---{year}/",
+        "分类":"电影$dianying#电视剧$fenlei2#综艺$zongyi#动漫$dongman"  
+      }
+     },
+    {
       "key": "77",
       "name": "👒七七┃App",
       "type": 3,
