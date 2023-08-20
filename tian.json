@@ -3,15 +3,14 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
-      "key": "js豆豆",
-      "name": "个人使用接口",
+      "key": "豆豆",
+      "name": "微信公众号【神秘的哥哥们】关注防失联",
       "type": 3,
-      "api":"https://gitee.com/tiantuhao/tv/raw/master/lib/drpy1.min.js",
-      "ext":"https://gitee.com/tiantuhao/tv/raw/master/lib/drpy.js",
+      "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    }, 
+    },
     {
       "key": "YGP",
       "name": "🚀叨观荐影┃速递",
@@ -163,14 +162,40 @@
     },
     {
       "key": "飞飞影视",//随便写名字
-      "name": "飞飞影视┃BPQ",//随便写名字
+      "name": "飞飞影视1┃BPQ",//随便写名字
       "type": 3,
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
       "api": "csp_XBPQ",//这个千万不要变
       "ext": {
         "分类url":"https://www.kaixinfang.com/vodshow/{cateId}-{area}-------{catePg}---{year}/",
         "分类":"电影$dianying#电视剧$fenlei2#综艺$zongyi#动漫$dongman"  
       }
      },
+    {
+      "key": "csp_XBPQ_feifei",
+      "name": "📽️飞飞┃BPQ",
+      "type": 3,
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0",
+      "api": "csp_XBPQ",
+      "ext":"{
+          \"免嗅\":\"1\",
+          \"演员\":\"主演：&&</div>\",
+          \"简介\":\"class=\\\"video-info-item video-info-content vod_content\\\"&&</div>\",
+          \"副标题\":\"class=\\\"module-item-text\\\">&&</div>\",
+          \"数组\":\"class=\\\"module-item-pic&&</div>\",
+          \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
+          \"线路标题\":\"<span>&&</small>\",
+          \"播放数组\": \"class=\\\"scroll-content&&</div>\",
+          \"分类\":\"电影$dianying#剧集$fenlei2#国产剧$guochanju#综艺$zongyi#动漫$dongman\",
+          \"分类url\":\"https://www.kaixinfang.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html/\"}"
+    },
+    {"key":"9yyq","name":"🍳九禹云q","type":3,"jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar","api":"csp_XBPQ","ext":{
+  "分类url":"https://v.jiuyuyun.xyz/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
+  "分类":"电影$1#连续剧$2#综艺$3#动漫$4"
+   },
     {
       "key": "77",
       "name": "👒七七┃App",
@@ -225,7 +250,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://smallmi.xiaohewanwan.love:63/cili/fan.txt"
+      "ext": "vvvwvwvvwwvwvvvwvvwwvvvwwwwvvvvwvvvwwvvvwwwvvwvwvvwvvvvw.lyyytv.cn"
     },
     {
       "key": "csp_Nmys",
@@ -493,6 +518,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+    },
+{
+      "key": "365",
+      "name": "😎年年┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/tiantuhao/tv/raw/master/lib/5.jar",
+      "ext": "http://guan.yy365.vip/api.php/app/"
     },
     {
       "key": "酷酷",
