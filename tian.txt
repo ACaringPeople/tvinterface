@@ -5,21 +5,25 @@
             "name": "个人最终gitee"
         },
         {
-            "url": "https://jihulab.com/tiantuhao/tv/-/raw/master/tian.json",
-            "name": "个人最终jihulab"
+            "url":"https://gitcode.net/qq_23897013/tv/-/raw/master/tian.json",
+            "name":"个人gitcode",
         },
         {
-            "url": "https://pan.shangui.cc/f/G5x0hz/tian.json",
-            "name": "个人最终跑路"
+            "url": "https://jihulab.com/tiantuhao/tv/-/raw/master/tian.json",
+            "name": "个人最终jihulab"
         },
         {
             "url": "https://tiantuhao.github.io/tvinterface/tian.json",
             "name": "个人最终Github1"
         }, 
         {
-            "url": "https://ghproxy.com/https://tiantuhao.github.io/tvinterface/tian.json",
+            "url": "https://s2.pub/GitHubTV",
             "name": "个人最终Github2"
         }, 
+        {
+            "url": "https://pan.shangui.cc/f/G5x0hz/tian.json",
+            "name": "个人最终跑路"
+        },
          {
             "url": "https://download.kstore.space/download/4828/tian.json",
             "name": "个人最终凯速网"
@@ -29,12 +33,20 @@
             "name": "个人最终pastebin"
         },  
         {
-            "url":"https://qu.ax/wkoS.json",
+            "url":"https://qu.ax/FwcB.json",
             "name":"个人最终quax网"
+        },
+        {
+            "url": "https://s2.pub/tian",
+            "name": "个人最终吾爱"
         },        	
         {
             "url": "http://饭太硬.top/tv",
             "name": "🚀饭太硬线路"
+        },
+        {
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "🚀小米线路"
         },                      
         {
             "url": "http://肥猫.love",
@@ -47,12 +59,7 @@
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "🚀道长线路"
-        },
-        
-        {
-            "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "🚀小米线路"
-        },              
+        },               
         {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "🚀俊佬线路"
