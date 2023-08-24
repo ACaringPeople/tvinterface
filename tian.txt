@@ -5,7 +5,7 @@
             "name": "个人最终gitee"
         },
         {
-            "url":"https://gitcode.net/qq_23897013/tv/-/raw/master/tian.json",
+            "url":"https://s2.pub/GitCode",
             "name":"个人gitcode",
         },
         {
@@ -13,7 +13,7 @@
             "name": "个人最终jihulab"
         },
         {
-            "url": "https://tiantuhao.github.io/tvinterface/tian.json",
+            "url": "https://tiantuhao.github.io/tvinterface/github.json",
             "name": "个人最终Github1"
         }, 
         {
