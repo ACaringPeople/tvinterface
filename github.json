@@ -28,7 +28,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcode.net/qq_23897013/tv/-/raw/master/token.txt"
+			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
 		},
 		{
 			"key": "荐片",
