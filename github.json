@@ -41,7 +41,7 @@
 		},
 		{
 			"key": "Itv",
-			"name": "💞田|爱奇艺(官)",
+			"name": "💞田|爱官",
 			"type": 3,
 			"api": "csp_Itv",
 			"quickSearch": 1,
@@ -51,9 +51,9 @@
 		},
 		{
 			"key": "youku",
-			"name": "💞田|优酷(官)",
+			"name": "💞田|优官",
 			"type": 3,
-			"jar": "https://gitee.com/zalman2022/mytv/raw/master/file/MySpiderBeta.jar",
+			"jar": "https://tiantuhao.github.io/tvinterface/file/MySpiderBeta.jar",
 			"api": "csp_YOUKU",
 			"searchable": 1,
 			"filterable": 0,
@@ -63,7 +63,7 @@
 			"key": "360kan",
 			"name": "💞田|360(官)",
 			"type": 3,
-			"jar": "https://gitee.com/zalman2022/mytv/raw/master/file/MySpiderBeta.jar",
+			"jar": "https://tiantuhao.github.io/tvinterface/file/MySpiderBeta.jar",
 			"api": "csp_KAN360",
 			"searchable": 1,
 			"filterable": 0,
@@ -71,18 +71,18 @@
 		},
 		{
 			"key": "cctv",
-			"name": "💞田|央视(官)",
+			"name": "💞田|yang官",
 			"type": 3,
-			"jar": "https://gitee.com/zalman2022/mytv/raw/master/file/MySpiderBeta.jar",
+			"jar": "https://tiantuhao.github.io/tvinterface/file/MySpiderBeta.jar",
 			"api": "csp_CCTV",
 			"searchable": 1,
 			"filterable": 0,
 			"changeable": 0,
-			"ext": "https://gitee.com/zalman2022/mytv/raw/master/file/cctv.json"
+			"ext": "https://tiantuhao.github.io/tvinterface/file/cc.json"
 		},
 		{
 			"key": "Qtv",
-			"name": "💞田|腾讯(官)",
+			"name": "💞田|腾官",
 			"type": 3,
 			"api": "csp_Qtv",
 			"searchable": 1,
@@ -92,23 +92,13 @@
 		},
 		{
 			"key": "Mtv",
-			"name": "💞田|芒果(官)",
+			"name": "💞田|芒官",
 			"type": 3,
 			"api": "csp_Mtv",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0
-		},
-		{
-			"key": "py_cctv",
-			"name": "💞田|CCTV(官)",
-			"type": 3,
-			"api": "py_cctv",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "https://ghproxy.com/https://github.com/tiantuhao/TV/blob/master/lib/py_cctv.py"
 		},
 		{
 			"key": "MV_vod",
@@ -121,34 +111,6 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"changeable": 0
-		},
-		{
-			"key": "csp_Bili",
-			"name": "💞田|哔哔合集",
-			"type": 3,
-			"api": "csp_Bili",
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
-			},
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext": "https://ghproxy.com/https://github.com/tiantuhao/TV/blob/master/lib/bilibili.json"
-		},
-		{
-			"key": "csp_Biliych",
-			"name": "💞田|哔哔演唱会",
-			"type": 3,
-			"api": "csp_Bili",
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
-			},
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext": "https://ghproxy.com/https://github.com/tiantuhao/TV/blob/master/lib/biliych.json"
 		},
 		{
 			"key": "csp_WoGG",
@@ -313,11 +275,12 @@
 			"key": "csp_Nmys",
 			"name": "💞田|农民直连",
 			"type": 3,
-			"api": "csp_Nmys",
+			"jar": "https://ghproxy.com/https://github.com/tiantuhao/TV/blob/master/lib/5.jar",
+			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "http://饭太硬.top/x/json/nmys.json"
+			"ext": "https://ghproxy.com/https://github.com/tiantuhao/TV/blob/master/lib/nmys.json"
 		},
 		{
 			"key": "csp_Ysgc",
