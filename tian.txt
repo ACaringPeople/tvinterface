@@ -6,7 +6,7 @@
         },
         {
             "url":"https://s2.pub/GitCode",
-            "name":"个人gitcode",
+            "name":"个人gitcode"
         },
         {
             "url": "https://jihulab.com/tiantuhao/tv/-/raw/master/tian.json",
