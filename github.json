@@ -1877,7 +1877,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://ghproxy.com/https://github.com/tiantuhao/TV/blob/master/lib/tvlive.txt",
+      "url": "./file/tvlive.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
