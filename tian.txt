@@ -1,11 +1,11 @@
 {
     "urls": [
         {
-            "url": "https://gitee.com/tiantuhao/tv/raw/master/tian.json",
+            "url": "https://gitee.com/tiantuhao/honor/raw/master/tian.json",
             "name": "个人最终gitee"
         },
         {
-            "url": "https://jihulab.com/tiantuhao/tv/-/raw/master/tian.json",
+            "url": "https://jihulab.com/tiantuhao/honor/-/raw/master/tian.json",
             "name": "个人最终jihulab"
         },
         {
@@ -13,7 +13,7 @@
             "name": "个人最终Github1"
         }, 
         {
-            "url": "https://s2.pub/GitHubTV",
+            "url": "https://s2.pub/GitHubHonor",
             "name": "个人最终Github2"
         }, 
         {
