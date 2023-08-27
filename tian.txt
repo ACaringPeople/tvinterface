@@ -1,10 +1,6 @@
 {
     "urls": [
         {
-            "url": "https://gitee.com/tiantuhao/honor/raw/master/tian.json",
-            "name": "个人最终gitee"
-        },
-        {
             "url": "https://jihulab.com/tiantuhao/honor/-/raw/master/tian.json",
             "name": "个人最终jihulab"
         },
@@ -31,11 +27,7 @@
         {
             "url":"https://qu.ax/ZDUu.json",
             "name":"个人最终quax网"
-        },
-        {
-            "url": "https://s2.pub/tian",
-            "name": "个人最终吾爱"
-        },        	
+        },     	
         {
             "url": "http://饭太硬.top/tv",
             "name": "🚀饭太硬线路"
