@@ -136,7 +136,7 @@
 			"key": "飞飞影视",
 			"name": "💞田|飞飞BPQ",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"api": "csp_XBPQ",
 			"ext": {
 				"分类url": "https://www.kaixinfang.com/vodshow/{cateId}-{area}-------{catePg}---{year}/",
@@ -147,7 +147,7 @@
 			"key": "csp_XBPQ_feifei",
 			"name": "💞田|飞飞BPQ2",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"searchable": "1",
 			"quickSearch": "1",
 			"filterable": "0",
@@ -168,7 +168,7 @@
 			"key": "9yyq",
 			"name": "💞田|九禹云Q",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"api": "csp_XBPQ",
 			"ext": {
 				"分类url": "https://v.jiuyuyun.xyz/index.php/vod/show/id/{cateId}/page/{catePg}.html"
@@ -219,23 +219,23 @@
       "key": "csp_101",
       "name": "💞田|摇玲影视",
       "type": 3,
-      "jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/101%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/101%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "csp_兔瓜",
       "name": "💞田|兔瓜影视",
       "type": 3,
-      "jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/%E5%85%94%E5%85%94%E7%93%9C.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/%E5%85%94%E5%85%94%E7%93%9C.json"
     },
 		{
 			"key": "77",
@@ -259,12 +259,12 @@
 			"key": "csp_花猫",
 			"name": "💞田|花猫影视",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
 		},
 		{
 			"key": "如意",
@@ -297,12 +297,12 @@
 			"key": "csp_Nmys",
 			"name": "💞田|农民直连",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/nmys.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/nmys.json"
 		},
 		{
 			"key": "csp_Ysgc",
@@ -384,7 +384,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto",
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/XYQ.jar"
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/XYQ.jar"
 		},
 		{
 			"key": "csp_AliPS",
@@ -396,7 +396,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto",
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/XYQ.jar"
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/XYQ.jar"
 		},
 		{
 			"key": "csp_XYQHikerAL_我的小站",
@@ -407,8 +407,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/%E6%88%91%E7%9A%84%E5%B0%8F%E7%AB%99.json",
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/XYQ.jar"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/%E6%88%91%E7%9A%84%E5%B0%8F%E7%AB%99.json",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/XYQ.jar"
 		},
 		{
 			"key": "csp_XYQHikerAL_阿里云盘网",
@@ -419,8 +419,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98%E7%BD%91.json",
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/XYQ.jar"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98%E7%BD%91.json",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/XYQ.jar"
 		},
 		{
 			"key": "csp_XYQHikerAL_橘子盘搜",
@@ -431,8 +431,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/%E6%A9%98%E5%AD%90%E7%9B%98%E6%90%9C.json",
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/XYQ.jar"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/%E6%A9%98%E5%AD%90%E7%9B%98%E6%90%9C.json",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/XYQ.jar"
 		},
 		{
 			"key": "csp_XYQHiker_DOVX搜索",
@@ -443,8 +443,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/DOVX%E6%90%9C%E7%B4%A2.json",
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/XYQ.jar"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/DOVX%E6%90%9C%E7%B4%A2.json",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/XYQ.jar"
 		},
 		{
       "key": "csp_XYQHiker_土拨鼠搜索",
@@ -455,8 +455,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/%E5%9C%9F%E6%8B%A8%E9%BC%A0%E6%90%9C%E7%B4%A2.json",
-      "jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/XYQ.jar;md5;4f4a7b576a92810cf89eb844520ae641"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/%E5%9C%9F%E6%8B%A8%E9%BC%A0%E6%90%9C%E7%B4%A2.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/XYQ.jar;md5;4f4a7b576a92810cf89eb844520ae641"
     },
     {
       "key": "csp_XYQHikerAL_豆豆飞",
@@ -467,8 +467,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/%E8%B1%86%E8%B1%86%E9%A3%9E.json",
-      "jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/XYQ.jar;md5;4f4a7b576a92810cf89eb844520ae641"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/%E8%B1%86%E8%B1%86%E9%A3%9E.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/XYQ.jar;md5;4f4a7b576a92810cf89eb844520ae641"
     },
     {
       "key": "csp_XYQHikerAL_云盘资源",
@@ -479,8 +479,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/%E4%BA%91%E7%9B%98%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB.json",
-      "jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/XYQ.jar;md5;4f4a7b576a92810cf89eb844520ae641"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/%E4%BA%91%E7%9B%98%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/XYQ.jar;md5;4f4a7b576a92810cf89eb844520ae641"
     },
 		{
 			"key": "csp_DiDuan",
@@ -519,7 +519,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/TVB.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/TVB.json"
 		},
 		{
 			"key": "csp_Auete",
@@ -585,7 +585,7 @@
 			"name": "💞田|泰泰APP",
 			"type": 3,
 			"api": "csp_AppYsV2",
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -599,7 +599,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"ext": "http://guan.yy365.vip/api.php/app/"
 		},
 		{
@@ -656,7 +656,7 @@
 			"name": "💞田|落落APP",
 			"type": 3,
 			"api": "csp_AppYs",
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -667,7 +667,7 @@
 			"name": "💞田|稻香APP",
 			"type": 3,
 			"api": "csp_AppYs",
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -678,7 +678,7 @@
 			"name": "💞田|八千APP",
 			"type": 3,
 			"api": "csp_AppYsV2",
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -689,7 +689,7 @@
 			"name": "💞田|蘑菇APP",
 			"type": 3,
 			"api": "csp_AppYs",
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -718,49 +718,49 @@
 			"key": "速映影视",
 			"name": "💞田|速映影视",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/suying.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/suying.json"
 		},
 		{
 			"key": "笑笑影视",
 			"name": "💞田|笑笑影视",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/xiaoxiao.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/xiaoxiao.json"
 		},
 	  {
       "key": "348",
       "name": "💞田|348BPQ",
       "type": 3,
-      "jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "api": "csp_XBPQ",
       "playerType": "1",
-      "ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/348.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/348.json"
     },
     {
       "key": "蘑菇",
       "name": "💞田|蘑菇BPQ",
       "type": 3,
-      "jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "api": "csp_XBPQ",
       "playerType": "1",
-      "ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/蘑菇.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/蘑菇.json"
     },
         {
       "key": "利播",
       "name": "💞田|利播BPQ",
       "type": 3,
-      "jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "api": "csp_XBPQ",
-      "ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/利播.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/利播.json"
     },
 		{
 			"key": "1080蓝光",
@@ -776,12 +776,12 @@
 			"key": "圣城影视",
 			"name": "💞田|圣城影视",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/sc1080.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/sc1080.json"
 		},
 		{
 			"key": "明帝影视",
@@ -797,7 +797,7 @@
 			"key": "无心影视",
 			"name": "💞田|无心影视",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"api": "csp_XBPQ",
 			"ext": {
 				"分类": "电影$1#剧集$2#动漫$4#动画片$20#综艺$3#短剧$29",
@@ -822,14 +822,14 @@
 			"filterable": 1,
 			"quickSearch": 1,
 			"searchable": 1,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/XYQ.jar",
-			"ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/%E4%B9%90%E7%8C%AA.json"
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/XYQ.jar",
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/%E4%B9%90%E7%8C%AA.json"
 		},
 		{
       "key": "深蓝影视",
       "name": "💞田|深蓝影视",
       "type": 3,
-      "jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "api": "csp_XBPQ",
       "ext": {
         "首页":"站长推荐",
@@ -848,7 +848,7 @@
 			"key": "龟龟",
 			"name": "💞田|龟龟BPQ",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"api": "csp_XBPQ",
 			"playerType": "1",
 			"ext": {
@@ -873,7 +873,7 @@
 			"key": "萌猫",
 			"name": "💞田|萌猫BPQ",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"api": "csp_XBPQ",
 			"playerType": "2",
 			"ext": {
@@ -907,7 +907,7 @@
 			"key": "莱米",
 			"name": "💞田|莱米BPQ",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"api": "csp_XBPQ",
 			"playerType": "1",
 			"ext": {
@@ -940,7 +940,7 @@
 			"key": "双黄",
 			"name": "💞田|双黄BPQ",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"api": "csp_XBPQ",
 			"ext": {
 				"嗅探词": "v3-dy-o.zjcdn#.m3u8#uc.cn",
@@ -958,7 +958,7 @@
 			"key": "土豪",
 			"name": "💞田|土豪BPQ",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"api": "csp_XBPQ",
 			"ext": {
 				"分类url": "https://tuhao.tv/vsh/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
@@ -982,7 +982,7 @@
 			"key": "鲸落",
 			"name": "💞田|鲸落BPQ",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
@@ -1018,7 +1018,7 @@
 			"key": "csp_XBPQ_JOJO",
 			"name": "💞田|JOJO",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -1041,7 +1041,7 @@
 			"key": "兔兔",
 			"name": "💞田|兔兔BPQ",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
@@ -1099,43 +1099,43 @@
 			"key": "素白",
 			"name": "💞田|素白BPQ",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"api": "csp_XBPQ",
 			"playerType": "1",
-			"ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/%E7%B4%A0%E7%99%BD.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/%E7%B4%A0%E7%99%BD.json"
 		},
 		{
 			"key": "奇优",
 			"name": "💞田|奇优BPQ",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"api": "csp_XBPQ",
 			"playerType": "1",
-			"ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/%E5%A5%87%E4%BC%98.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/%E5%A5%87%E4%BC%98.json"
 		},
 		{
 			"key": "速搜",
 			"name": "💞田|速搜BPQ",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"api": "csp_XBPQ",
 			"playerType": "1",
-			"ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/%E9%80%9F%E6%90%9C.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/%E9%80%9F%E6%90%9C.json"
 		},
 		{
 			"key": "热播库",
 			"name": "💞田|热播BPQ",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"api": "csp_XBPQ",
 			"playerType": "1",
-			"ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/%E7%83%AD%E6%92%AD.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/%E7%83%AD%E6%92%AD.json"
 		},
 		{
       "key": "csp_小鹿",
       "name": "💞田|小鹿BPQ",
       "type": 3,
-      "jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -1156,7 +1156,7 @@
 			"key": "金曼影视",
 			"name": "💞田|金曼BPQ",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"api": "csp_XBPQ",
 			"ext": {
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4",
@@ -1168,33 +1168,33 @@
 			"name": "💞田|星辰BPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"playerType": "1",
-			"ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/%E6%98%9F%E8%BE%B0.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/%E6%98%9F%E8%BE%B0.json"
 		},
 		{
 			"key": "零度",
 			"name": "💞田|️零┃BPQ",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"api": "csp_XBPQ",
 			"playerType": "1",
-			"ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/%E5%B0%8F%E5%88%80.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/%E5%B0%8F%E5%88%80.json"
 		},
 		{
 			"key": "石榴",
 			"name": "💞田|石榴BPQ",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"api": "csp_XBPQ",
 			"playerType": "1",
-			"ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/%E7%9F%B3%E6%A6%B4.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/%E7%9F%B3%E6%A6%B4.json"
 		},
 		{
 			"key": "串串",
 			"name": "💞田|串串BPQ",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"api": "csp_XBPQ",
 			"ext": {
 				"请求头": "手机#Referer$http://bczhuiju.com/",
@@ -1220,15 +1220,15 @@
 			"name": "💞田|耐看BPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"playerType": "1",
-			"ext": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/%E6%9D%A5%E7%9C%8B.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/%E6%9D%A5%E7%9C%8B.json"
 		},
 		{
 			"key": "看看",
 			"name": "💞田|看看BPQ",
 			"type": 3,
-			"jar": "https://jihulab.com/tiantuhao/GitHubHonor/-/blob/master/lib/5.jar",
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
 			"playerType": "1",
 			"changeable": 0,
 			"api": "csp_XBPQ",
