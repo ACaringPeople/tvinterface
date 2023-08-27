@@ -50,7 +50,7 @@
 			"changeable": 0
 		},
 		{
-			"key": "youku",
+			"key": "ytv",
 			"name": "💞田|优官",
 			"type": 3,
 			"jar": "https://tiantuhao.github.io/tvinterface/file/MySpiderBeta.jar",
@@ -70,7 +70,7 @@
 			"changeable": 0
 		},
 		{
-			"key": "cctv",
+			"key": "cc",
 			"name": "💞田|yang官",
 			"type": 3,
 			"jar": "https://tiantuhao.github.io/tvinterface/file/MySpiderBeta.jar",
@@ -215,6 +215,26 @@
       "changeable": 1,
       "ext": "https://www.libvio.fun/"
     },
+    {
+      "key": "csp_101",
+      "name": "🅱️摇玲影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/101%E5%BD%B1%E8%A7%86.json"
+    },
+    {
+      "key": "csp_兔瓜",
+      "name": "🅱️兔瓜影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/%E5%85%94%E5%85%94%E7%93%9C.json"
+    },
 		{
 			"key": "77",
 			"name": "💞田|七七App",
@@ -242,7 +262,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
 		},
 		{
 			"key": "如意",
@@ -1877,7 +1897,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/tvlive.txt",
+      "url": "https://tiantuhao.github.io/tvinterface/file/tvlive.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
