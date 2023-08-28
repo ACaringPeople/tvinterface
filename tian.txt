@@ -5,6 +5,11 @@
             "name": "个人最终codeberg"
         },
         {
+            "url": "https://framagit.org/tiantuhao/honor/-/raw/master/tian.json",
+            "name": "个人最终framagit"
+        },
+
+        {
             "url": "https://jihulab.com/tiantuhao/honor/-/raw/master/tian.json",
             "name": "个人最终jihulab"
         },
