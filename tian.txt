@@ -1,6 +1,10 @@
 {
     "urls": [
         {
+            "url": "https://codeberg.org/tiantuhao/honor/raw/branch/master/tian.json",
+            "name": "个人最终codeberg"
+        },
+        {
             "url": "https://jihulab.com/tiantuhao/honor/-/raw/master/tian.json",
             "name": "个人最终jihulab"
         },
