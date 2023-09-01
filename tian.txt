@@ -41,7 +41,7 @@
             "name":"🍒个人最终quax网"
         },
         {
-            "url":"https://qu.ax/AzWR.json",
+            "url":"https://jihulab.com/ghjdz/oppo/-/raw/main/OPPO.json",
             "name":"🍒oppo"
         },
         {
@@ -55,7 +55,6 @@
         {
             "url": "http://肥猫.love",
             "name": "🍒肥猫线路"
-        }
         }
     ]
 }
