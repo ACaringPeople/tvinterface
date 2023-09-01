@@ -2,55 +2,59 @@
     "urls": [
         {
             "url": "https://codeberg.org/tiantuhao/honor/raw/branch/master/tian.json",
-            "name": "个人最终codeberg"
+            "name": "🍒个人最终codeberg"
         },
         {
             "url": "https://framagit.org/tiantuhao/honor/-/raw/master/tian.json",
-            "name": "个人最终framagit"
+            "name": "🍒个人最终framagit"
         },
         {
             "url": "https://jihulab.com/tiantuhao/honor/-/raw/master/tian.json",
-            "name": "个人最终jihulab"
+            "name": "🍒个人最终jihulab"
         },
         {
             "url":"https://notabug.org/tiantuhao/honor/raw/master/tian.json",
-            "name":"个人最终notanbug"
+            "name":"🍒个人最终notanbug"
         },
         {
             "url": "https://tiantuhao.github.io/tvinterface/github.json",
-            "name": "个人最终Github1"
+            "name": "🍒个人最终Github1"
         }, 
         {
             "url": "https://s2.pub/GitHubHonor",
-            "name": "个人最终Github2"
+            "name": "🍒个人最终Github2"
         }, 
         {
             "url": "https://pan.shangui.cc/f/G5x0hz/tian.json",
-            "name": "个人最终跑路"
+            "name": "🍒个人最终跑路"
         },
          {
             "url": "https://download.kstore.space/download/4828/tian.json",
-            "name": "个人最终凯速网"
+            "name": "🍒个人最终凯速网"
         }, 
         {
             "url": "https://pastebin.com/raw/JUW1LYr0",
-            "name": "个人最终pastebin"
+            "name": "🍒个人最终pastebin"
         },  
         {
             "url":"https://qu.ax/AzWR.json",
-            "name":"个人最终quax网"
-        },     	
+            "name":"🍒个人最终quax网"
+        },
+        {
+            "url":"https://qu.ax/AzWR.json",
+            "name":"🍒oppo"
+        },
         {
             "url": "http://饭太硬.top/tv",
-            "name": "🚀饭太硬线路"
+            "name": "🍒饭太硬线路"
         },
         {
             "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "🚀小米线路"
+            "name": "🍒小米线路"
         },                      
         {
             "url": "http://肥猫.love",
-            "name": "🚀肥猫线路"
+            "name": "🍒肥猫线路"
         }
         }
     ]
