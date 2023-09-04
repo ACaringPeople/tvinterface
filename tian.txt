@@ -32,6 +32,10 @@
             "url": "https://pan.shangui.cc/f/G5x0hz/tian.json",
             "name": "🍒个人最终跑路"
         },
+        {
+            "url": "https://cloud.lxweb.cn/f/8q2U1/tian.json",
+            "name": "🍒个人最终天霜"
+        },
          {
             "url": "https://download.kstore.space/download/4828/tian.json",
             "name": "🍒个人最终凯速网"
