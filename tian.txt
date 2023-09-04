@@ -5,6 +5,10 @@
             "name": "🍒个人最终codeberg"
         },
         {
+            "url": "http://tiantuhao.3vkj.club/honor/tian.json",
+            "name": "🍒个人最终ftp"
+        },
+        {
             "url": "https://framagit.org/tiantuhao/honor/-/raw/master/tian.json",
             "name": "🍒个人最终framagit"
         },
