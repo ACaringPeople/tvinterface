@@ -9,7 +9,7 @@
             "name": "🍒个人最终ftp"
         },
         {
-            "url": "https://framagit.org/tiantuhao/honor/-/raw/master/tian.json",
+            "url": "https://framagit.org/tiantuhao/GitHubHonor/-/raw/master/tian.json",
             "name": "🍒个人最终framagit"
         },
         {
@@ -17,7 +17,7 @@
             "name": "🍒个人最终jihulab"
         },
         {
-            "url":"https://notabug.org/tiantuhao/honor/raw/master/tian.json",
+            "url":"https://notabug.org/tiantuhao/GitHubHonor/raw/master/tian.json",
             "name":"🍒个人最终notanbug"
         },
         {
