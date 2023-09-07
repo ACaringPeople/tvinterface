@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "https://codeberg.org/tiantuhao/honor/raw/branch/master/tian.json",
+            "url": "https://codeberg.org/tiantuhao/honor/raw/branch/master/honor.json",
             "name": "🍒个人最终codeberg"
         },
         {
@@ -9,7 +9,7 @@
             "name": "🍒个人最终ftp"
         },
         {
-            "url": "https://framagit.org/tiantuhao/GitHubHonor/-/raw/master/tian.json",
+            "url": "https://framagit.org/tiantuhao/GitHubHonor/-/raw/master/honor.json",
             "name": "🍒个人最终framagit"
         },
         {
@@ -17,7 +17,7 @@
             "name": "🍒个人最终jihulab"
         },
         {
-            "url":"https://notabug.org/tiantuhao/GitHubHonor/raw/master/tian.json",
+            "url":"https://notabug.org/tiantuhao/GitHubHonor/raw/master/honor.json",
             "name":"🍒个人最终notanbug"
         },
         {
@@ -25,7 +25,7 @@
             "name": "🍒个人最终Github1"
         }, 
         {
-            "url": "https://s2.pub/GitHubHonor",
+            "url": "https://raw.kgithub.com/tiantuhao/honor/master/honor.json",
             "name": "🍒个人最终Github2"
         }, 
         {
@@ -37,7 +37,7 @@
             "name": "🍒个人最终天霜"
         },
          {
-            "url": "https://download.kstore.space/download/4828/tian.json",
+            "url": "https://download.kstore.space/download/4828/honor.json",
             "name": "🍒个人最终凯速网"
         }, 
         {
@@ -55,14 +55,6 @@
         {
             "url": "http://饭太硬.top/tv",
             "name": "🍒饭太硬线路"
-        },
-        {
-            "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "🍒小米线路"
-        },                      
-        {
-            "url": "http://肥猫.love",
-            "name": "🍒肥猫线路"
         }
     ]
 }
