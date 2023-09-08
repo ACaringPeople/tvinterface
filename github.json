@@ -1,5 +1,5 @@
 {
-  "spider": "./oppo.jar;md5;f20b74480c058b1ff6236601f92d65a8",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -219,7 +219,7 @@
       "name": "🍒田|泰泰APP",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -250,7 +250,7 @@
       "name": "🍒田|落落APP",
       "type": 3,
       "api": "csp_AppYs",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -333,7 +333,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "ext": "https://www.kuin.one/api.php/app/"
     },
     {
@@ -393,7 +393,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/tutugua.json"
     },
     {
@@ -402,13 +402,13 @@
       "api": "csp_XBPQ",
       "type": 3,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/lezhu.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar"
     },
     {
       "key": "龟龟",
       "name": "🍒田|龟龟BPQ",
       "type": 3,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "api": "csp_XBPQ",
       "playerType": "1",
       "ext": {
@@ -433,7 +433,7 @@
       "key": "萌猫",
       "name": "🍒田|萌猫BPQ",
       "type": 3,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "api": "csp_XBPQ",
       "playerType": "2",
       "ext": {
@@ -467,7 +467,7 @@
       "key": "莱米",
       "name": "🍒田|莱米BPQ",
       "type": 3,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "api": "csp_XBPQ",
       "playerType": "2",
       "ext": {
@@ -500,7 +500,7 @@
       "key": "双黄",
       "name": "🍒田|双黄BPQ",
       "type": 3,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "api": "csp_XBPQ",
       "ext": {
         "嗅探词": "v3-dy-o.zjcdn#.m3u8#",
@@ -517,7 +517,7 @@
       "key": "土豪",
       "name": "🍒田|土豪BPQ",
       "type": 3,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "api": "csp_XBPQ",
       "ext": {
         "分类url": "https://tuhao.tv/vsh/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;m",
@@ -584,7 +584,7 @@
       "key": "热播库",
       "name": "🍒田|热播BPQ",
       "type": 3,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "api": "csp_XBPQ",
       "playerType": "1",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/rebo.json"
@@ -593,7 +593,7 @@
       "key": "csp_小鹿",
       "name": "🍒田|小鹿BPQ",
       "type": 3,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -622,7 +622,7 @@
       "key": "看看",
       "name": "🍒田|看看BPQ",
       "type": 3,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "playerType": "1",
       "changeable": 0,
       "api": "csp_XBPQ",
@@ -650,7 +650,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "playerType": "1",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "api": "csp_XBPQ",
       "ext": {
         "站名": "黑狐影院",
@@ -689,7 +689,7 @@
       "key": "臭蛋",
       "name": "🍒田|臭蛋BPQ",
       "type": 3,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "api": "csp_XBPQ",
       "ext": {
         "主页url": "https://cddys.vip/",
@@ -706,7 +706,7 @@
       "key": "夜幕",
       "name": "️🍒田|夜夜BPQ",
       "type": 3,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -741,7 +741,7 @@
       "key": "滋滋",
       "name": "🍒田|滋滋BPQ",
       "type": 3,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "api": "csp_XBPQ",
       "playerType": "1",
       "ext": {
@@ -776,7 +776,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "ext": {
         "数组": "class=\"top&&</li",
         "嗅探词": ".m3u8#.mp4#download-cdn.123pan.cn",
@@ -814,7 +814,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/suyingyingshi.json"
     },
     {
@@ -843,7 +843,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/101.json"
     },
     {
@@ -864,14 +864,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/348.json"
     },
     {
       "key": "兔兔",
       "name": "🍒田|兔兔BPQ",
       "type": 3,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": "2",
@@ -973,7 +973,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "ext": {
         "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m",
         "分类": "电影&剧集&动漫&综艺",
@@ -997,7 +997,7 @@
       "name": "🍒田|虎虎BPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/huhu.json"
     },
     {
@@ -1008,7 +1008,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/xinshijue.json"
     },
     {
@@ -1016,7 +1016,7 @@
       "name": "🍒田|耐看BPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/lib/5.jar",
       "playerType": "1",
       "ext": {
         "影片类型": "<div class=\"module-blocklist\">&&</div>",
