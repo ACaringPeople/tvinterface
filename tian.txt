@@ -2,51 +2,55 @@
     "urls": [
         {
             "url": "https://codeberg.org/tiantuhao/honor/raw/branch/master/honor.json",
-            "name": "🍒个人最终codeberg"
+            "name": "🍒个人codeberg"
         },
         {
             "url": "http://tiantuhao.3vkj.club/honor/tian.json",
-            "name": "🍒个人最终ftp"
+            "name": "🍒个人ftp"
+        },
+        {
+            "url": "https://honor.4lima.de/honor.json",
+            "name": "🍒个人limaFtp"
         },
         {
             "url": "https://framagit.org/tiantuhao/GitHubHonor/-/raw/master/honor.json",
-            "name": "🍒个人最终framagit"
+            "name": "🍒个人framagit"
         },
         {
             "url": "https://jihulab.com/tiantuhao/honor/-/raw/master/tian.json",
-            "name": "🍒个人最终jihulab"
+            "name": "🍒个人jihulab"
         },
         {
             "url":"https://notabug.org/tiantuhao/GitHubHonor/raw/master/honor.json",
-            "name":"🍒个人最终notanbug"
+            "name":"🍒个人notanbug"
         },
         {
             "url": "https://tiantuhao.github.io/tvinterface/github.json",
-            "name": "🍒个人最终Github1"
+            "name": "🍒个人Github1"
         }, 
         {
             "url": "https://raw.kgithub.com/tiantuhao/honor/master/honor.json",
-            "name": "🍒个人最终Github2"
+            "name": "🍒个人Github2"
         }, 
         {
             "url": "https://pan.shangui.cc/f/G5x0hz/tian.json",
-            "name": "🍒个人最终跑路"
+            "name": "🍒个人跑路"
         },
         {
             "url": "https://cloud.lxweb.cn/f/8q2U1/tian.json",
-            "name": "🍒个人最终天霜"
+            "name": "🍒个人天霜"
         },
          {
             "url": "https://download.kstore.space/download/4828/honor.json",
-            "name": "🍒个人最终凯速网"
+            "name": "🍒个人凯速网"
         }, 
         {
             "url": "https://pastebin.com/raw/JUW1LYr0",
-            "name": "🍒个人最终pastebin"
+            "name": "🍒个人pastebin"
         },  
         {
             "url":"https://qu.ax/AzWR.json",
-            "name":"🍒个人最终quax网"
+            "name":"🍒个人quax网"
         },
         {
             "url":"https://jihulab.com/ghjdz/oppo/-/raw/main/OPPO.json",
