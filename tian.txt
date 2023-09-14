@@ -29,7 +29,7 @@
             "name": "🍒个人Github1"
         }, 
         {
-            "url": "https://raw.kgithub.com/tiantuhao/honor/master/honor.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/honor.json",
             "name": "🍒个人Github2"
         }, 
         {
