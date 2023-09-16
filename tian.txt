@@ -5,7 +5,7 @@
             "name": "🍒个人codeberg"
         },
         {
-            "url": "http://tiantuhao.3vkj.club/honor/tian.json",
+            "url": "http://tiantuhao.3vkj.club/honor/honor.json",
             "name": "🍒个人ftp"
         },
         {
@@ -59,6 +59,10 @@
         {
             "url": "http://饭太硬.top/tv",
             "name": "🍒饭太硬线路"
+        },
+        {
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "🍒小米线路"
         }
     ]
 }
