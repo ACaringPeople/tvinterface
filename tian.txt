@@ -17,7 +17,7 @@
             "name": "🍒个人framagit"
         },
         {
-            "url": "https://jihulab.com/tiantuhao/honor/-/raw/master/tian.json",
+            "url": "https://jihulab.com/tiantuhao/GitHubHonor/-/raw/master/honor.json",
             "name": "🍒个人jihulab"
         },
         {
