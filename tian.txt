@@ -29,7 +29,7 @@
             "name": "🍒个人Github1"
         }, 
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/acaringpeople/honor/master/honor.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/ACaringPeople/honor/master/honor.json",
             "name": "🍒个人Github2"
         }, 
         {
