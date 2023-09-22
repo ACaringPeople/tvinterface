@@ -25,11 +25,11 @@
             "name":"🍒个人notanbug"
         },
         {
-            "url": "https://tiantuhao.github.io/tvinterface/github.json",
+            "url": " https://acaringpeople.github.io/tvinterface/github.json",
             "name": "🍒个人Github1"
         }, 
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tiantuhao/honor/master/honor.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/acaringpeople/honor/master/honor.json",
             "name": "🍒个人Github2"
         }, 
         {
