@@ -53,7 +53,7 @@
             "name":"🍒个人quax网"
         },
         {
-            "url":"https://jihulab.com/ghjdz/oppo/-/raw/main/OPPO.json",
+            "url":"https://jihulab.com/ghjdz/oppo/-/raw/main/ghjdz.json",
             "name":"🍒oppo"
         },
         {
