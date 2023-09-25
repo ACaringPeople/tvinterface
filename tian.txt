@@ -53,6 +53,10 @@
             "name":"🍒个人quax网"
         },
         {
+            "url": "https://codeberg.org/tiantuhao/honor/raw/branch/master/bocai.json",
+            "name": "🍒个人菠菜接口"
+        }, 
+        {
             "url":"https://jihulab.com/ghjdz/oppo/-/raw/main/ghjdz.json",
             "name":"🍒oppo"
         },
