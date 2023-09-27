@@ -81,6 +81,17 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/cc.json"
     },
+   {
+   "key": "bili_open",
+   "name": "官B",
+   "type": 3,
+   "api": "csp_Bili",
+   "searchable": 1,
+   "filterable": 0,
+   "changeable": 0,
+   "ext":"https://ghproxy.com/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/bilibili.json",
+   "jar":"https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
+   },
     {
       "key": "csp_Bili",
       "name": "🍒田|哔哔合集",
