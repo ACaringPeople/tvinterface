@@ -47,14 +47,10 @@
         {
             "url": "https://pastebin.com/raw/JUW1LYr0",
             "name": "🍒个人pastebin"
-        },  
-        {
-            "url":"https://qu.ax/AzWR.json",
-            "name":"🍒个人quax网"
         },
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/ACaringPeople/honor/master/caiji.json",
-            "name": "🍒个人菠菜接口"
+            "name": "🍒个人caiji"
         }, 
         {
             "url":"https://tv.jukemf.com/tvbox/oppo/ghjdz.json",
