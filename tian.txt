@@ -29,7 +29,7 @@
             "name": "🍒个人Github1"
         }, 
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/ACaringPeople/honor/master/honor.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ACaringPeople/honor/master/honor.json",
             "name": "🍒个人Github2"
         }, 
         {
@@ -53,11 +53,11 @@
             "name":"🍒个人quax网"
         },
         {
-            "url": "https://codeberg.org/tiantuhao/honor/raw/branch/master/bocai.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ACaringPeople/honor/master/caiji.json",
             "name": "🍒个人菠菜接口"
         }, 
         {
-            "url":"https://jihulab.com/ghjdz/oppo/-/raw/main/ghjdz.json",
+            "url":"https://tv.jukemf.com/tvbox/oppo/ghjdz.json",
             "name":"🍒oppo"
         },
         {
