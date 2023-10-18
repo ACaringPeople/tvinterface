@@ -13,7 +13,7 @@
 		},
 		{
 			"key": "应用商店",
-			"name": "应用商店",
+			"name": "🍒田|应用商店",
 			"type": 3,
 			"jar": "https://ghps.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 			"api": "csp_Market",
@@ -78,7 +78,7 @@
 		},
 		{
 			"key": "huya",
-			"name": "JustLive虎牙｜直播",
+			"name": "🍒田|虎牙直播",
 			"type": 3,
 			"api": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/huya_open.js",
 			"ext": {
