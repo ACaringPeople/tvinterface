@@ -5,6 +5,10 @@
             "name": "🍒个人codeberg"
         },
         {
+            "url": "https://gitcode.net/qq_23897013/honor/-/raw/master/honor.json",
+            "name": "🍒个人gitcode"
+        },
+        {
             "url": "http://tiantuhao.3vkj.club/honor/honor.json",
             "name": "🍒个人ftp"
         },
