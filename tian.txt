@@ -53,7 +53,7 @@
             "name": "🍒个人凯速网"
         }, 
         {
-            "url": "https://pastebin.com/raw/JUW1LYr0",
+            "url": "https://pastebin.com/raw/ybMxJiX7",
             "name": "🍒个人pastebin"
         },
         {
