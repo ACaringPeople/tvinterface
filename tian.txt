@@ -53,11 +53,7 @@
             "name": "🍒个人凯速网"
         }, 
         {
-            "url": "https://pastebin.com/raw/ybMxJiX7",
-            "name": "🍒个人pastebin"
-        },
-        {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ACaringPeople/honor/master/caiji.json",
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/ACaringPeople/honor/master/caiji.json",
             "name": "🍒个人caiji"
         }, 
         {
