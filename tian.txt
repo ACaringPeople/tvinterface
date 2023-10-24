@@ -37,6 +37,10 @@
             "name": "🍒个人Github2"
         }, 
         {
+            "url": "https://us1.wuaipan.com/api/v3/slave/source/1048576/dXBsb2Fkcy8yMDIzLzA4LzIxL1luckVhQWFVX3RpYW4uanNvbg/honor.json?sign=aV0LS5-EPoPytxw1S31XSPm0fpNFGEwBwRLRRcwBobU%3D%3A0",
+            "name": "🍒个人吾爱"
+        },
+        {
             "url": "https://pan.shangui.cc/f/G5x0hz/tian.json",
             "name": "🍒个人跑路"
         },
