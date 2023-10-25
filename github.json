@@ -1446,7 +1446,7 @@
 		"url": "https://json.oorl.cn//api/?key=4CEQglgw0yNb4BVxq2&url="
 	  },
     {
-    	"聚合1",
+    	"name":"聚合1",
       "type": 3,
       "url": "Demo"
     },
