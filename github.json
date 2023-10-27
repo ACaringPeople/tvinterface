@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "🍒田|豆瓣推荐",
+      "name": "🍒田|️豆瓣推荐",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -18,7 +18,7 @@
 			"api": "csp_Market",
 			"searchable": 0,
 			"changeable": 0,
-			"jar": "https://ghps.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+			"jar": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/custom_spider.jar",
 			"ext": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/market.json"
 		},
 		{
@@ -47,7 +47,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$弹"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$弹"
     },
     {
       "key": "贱贱",
@@ -229,7 +229,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTA8MND2wVtbm3ykpXXJ3bqXTQ0QXY5aa4ACm9djOMy2knm2EiXG8sW5g6aRAKRJjRnA/LOWYSnzESgqdPQKDtPWh4fhHsOhoVtp+X5gHQWNAPTdwLiEUYrQOCBAMaZaqxv0MMB5dPInMBPwj4oPNY9+tFWr04e951VEYXUQxQnysQQADx838e6ihlgsUzqcr1mU0wSCBZ7aw6em0LlqCi8Q2ZRdrz8zKIuN+nXZTeZx8nXbWlSFUw2O9lf2Hs4Pf87vf+g9Nk7qRCAHwQDsY62lPCqruUDkfKGV1FS0Afdl8L/QzvvsosjOb3hmPGhg+HCK8hhvjIhBORqTqs6sYW1iHeqkkm7Unr+KNC1+2stfYOhbvQ8Xxg51KdMMnDPSh0OX+opaZ8+5n5Wfc1laahI7hJ"
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdFaCsJaXjxO/+6vlgsLQ5varHTH2V6Poee7Djr8Jz/R+GIpgnJnQ3krSZ9SRy8UOIbtjH3TUm9NrVkdyuAzfem0fT9yKBXkOxVq28ux/jLTJMYnSI8n4EpQvk6AcXZDdLamk1stGuAZbzYeBh2My+RQq8g8DOoxWcAPNXU6TCF5jgsdTzPvgFskwBJVrfZjjcLynmEhXHwD36QAZUcqhamhzRyjdcb79DK8hcq2QozIfxkadpK4dn0jw8kudBzd9MPssMT5nMxQ6IVYREIIDc4V1n7BrbKIGxS3a1lDUk9zW38G12j+2tNw4fXClSbM81zAdcM5lLT66EPmpxSW2Jd/0Hff1QwiiAuu8NNT2/u5raxPwPzQtA=="
     },
     {
       "key": "一念",
@@ -925,7 +925,7 @@
     },
     {
       "key": "js_DJ5",
-      "name": "🕊DJ5短剧",
+      "name": "🍒田|DJ5短剧",
       "type": 3,
       "api": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/drpy1.min.js",
       "searchable": 1,
@@ -935,7 +935,7 @@
     },
     {
       "key": "csp_XBPQ_aoaotv",
-      "name": "🕊嗷嗷短剧",
+      "name": "🍒田|嗷嗷短剧",
       "type": 3,
       "jar": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ab13.jar",
       "api": "csp_XBPQ",
@@ -1409,35 +1409,27 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
-			"key": "csp_Bili",
-			"name": "🍒田|哔哔合集",
-			"type": 3,
-			"jar": "https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar",
-			"api": "csp_Bili",
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
-			},
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/bilibili.json"
-		},
-		{
-			"key": "csp_Biliych",
-			"name": "🍒田|哔哔演唱会",
-			"type": 3,
-			"jar": "https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar",
-			"api": "csp_Bili",
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
-			},
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/biliych.json"
-		}
+      "key": "csp_Bili",
+      "name": "🍒田|哔哔合集",
+      "type": 3,
+      "jar":"https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/OpenSpider.jar",
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/bilibili.json"
+    },
+    {
+      "key": "csp_Biliych",
+      "name": "🍒田|哔哔演唱会",
+      "type": 3,
+      "jar":"https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/OpenSpider.jar",
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/biliych.json"
+    }
   ],
   "parses": [
     {
@@ -1446,7 +1438,7 @@
 		"url": "https://json.oorl.cn//api/?key=4CEQglgw0yNb4BVxq2&url="
 	  },
     {
-    	"name":"聚合1",
+      "name": "聚合1",
       "type": 3,
       "url": "Demo"
     },
