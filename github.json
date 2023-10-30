@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "🍒田|️豆瓣推荐",
+      "name": "🍒田|豆瓣推荐",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -47,7 +47,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$弹"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$弹"
     },
     {
       "key": "贱贱",
@@ -79,7 +79,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czz9.com/"
+      "ext": "https://www.czzy88.com/"
     },
     {
       "key": "探探",
@@ -111,7 +111,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.6080yy3.com/"
+      "ext": "https://www.hdmyy.com/"
     },
     {
       "key": "csp_Bttoo",
@@ -143,15 +143,6 @@
       "changeable": 1
     },
     {
-      "key": "JOJO",
-      "name": "🍒田|JOJO直连",
-      "type": 3,
-      "api": "csp_JOJO",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "毛驴",
       "name": "🍒田|毛驴直连",
       "type": 3,
@@ -169,7 +160,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://www.aueteys.com/"
+      "ext": "https://haozhansou.com/"
     },
     {
       "key": "DiDuan",
@@ -191,27 +182,6 @@
       "ext": "https://www.zxzj.pro/"
     },
     {
-      "key": "csp_Jianying",
-      "name": "🍒田|简影直连",
-      "type": 3,
-      "api": "csp_Jianying",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "1939514278@qq.com$$$GH123456789"
-    },
-    {
-      "key": "橘子",
-      "name": "🍒田|橘子App",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbc1AGIRPUzIPtbexyEhcScOf53TW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KzfJ8GvG6ETdzBCbfFw0WuoidvgjRb4EpUL8NqDk4unKXRBhjcoD99QoAIMsLc24lek3u9uBO+6JFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmfepqhEHQ08b/50BTD4Smp257RWMVpiQ1Tu3ht+MPo7oQAceapuyQGcL2fslXXHVrrb+9pyjtI9Qzph9HFoNJPIj5EXV+qGRI0CjSm9Dbm5nQFlZ6G2jvORw+5LMziXmuxDZH4U7qpnfjh/8hAu18546qyGmiWVI2mfDrKkVmeLq1KFA0rA="
-    },
-    {
       "key": "Mino",
       "name": "🍒田|MinoApp",
       "type": 3,
@@ -220,16 +190,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
-    },
-    {
-      "key": "热剧猫",
-      "name": "🍒田|热剧猫App",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdFaCsJaXjxO/+6vlgsLQ5varHTH2V6Poee7Djr8Jz/R+GIpgnJnQ3krSZ9SRy8UOIbtjH3TUm9NrVkdyuAzfem0fT9yKBXkOxVq28ux/jLTJMYnSI8n4EpQvk6AcXZDdLamk1stGuAZbzYeBh2My+RQq8g8DOoxWcAPNXU6TCF5jgsdTzPvgFskwBJVrfZjjcLynmEhXHwD36QAZUcqhamhzRyjdcb79DK8hcq2QozIfxkadpK4dn0jw8kudBzd9MPssMT5nMxQ6IVYREIIDc4V1n7BrbKIGxS3a1lDUk9zW38G12j+2tNw4fXClSbM81zAdcM5lLT66EPmpxSW2Jd/0Hff1QwiiAuu8NNT2/u5raxPwPzQtA=="
     },
     {
       "key": "一念",
@@ -278,33 +238,6 @@
       "api": "csp_AppMao",
       "playerType": 2,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTA5hPEi0VqbGzxElfS8iS6G6dxFvYo6amRiS2bHOKw3Esnj46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaM/FqHtLjQhalHiNTh6w9P3uBbzOpYja64omwk1u3D/dlZ+e5i4lng3PuAGTEUBPE34oPNY9+tFWr0Ibd9pVxAueSBD3QUsYQDulUET8DZ4nPtGpPvrhlgkKksJ9s4mWmxer4u57B2OO9qc8jua09TybbufTjMaeJGQem8U1MtbZnyk1e3UtOPZyIlX24R7PWpyLc4U0VzmkquLAB3kRiQZa1pOYUYuwm6vu/8spvSLhGbMhy+5bLc5qpPAk0mnh1ezzPQa03Cfg3JV6WGwrolC1+2steoOnaic6WQq9F2nYpq7a3QVfAbWyvIP+/mhJrtEycOuc999pfBr4Ub+yNWhIq06XaaI3EDX8h/oclhtPP9fIlIhPPNgZO/XgdX80PcGXdT2F0EtU+FJ+NoZjzcXq7OcD0dUFMudEpZ/ISVFLEQAhzFhoC3qYpmCY6xDrfjIL1W2Yh0LSk9qyfm9cw0EjDJZyt2PsVT3JxLuXjMgv0cdhPu2sTfBlL672ElQFkkjgpIL+YIQoLV69KeUYi3LYYjLFdixymHlDbdyGT19XRgwG5Z8t4e08xaRZXOd1ujQ/ZNncMJrpVQhY40mmnNcN2PHw5qapafKYcsoRMMM1d7R742jf5UE/zwNFXI+WRzxjrXerF/2fmmU0+8OGIVz9SWsllf++zV27ZOwFQ6qy07MrJ7TMEHHBrtYDaoFiOfBRLGyodnWIp1ZCPGqIxcA/5s+cdVwkd2wJdB1OKIqhz+Eg+0zmTRTFNUYUZWXvKEhDs7BuoaAQz5ArXla7xAg/F0Z1goy7k+xJZlmJlj1RJ5KdKlUvrDEQ8lCSIzPNPMz+g=="
-    },
-    {
-      "key": "布蕾影视",
-      "name": "🍒田|蕾蕾App",
-      "jar": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ab2.jar",
-      "type": 3,
-      "api": "csp_Appto",
-      "playerType": 2,
-      "ext": "WORXxxNkZ/qIm9P8Q2CsQoHSoD56ZMjPXTU1XhPjBeTgzFGjCvpUyPqE5Y6dWiwsSE/vPkW5b5oKcPiZVQlCfWmB6remhL7Xulwt9IU0jcZWpgqVp4RlS9Gi2C93UCL4i0XMpJFs0RIuS38ZfeBZcdLUOpBR+7XyE/MH6biUdL5TcOBRw+7DiK6M3KAckWDoWEn3Jc6WSCvUb+h6tHJPAoh6l8+fmTJZc+R+M4vRLjSmxS7LuK1PSBEwrh9Qaw+DEQPLSzq0fZPCR5BKmkV0YZnpys/ds+JBC0AS/bRNU9RYTOANYj4Im9cOnoy0Qsl1wwycAQ3PVkDCYbNaRQhUgCb/epnIgxjuqwTqWZPByZbOSA0COoCzA6K6MCUftxSJAKaMCOsUuWuorH9qSIMmQ6IFvQr+4JhTrtpZvF3aU2HWDDgCJZxRTS4jnRhYvgwUEQ0JZlUzinPnaPP/8oCwl+OM2qsNXAYoGCReqFrX0iMZbPs2BNcTjACIo8WAEQJiZgfl1FYOVnc4vnq4W0bT37mSqssct47Ri29fzaiQS9LizQEUZs3Fq3l0V1u71z9SnRW66v/IgNXQWyHFp4Y8p6BY9YmDj0OwK1TrzyMkD5yDz354kF4LMCm1NfV69DGIDhMX9m2+tmbHiQIwiMCL+DYWOSzSVb9M4tJOvQgO+5L2zYiuXc+7Q38GmNW6V400Nw/e+4sCX/uP/Fh4QnwarO2dN64WuSgUlLeDItGd4PcM86KlXRDWxt7hvJQ/TQWE/cRO726YUDeAqAOeoGQuRGiViHDrDqWF1OpSJxzpX/Re6CgYYFb5aulcJBDcoapdkpNAE1Ub3uynJpQl9N97cwtPJa0KOGMlho4pjPU3eVuNlWmFUwLBpH59v6EOO5l0a0Ds1du+GDhiCdaOZyinMTS1H4ft7mFxVZjN/xS1iSt/lYZGyDwhwqFyUHCRvCBLXNEq4iD/FW5zu78v1ktWaNilXePWcih5Sf50Laob5Fl6URRDBvRg9xGQiUsWWSAOFJ2yWAwOn5VY6Xrs8wxhbefROlbVilFdVQ3xlQEoaCNL8UA6WGpib+av4k+JGkA0FssuXJH+YAw2wRGCnvenLf/n5oRY9UKWfx2Oo6gMicFPRUEo7k1oyYPN5DalAMG9+bqnGmoxRd2P+sLVodbtJ+IpQh3dGYcd479mjLSrJVbpbSwcDekLNn0ulABDXM+0UEoec/uSBLB+eaYUh6XgCzSredKyBDaSrr6gy1EcekfmHez0Q4k0JoWl3EqKpkLyoevW9rBpTgNsBXcx4jvpIejDmJMzXGdPVdTP8SS50PQceGczP4+VAkD0NKa9SKHZLGf5Q4pKqd4+NI902VSow5g=="
-    },
-    {
-      "key": "喵喵影视",
-      "name": "🍒田|喵喵App",
-      "type": 3,
-      "jar": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ab2.jar",
-      "api": "csp_Appto",
-      "playerType": 2,
-      "ext": "XRZspkas5l6NsZJWpEURh6BqKRxqCIw3QY+Bj3/9Gbahdt/I/fP2xq6LIBnrWE8xh45v/vHcmXllR1G9Po2b5t7Z8VyUowvfHsXJA/bkW7XAzegsRcxq8ZqYgUtJTGeh4UtuRrbaaKK5cL96vwgHLQ9hOn8jppN5pZgJ3ZsWQuocwI45MZOaQqi7aNyJmi0PxTt07Djk0kqVoxoHrNGjT2BH7H4K65HXLRMWhyrWswhbnSciFfwjen91iAeJaMuwqQEWSRhShJWb6WTtjXghM8JBksS0432c31evYyFEEq5yiCHTpSm35nFsLmwiI2Q0F20FTMvOA8xIKqGyazVjCVUN3gc0LDqnLWBLFdxsJHh6asndaxPCn7UitiRVuW0Ans3FzhINr5QayshrUtqJHan9h7ItRlx8XkvCh83eWkuRoGBiPC4X/mcbrawRwOM04jIRiRhJl9Dit+b5Rw35Ugvd8qzARtaLkecNFS54zX1UfVJecKBrqSyl0dx8pk2EyG1vZZ0NnnZ2JMuBvywc0gxO45mAnyMM46+igcv76u4DkqA0wFVKHtLXu5TNbOZOfLnnMChe0PdbnQva25mMHgtHYHfZbYlldh6fPdMOidoaiyg+Yd/n1xgoo16k9zclT+ioH6OBrsKG2GYlFVFxLI4bwm+v6zk237jlWXg5bj4Q="
-    },
-    {
-      "key": "艾艾",
-      "name": "🍒田|艾艾App",
-      "type": 3,
-      "jar": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ab2.jar",
-      "api": "csp_Appto",
-      "playerType": 2,
-      "ext": "hcAuLY8Gg7Eb0oRkB84jw+9rQLeiFinDuZH5RMmF6KKO8irmlYhtPQnzRpQe4LPY98R+w/5FmQ0qHpjZJi2IO6Jhj3g50wP9mK/hGAw0EyahT8kphU0Uq+3kgSSMo7xszUGN9EwRotCqpXDfs2g4Cb/mdPhy8Q3I+QIck7eFAPLquyGgZS9WsK/GEwH5WbMKWMQxEhakYUrj0NV1WwSeHOVAuhsgn+Pewj71uD4AOk2UzeTmLbhwvqrRo5zcYCdCzh+e3pUpbuAtK/zaxi7r64ASfqb64bP8TPizK03pSz4b5ksSfBXaFY9HgVOl1ybO7EZS5fttTHxgPNslV+JC3Xhci41Dw8TnXR4ou92WZsj+X9bJAJlDOmLERN0e8hael2DuBA1AR1HaYpSbxPioonGsbr3SheAKfra/RvtjVXciKokPaWRxCNPSlZF8+wKsr9UG4IC35I07Xf5VHfdr9fOH1cCxi+JIS6tZDWg3B858ae1tm24USJsLnHhx2gG/j0X+h0Z4uCCA/uFPqJNZZJ56EqiyG3ZHfdDr0hwKbPTXi1IYSzLz/sYovi1dubRG+ht7C4yaYaZgjllWpkM2i8sG9vvpzF0YXuPrCDEg0B2x+KFpgnMZ2sfY864BRWI5z7JMt4rZhiE2la+PJ3Bw5e+C5/o8UJ4iR0CsirL03EFU="
     },
     {
       "key": "追忆影视",
@@ -514,27 +447,8 @@
       }
     },
     {
-      "key": "蜗牛2",
+      "key": "蜗牛",
       "name": "🍒田|蜗牛影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playStartTime": 15,
-      "jar": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ab13.jar",
-      "ext": {
-        "二次截取": "module-items&&<footer id=+module-item-cover",
-        "数组": "module-item-pic&&module-item-cover",
-        "副标题": "module-item-text*>&&</div>",
-        "简介": "剧情：</span>&&</span>",
-        "搜索模式": "0",
-        "播放数组": "\"module-blocklist\">&&</div>",
-        "播放标题": "<span>&&</span>",
-        "分类": "电影$1#海外剧$2#日韩剧$21#动漫$20",
-        "分类url": "https://v.woniufan.cn/index.php/vod/show/id/{cateId}/page/{catePg}.html;;m"
-      }
-    },
-    {
-      "key": "牛牛",
-      "name": "🍒田|牛牛影视",
       "type": 3,
       "jar": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ab13.jar",
       "api": "csp_XBPQ",
@@ -547,8 +461,8 @@
       }
     },
     {
-      "key": "云播",
-      "name": "🍒田|云播影视",
+      "key": "热播库",
+      "name": "🍒田|热播影视",
       "type": 3,
       "changeable": 1,
       "jar": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ab13.jar",
@@ -640,79 +554,6 @@
       }
     },
     {
-      "key": "子子",
-      "name": "🍒田|子子影视",
-      "type": 3,
-      "changeable": 1,
-      "jar": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ab13.jar",
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": {
-        "站名": "子子影视",
-        "主页url": "https://www.ziziys.com",
-        "免嗅": "1",
-        "二次截取": "1&&-1+module-item-cover",
-        "数组": "module-item-pic&&module-item-cover",
-        "副标题": "class=\"module-item-text\">&&</div",
-        "导演": "导演：&&</div",
-        "主演": "主演：&&</div",
-        "简介": "<p>&&</p>",
-        "线路数组": "class=\"module-tab-item tab-item&&</div>",
-        "线路标题": "<span>&&</small>[替换:</span><small>>>更新]+集",
-        "播放标题": "<span>&&</span>",
-        "播放数组": "class=\"module-blocklist scroll-box&&</div>",
-        "搜索模式": "1",
-        "搜索url": "https://www.ziziys.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
-        "搜索二次截取": "\"list\":[&&]",
-        "搜索数组": "{&&}",
-        "搜索标题": "\"name\":\"&&\"",
-        "搜索图片": "\"pic\":\"&&\"",
-        "搜索链接": "https://www.ziziys.com/vdetail/+\"id\":&&,+html",
-        "分类": "最新推荐$17#动作片$6#剧情片$7#喜剧片$8#爱情片$9#惊悚片$10#奇幻片$11#悬疑片$12#动漫片$23#恐怖片$24#日韩剧$15#国漫$20#日漫$21#欧美动漫$22#国产剧$13#美剧$14#日韩剧$15",
-        "分类url": "https://www.ziziys.com/list/{cateId}-{catePg}.html;;val",
-        "跳转播放链接": "vod_class*url\":\"&&\""
-      }
-    },
-    {
-      "key": "了猪",
-      "name": "🍒田|乐猪影视",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_XBPQ",
-      "changeable": 1,
-      "jar": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ab13.jar",
-      "ext": {
-        "站名": "乐猪影视",
-        "主页url": "http://www.lezhutv.com/",
-        "请求头": "手机",
-        "简介": "tbox_js\"&&</div>",
-        "导演": "导演：&&</p>",
-        "主演": "主演：&&</p>",
-        "影片类型": "yac\"&&</p>",
-        "数组": "vbox_t item-lazy\"&&</a>",
-        "标题": "title=\"&&\"",
-        "副标题": "<span>&&</span>",
-        "图片": "data-original=\"&&\"",
-        "链接": "href=\"&&\"",
-        "搜索url": "/index.php?m=vod-search;post;wd={wd}",
-        "搜索模式": "1",
-        "搜索后缀": "/detail/",
-        "搜索数组": "vbox_t item-lazy\"&&</a>",
-        "搜索标题": "title=\"&&\"",
-        "搜索副标题": "<span>&&</span>",
-        "搜索图片": "data-original=\"&&\"",
-        "搜索链接": "href=\"&&\"",
-        "线路数组": "<h3>&&/h3>",
-        "线路标题": "</i>1.&&<[替换:在线视频(支持手机)1>>玉米无广2K]",
-        "播放数组": "list_block show\">&&</ul>",
-        "播放标题": ">&&</a>",
-        "播放列表": "<li>&&</li>",
-        "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
-        "嗅探词": "v3.toutiaovod.com#.m3u8#.mp4#/tos/#.mp4",
-        "分类url": "http://www.lezhutv.com/list/{cateId}_{catePg}_desc_{by}_{class}_{year}_{letter}_{area}_{lang}.html"
-      }
-    },
-    {
       "key": "淘剧",
       "name": "🍒田|淘剧影视",
       "type": 3,
@@ -749,43 +590,6 @@
         "免嗅": "0",
         "分类url": "http://dyxz.tv/list/{cateId}_{catePg}.html",
         "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
-      }
-    },
-    {
-      "key": "348",
-      "name": "🍒田|348影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ab13.jar",
-      "ext": {
-        "头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36#Referer$https://www.348z.pro/",
-        "站名": "348电影网",
-        "主页url": "https://www.348z.com",
-        "免嗅": "1",
-        "嗅探词": ".m3u8#cn-beijing-data.aliyundrive.net#.mp4#alicloudccp.com",
-        "导演": "导演：</span>&&</p",
-        "主演": "主演：</span>&&</p",
-        "副标题": "class=\"pack-prb hidden\">&&</span>",
-        "简介": "简介：</span>&&</p>",
-        "数组": "class=\"aplus-exp ecimgbor&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "线路名二次截取": "<div class=\"cf swiper-wrapper\">&& <div id=\"tagContent",
-        "线路数组": "<a class=\"channelname swiper-slide&&/a>",
-        "线路标题": "&nbsp;&&<",
-        "播放请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36#Referer$https://www.348z.pro/",
-        "播放数组": "class=\"content_playlist&&</ul>",
-        "搜索url": "https://www.348z.com/vodsearch.html?wd={wd}",
-        "搜索模式": "1",
-        "搜索二次截取": "class=\"ec-search&&</ul",
-        "搜索数组": "<a&&class=\"right cor3",
-        "搜索图片": "data-original=\"&&\"",
-        "搜索标题": "title=\"&&\"",
-        "搜索副标题": "class=\"pack-prb\"&&</span",
-        "搜索链接": "href=\"&&\"",
-        "搜索链接前缀": "https://www.348z.com",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-        "分类url": "https://www.348z.com/vodshow/{area}/{class}/id/{cateId}/page/{catePg}/{year}.html;;m"
       }
     },
     {
@@ -893,37 +697,6 @@
       }
     },
     {
-      "key": "热播库",
-      "name": "🍒田|热播影视",
-      "type": 3,
-      "changeable": 1,
-      "jar": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ab13.jar",
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": {
-        "主页url": "https://rebozj.pro",
-        "数组": "class=\"stui-vodlist__thumb lazyload&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "副标题": "class=\"pic-text text-right\"><b>&&</span>",
-        "搜索模式": "1",
-        "嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
-        "搜索url": "https://rebozj.pro/type/id-.html?wd={wd}",
-        "线路数组": "<h4 class=\"title&&/h4>",
-        "线路标题": ">&&<",
-        "播放列表": "<a&&/a>",
-        "播放标题": ">&&<",
-        "影片类型": "类型：&&</p>",
-        "导演": "导演：&&</p>",
-        "主演": "主演：&&</p>",
-        "简介": "display: none;\">&&</span>",
-        "分类": "电视剧$2#电影$1#综艺$3#动漫$4",
-        "分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a",
-        "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
-      }
-    },
-    {
       "key": "js_DJ5",
       "name": "🍒田|DJ5短剧",
       "type": 3,
@@ -946,6 +719,16 @@
         "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
         "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
       }
+    },
+    {
+      "key": "玉米",
+      "name": "🍒田|玉米资源",
+      "type": 0,
+      "api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/",
+      "playUrl": "json:https://www.qiaoji8.com/tvbox/json.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "秒看资源",
@@ -1384,6 +1167,7 @@
       "name": "🍒田|360",
       "type": 3,
       "api": "csp_SP33",
+      "playUrl": "json:https://json.oorl.cn//api/?key=4CEQglgw0yNb4BVxq2&url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1391,17 +1175,17 @@
     },
     {
       "key": "py_cctv",
-      "name": "🍒田|CC",
+      "name": "🍒田|CCTV(官)",
       "type": 3,
       "api": "py_cctv",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/cc.json"
+      "ext": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/cctv.json"
     },
     {
       "key": "push_agent",
-      "name": "🍒田|手机推送",
+      "name": "🛴手机推送",
       "type": 3,
       "api": "csp_Push",
       "searchable": 0,
@@ -1410,10 +1194,14 @@
     },
     {
       "key": "csp_Bili",
-      "name": "🍒田|哔哔合集",
+      "name": "🅱哔哔合集",
       "type": 3,
       "jar":"https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/OpenSpider.jar",
       "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
@@ -1421,10 +1209,14 @@
     },
     {
       "key": "csp_Biliych",
-      "name": "🍒田|哔哔演唱会",
+      "name": "🅱哔哔演唱会",
       "type": 3,
       "jar":"https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/OpenSpider.jar",
       "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
@@ -1615,10 +1407,11 @@
   ],
   "rules": [
     {
-      "name": "lz",
+      "name": "量子",
       "hosts": [
         "vip.lz",
         "hd.lz",
+        "v.cdnlz1",
         "v.cdnlz"
       ],
       "regex": [
@@ -1627,12 +1420,14 @@
       ]
     },
     {
-      "name": "农民",
+      "name": "非凡",
       "hosts": [
-        "toutiaovod.com"
+        "vip.ffzy",
+        "hd.ffzy"
       ],
       "regex": [
-        "video/tos/cn"
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
       ]
     },
     {
@@ -1648,21 +1443,9 @@
       ]
     },
     {
-      "name": "ff",
+      "name": "暴風",
       "hosts": [
-        "vip.ffzy",
-        "hd.ffzy"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-      ]
-    },
-    {
-      "name": "bf",
-      "hosts": [
-        "bfzy",
-        "s5.bfzycdn"
+        "bfzy"
       ],
       "regex": [
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
