@@ -29,7 +29,7 @@
             "name":"🍒个人notanbug"
         },
         {
-            "url": " https://acaringpeople.github.io/tvinterface/github.json",
+            "url": "https://acaringpeople.github.io/tvinterface/github.json",
             "name": "🍒个人Github1"
         }, 
         {
