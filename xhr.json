@@ -1,5 +1,5 @@
 {
-"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar",
+"spider":"https://ghproxy.net/https://raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar",
 "lives": [{"name": "Home","url": "./file/live.txt","type": 0,"playerType": 1,"ua": "okhttp/3.12.13","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},{"name": "Open","url": "./file/xhrlive.txt","type": 0,"playerType": 1,"ua": "okhttp/3.12.13","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "sites": [
     {"key":"douban","name":"🔏豆瓣推荐","type":3,"api":"csp_DouBan","quickSearch":1,"filterable":0,"changeable":0},
