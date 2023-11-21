@@ -24,7 +24,7 @@
   "filterable": 1,
   "quickSearch": 0,
   "changeable": 0
-}，
+},
  {
       "key": "csp_WoGG",
       "name": "👽玩偶哥哥┃4K",
@@ -1285,7 +1285,7 @@
 {"name":"解析7","type":1,"url":"https://rx.bt5v.com/json/jsonindex.php/?url="},
 {"name":"解析8","type":1,"url":"https://www.nxflv.com/?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"解析9","type":1,"url":"http://3.37.195.161:54371/parse/api/无名.js?url=","header":{"User-Agent":"Mozilla/5.0"}}
-],
+]，
 "flags":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优酷","mgtv","imgo","芒果"],
 "rules": [{"name": "LZ","hosts": ["vip.lz","hd.lz"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
           {"name": "FF","hosts": ["vip.ffzy","hd.ffzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
