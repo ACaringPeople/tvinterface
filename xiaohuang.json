@@ -8,7 +8,7 @@
 	"type": 3,
 	"api": "http://lgz.hk3.xyyun.publicvm.com/直转点.js",
 	"ext": "http://lgz.hk3.xyyun.publicvm.com/直转点.txt"
-}，
+},
 {
 	"key": "cctv",
 	"name": "🔏官源|央视",
@@ -19,7 +19,7 @@
 	"filterable": 0,
 	"changeable": 0,
 	"ext": "./file/cctv.json"
-}，
+},
 {
 	"key": "美少女",
 	"name": "🔞美少女",
@@ -28,7 +28,7 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 0
-}，
+},
 {
 	"key": "zp011",
 	"name": "🔞78乐播",
@@ -37,7 +37,7 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 0
-}，
+},
 {
 	"key": "香奶儿资源",
 	"name": "🔞香奶儿",
