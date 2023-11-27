@@ -195,12 +195,15 @@ CCTV-17,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid
 
 河北综合,#genre#
 河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1701066679&k=965d856c99e1f1c012bf9dcea872b9c3
-河北影视剧台,https://tv.pull.hebtv.com/jishi/yingshijupindao.m3u8?t=2510710360&k=22da13f91d94e04e4935c5ed39dbdb62
+河北影视剧,https://tv.pull.hebtv.com/jishi/yingshijupindao.m3u8?t=2510710360&k=22da13f91d94e04e4935c5ed39dbdb62
 河北经济,https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=5ae52d7ff5118e85c19a12237a3518cb
-河北都市台,https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=0a371e84fa6980927f5b617687e1ad11
-河北公共台,https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=753a034a499730b224c99667ec91eb4e
+河北经济,http://live2.plus.hebtv.com/jjshx/hd/live.m3u8
+河北都市,https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=0a371e84fa6980927f5b617687e1ad11
+河北都市,http://live3.plus.hebtv.com/hbdsx/hd/live.m3u8
+河北公共,https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=753a034a499730b224c99667ec91eb4e
+河北公共,http://live7.plus.hebtv.com/hbggx/hd/live.m3u8
 河北农民台,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=1c19f1e16256d45e9fdcb9b6725647cc
-河北少儿科教台,https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=35e8479f6ac81ee25729454e88afa17c
+河北少儿科教,https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=35e8479f6ac81ee25729454e88afa17c
 河北|石家庄新闻,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
 河北|石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8
 河北|石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
