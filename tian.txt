@@ -29,7 +29,7 @@
             "name":"🍒个人notanbug"
         },
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ACaringPeople/tvinterface/main/github.json",
+            "url": "https://raw.githubusercontentS.com/ACaringPeople/tvinterface/main/github.json",
             "name": "🍒个人Github1"
         }, 
         {
