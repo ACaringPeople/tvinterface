@@ -14,7 +14,7 @@
         },
         {
             "url": "http://vipurl.icu/TVBOX/honor/DM1.json",
-            "name": "🍒个人ftpDM2接口"
+            "name": "🍒个人ftpDM1接口"
         },
         {
             "url": "http://tiantuhao.3vkj.club/honor/honor.json",
