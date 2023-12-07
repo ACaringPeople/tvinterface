@@ -56,6 +56,10 @@
             "url": "https://cloud.lxweb.cn/f/8q2U1/tian.json",
             "name": "🍒个人天霜"
         },
+        {
+            "url": "https://pan.ly93.cc/f/J7xiZ/honor.json",
+            "name": "🍒个人涟漪"
+        },
          {
             "url": "https://download.kstore.space/download/4828/honor.json",
             "name": "🍒个人凯速网"
