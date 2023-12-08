@@ -9,6 +9,10 @@
             "name": "🍒个人gitcode"
         },
         {
+            "url": "http://vipurl.icu/TVBOX/honor/honor.json",
+            "name": "🍒个人ftphonor"
+        },
+        {
             "url": "http://vipurl.icu/TVBOX/honor/DM.json",
             "name": "🍒个人ftpDM接口"
         },
