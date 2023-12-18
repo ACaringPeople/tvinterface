@@ -28,13 +28,13 @@
 			"searchable": 0,
 			"changeable": 0,
 			"jar": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/custom_spider.jar",
-			"ext": "./lib/market.json"
+			"ext": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/market.json"
 		},
 		{
 			"key": "douyu",
 			"name": "🍒田|斗鱼直播",
 			"type": 3,
-			"api": "./lib/douyu_open.js",
+			"api": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/douyu_open.js",
 			"ext": {
 				"from": "official",
 				"custom": "LOL,英雄联盟#wzry,王者荣耀"
@@ -44,7 +44,7 @@
 			"key": "huya",
 			"name": "🍒田|虎牙直播",
 			"type": 3,
-			"api": "./lib/huya_open.js",
+			"api": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/huya_open.js",
 			"ext": {
 				"from": "official",
 				"custom": "1,英雄联盟#2336,王者荣耀"
@@ -72,7 +72,7 @@
 				"type": "rect",
 				"ratio": 1
 			},
-			"ext": "./lib/PG推送.json"
+			"ext": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG推送.json"
 		},
 		{
 			"key": "玩偶哥哥1",
@@ -83,7 +83,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "./lib/PG推送.json$$$https://wogg.xyz/$$$null$$$1",
+			"ext": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG推送.json$$$https://wogg.xyz/$$$null$$$1",
 			"timeout": 30
 		},
 		{
@@ -123,7 +123,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"ext": "./lib/PG推送.json$$$https://wobge.run.goorm.io$$$1",
+			"ext": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG推送.json$$$https://wobge.run.goorm.io$$$1",
 			"timeout": 30
 		},
 		{
@@ -136,7 +136,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "./lib/PG推送.json",
+			"ext": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG推送.json",
 			"timeout": 60
 		},
 		{
@@ -145,10 +145,36 @@
 			"type": 3,
 			"jar": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
 			"api": "csp_TZFile",
-			"ext": "./lib/PG推送.json$$$null$$$1",
+			"ext": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG推送.json$$$null$$$1",
 			"quickSearch": 1,
 			"changeable": 0,
 			"timeout": 30
+		},
+		{
+			"key": "云盘资源",
+			"name": "🍒田|云盘网盘",
+			"type": 3,
+			"jar": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
+			"api": "csp_YunPanOne",
+			"changeable": 0,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG推送.json",
+			"timeout": 60
+		},
+		{
+			"key": "小云",
+			"name": "🍒田|小云网盘",
+			"type": 3,
+			"jar": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
+			"api": "csp_YunSo",
+			"changeable": 0,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG推送.json",
+			"timeout": 60
 		},
 		{
 			"key": "校长影视",
@@ -160,7 +186,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"ext": "./lib/PG推送.json$$$null$$$1",
+			"ext": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG推送.json$$$null$$$1",
 			"timeout": 30
 		},
 		{
@@ -173,7 +199,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 0,
-			"ext": "./lib/PG推送.json$$$null$$$1",
+			"ext": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG推送.json$$$null$$$1",
 			"timeout": 30
 		},
 		{
@@ -193,8 +219,8 @@
 			"name": "🍒田|爱盘网盘",
 			"type": 3,
 			"jar": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
-			"api": "./lib/drpy2.min.js",
-			"ext": "./lib/aipanso.js",
+			"api": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/drpy2.min.js",
+			"ext": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/aipanso.js",
 			"quickSearch": 1,
 			"changeable": 0,
 			"timeout": 30
@@ -397,7 +423,7 @@
 			"quickSearch": 1,
 			"changeable": 1,
 			"playerType": "1",
-			"api": "./lib/drpy1.min.js",
+			"api": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/drpy1.min.js",
 			"ext": "http://tv.jukemf.com/tvbox/oppo/jsjp.js"
 		},
 		{
@@ -428,7 +454,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "./lib/nmys.json"
+			"ext": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/nmys.json"
 		},
 		{
 			"key": "Xinsj",
@@ -638,8 +664,8 @@
 			"key": "赞赞",
 			"name": "🍒田|赞赞切片",
 			"type": 3,
-			"api": "./lib/drpy1.min.js",
-			"ext": "./lib/zanzan.js",
+			"api": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/drpy1.min.js",
+			"ext": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/zanzan.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0
@@ -649,7 +675,7 @@
 			"name": "🍒田|飞云切片",
 			"type": 3,
 			"api": "http://tv.jukemf.com/tvbox/oppo/js/drpy2.min.js",
-			"ext": "./lib/fy.js",
+			"ext": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/fy.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0
@@ -1583,7 +1609,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "./lib/cc.json"
+			"ext": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/cc.json"
 		},
 		{
 			"key": "push_agent",
@@ -1603,7 +1629,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"changeable": 0,
-			"ext": "./lib/bilibili.json"
+			"ext": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/bilibili.json"
 		},
 		{
 			"key": "csp_Biliych",
@@ -1614,7 +1640,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"changeable": 0,
-			"ext": "./lib/biliych.json"
+			"ext": "https://ghps.cc/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/biliych.json"
 		}
 	],
 	"parses": [
