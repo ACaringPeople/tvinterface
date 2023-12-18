@@ -2063,6 +2063,15 @@
 			"ua": "okhttp/3.15",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "exolive",
+			"type": 0,
+			"url": "https://raw.githubusercontentS.com/ACaringPeople/tvinterface/main/txt/zb.txt",
+			"playerType": 2,
+			"ua": "okhttp/3.15",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		}
 	],
 	"flags": [
