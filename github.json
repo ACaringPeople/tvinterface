@@ -27,7 +27,7 @@
 			"api": "csp_Market",
 			"searchable": 0,
 			"changeable": 0,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/custom_spider.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/custom_spider.jar",
 			"ext": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/market.json"
 		},
 		{
@@ -64,7 +64,7 @@
 			"key": "pg配置中心",
 			"name": "🍒田|pg配置中心",
 			"type": 3,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/pg.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
 			"api": "csp_Config",
 			"searchable": 0,
 			"changeable": 0,
@@ -78,7 +78,7 @@
 			"key": "玩偶哥哥1",
 			"name": "🍒田|玩偶PG版",
 			"type": 3,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/pg.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
 			"api": "csp_Wogg",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -90,7 +90,7 @@
 			"key": "ok配置中心",
 			"name": "🍒田|ok配置中心",
 			"type": 3,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/ok.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ok.jar",
 			"api": "csp_Config",
 			"searchable": 0,
 			"changeable": 0,
@@ -103,7 +103,7 @@
 			"key": "玩偶哥哥2",
 			"name": "🍒田|玩偶OK版",
 			"type": 3,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/ok.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ok.jar",
 			"api": "csp_Wogg",
 			"searchable": 1,
 			"filterable": 1,
@@ -118,7 +118,7 @@
 			"key": "Hdhive",
 			"name": "🍒田|影巢网盘",
 			"type": 3,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/pg.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
 			"api": "csp_Hdhive",
 			"quickSearch": 1,
 			"changeable": 1,
@@ -130,7 +130,7 @@
 			"key": "Ppxzy",
 			"name": "🍒田|皮皮虾网盘",
 			"type": 3,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/pg.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
 			"api": "csp_Ppxzy",
 			"quickSearch": 1,
 			"changeable": 1,
@@ -142,7 +142,7 @@
 			"key": "校长影视",
 			"name": "🍒田|校长影视网盘",
 			"type": 3,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/pg.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
 			"api": "csp_XiaoZhang",
 			"quickSearch": 1,
 			"changeable": 1,
@@ -154,7 +154,7 @@
 			"key": "团长资源",
 			"name": "🍒田|团长资源网盘",
 			"type": 3,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/pg.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
 			"api": "csp_TZFile",
 			"quickSearch": 1,
 			"changeable": 1,
@@ -166,7 +166,7 @@
 			"key": "Wobg",
 			"name": "🍒田|玩偶表哥网盘",
 			"type": 3,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/pg.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
 			"api": "csp_Wobg",
 			"quickSearch": 1,
 			"changeable": 1,
@@ -178,7 +178,7 @@
 			"key": "YunSo",
 			"name": "🍒田|小云搜索网盘",
 			"type": 3,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/pg.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
 			"api": "csp_YunSo",
 			"quickSearch": 1,
 			"changeable": 1,
@@ -187,58 +187,109 @@
 			"ext": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/PG.json"
 		},
 		{
-			"key": "YunPanOne",
-			"name": "🍒田|云盘资源网盘",
+			"key": "云盘资源",
+			"name": "🍒田|云盘网盘",
 			"type": 3,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/pg.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
 			"api": "csp_YunPanOne",
+			"changeable": 0,
+			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 30,
-			"ext": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/PG.json"
+			"filterable": 0,
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json",
+			"timeout": 60
 		},
 		{
 			"key": "Panta",
-			"name": "🍒田|盘Ta网盘",
+			"name": "🍒田|盘他网盘",
 			"type": 3,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/pg.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
 			"api": "csp_Panta",
+			"changeable": 0,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json$$$https://www.91panta.cn/$$$null$$$1",
+			"timeout": 60
+		},
+		{
+			"key": "DaPanSo",
+			"name": "🍒田|大盘网盘",
+			"type": 3,
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
+			"api": "csp_DaPanSo",
 			"quickSearch": 1,
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 30,
-			"ext": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/PG.json$$$https://www.91panta.cn/$$$null$$$1"
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json$$$https://dapanso.com$$$null"
 		},
 		{
-			"key": "Funletu",
-			"name": "🍒田|趣盘搜夸克",
+			"key": "Qianfan",
+			"name": "🍒田|千帆网盘",
 			"type": 3,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/pg.jar",
-			"api": "csp_Funletu",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
+			"api": "csp_Qianfan",
 			"quickSearch": 1,
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 30,
-			"ext": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/PG.json"
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json$$$https://pan.qianfan.app$$$null$$$QianFanID=0acqqcorrmjkzlr3xqi8xnzi9rzyqqku; csrftoken=jWfG2qzm6LB816pzLzbhGBxUwH8i8kqU0GDeNkjmq8wF6uHwxdfgdvrQwmkcDW1m; _ga_6Z94VT54DV=GS1.1.1703163654.1.1.1703164183.0.0.0"
 		},
 		{
-			"key": "QuarkPanso",
-			"name": "🍒田|夸克盘搜夸克",
+			"key": "趣盘搜",
+			"name": "🍒田|趣盘网盘",
 			"type": 3,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/pg.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
+			"api": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/drpy2.min.js",
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/js/funletu.js",
+			"quickSearch": 1,
+			"changeable": 0,
+			"timeout": 60
+		},
+		{
+			"key": "夸克盘搜",
+			"name": "🍒田|夸克网盘",
+			"type": 3,
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
 			"api": "csp_QuarkPanso",
+			"changeable": 0,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json",
+			"timeout": 60
+		},
+		{
+			"key": "找资源",
+			"name": "🍒田|资源网盘",
+			"type": 3,
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
+			"api": "csp_Zhaozy",
+			"changeable": 0,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json$$$ajin0595$$$dear0595",
+			"timeout": 60
+		},
+		{
+			"key": "Libvio",
+			"name": "🍒田|利播网盘",
+			"type": 3,
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
+			"api": "csp_Libvio",
 			"quickSearch": 1,
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 30,
-			"ext": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/PG.json"
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json$$$https://www.libvio.pro/$$$null"
 		},
 		{
 			"key": "新6V",
 			"name": "🍒田|新6V网盘",
 			"type": 3,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/pg.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
 			"api": "csp_Xb6v",
 			"searchable": 1,
 			"changeable": 1,
@@ -502,7 +553,7 @@
 			"type": 3,
 			"api": "csp_Hudie",
 			"playerType": 2,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/fix1110.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/fix1110.jar",
 			"ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
 		},
 		{
@@ -514,7 +565,7 @@
 			"quickSearch": 1,
 			"playerType": 2,
 			"filterable": 1,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/fix1110.jar"
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/fix1110.jar"
 		},
 		{
 			"key": "巧技二",
@@ -525,7 +576,7 @@
 			"quickSearch": 1,
 			"playerType": 2,
 			"filterable": 1,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/fix1110.jar"
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/fix1110.jar"
 		},
 		{
 			"key": "极光",
@@ -533,7 +584,7 @@
 			"type": 3,
 			"api": "csp_Skapp",
 			"playerType": 2,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/fix1110.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/fix1110.jar",
 			"ext": "cF2Bh7Go+swnimRrS4lMkC5IU+DEUhx+OIg096VgYdDXyDJz70foByqaPPS4RAca6AqTfUQV+jjSDbw4X6b9uJnCDysGmjvh+55akGF9Qzr7WYxYeI7hKNVoqEEpPa32AHiHipBkGeGOS46Uh9ADAgpQDoZ6G20p/ed+tfFIMdOBb35FddbTWy08rvPAbxalgCN+ORgOcyus/x/3DGIl9cckdrwEadwKSPdG1fkb2qB3vCXSgzVoCUepAo3aLjjHpBDxcqj/Kgy4ayi2Zm+l39a6F1eTeteNVGfNe2ZoMWQRGhtYxbn+BR6gqA1b4b19XYsh5037EGtVpFYPwUSQtAQ=="
 		},
 		{
@@ -542,7 +593,7 @@
 			"type": 3,
 			"api": "csp_Skapp",
 			"playerType": 2,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/fix1110.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/fix1110.jar",
 			"ext": "CWL+IfA5s3TICYJ8lk+lYcjPA/WXNYE4LRTfUSa9I+X9ibZY05syLe/O7u2miaiYRiSaKE51xQOxm38YeL27jRUyF6+GJKVQArnP7QbC+qw2okju8YACfPzD3rpQo8uckl2rQh925A6lp4VD0ELHJrUvDGTlojwKtynX78d5E88HbdSsCV5pIueNPH5+z42FBt21KGN5lnE7/qqEGpSyFzbARD4aWuhSHsun7GQU9yaXZn0F4l4o2YYaEvRtsz4z9Mo8+7aj2nZsCkFWLNpgv6kzFNohSTWVDkajg5aj6s7d8CPNIvvC+gr0zm79fuuvNQF6NfaiBOrvTwamMJa3F3w=="
 		},
 		{
@@ -554,7 +605,7 @@
 			"quickSearch": 1,
 			"playerType": 2,
 			"filterable": 1,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/fix1110.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/fix1110.jar",
 			"ext": "we2aWwLOHN18wGu/wt+png8wz6kVMGS23xntuXkveVBR2/9I2ridVLRyjBcXYLkv6X/15IRqQRJnh3DlFsarda8hemp8b7pIAN7M17xW/69bHungyJg1sG4CS8Q22+fyOlgxCvIGoHa8BcE0dtF9dwipO9OW9YqGMPEic+rZ6zCqXZ3GQYWKXYg4BvzODEtKTLmInutyyw3LYs8Kbo0qXio05MdcA4dmIhMKG0lm3SyS+a3+/FGRGRdQ9Mr44asDnfxhP5CgMTuWqPTtJgNxhbU9SFs5Ff9dkbMduJnz6r8AMMyh2xMF/wlTLtbyKcGSZpohmW2+KJT6FnH2jfnx6arS48bNPRonIVQTLWnTBlp3MrUwh4snP0eyEPHgbKRUQU+sbfGTqSkpq/Tblb8i//tznlq4kvEBKelkp35oLx/paSGIMrXqrziRM8Xl21cyXB80y9FP+6A/El5bpaTNwUy1fkzvyPSk/GK56uMiIVzzpi52eDd/n+4gH75lhZ4MrYxAFkDQN+FHl0Gc+Q5aseekN3syyjIS4VGfEMLZaxjFWFST+5DEcdCY+c2xZ2gq8fFoaNO0851mgV+f8g3TXbbBfxjS556HqWpTqa47DgiSpiSR3Y/qEZLKBNf84GZ+vkNag5umQShsp8+M+NCgXW6ir9iga+/fl0iM5oeyu15E="
 		},
 		{
@@ -563,7 +614,7 @@
 			"type": 3,
 			"api": "csp_Appto",
 			"playerType": 2,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/fix1110.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/fix1110.jar",
 			"ext": "DRKzxyMKvtSwY8KlZf2E0UaodOFwpc55fZ8i/57cIgQJHQLy6PnKLAAj9UrkpoexlNCAomzVttbI6D6TEnlHNVDqRhIQqGlHt8m6PjVxP7PSlmraDar52uqEU7UXaaV+UGqz0bc9q95VVRMK4uX5l674wT+p5Cp2QGr1D24Uz7QNkA6GgkDGW/ezLoYsXUCc7xsDK5ev51cJxn0cIJClFysrOGsTvyLYjYIF2ktu+F36QVcAsAvA6Jpyz2hSTlWadidOt2m81TA5yrfAKjBILuQ63gcnyXh6SH9VjER5dL2KD8iTVBAN3L9TlQqDHPr64N0D6mAldXLMYJM/RrTUznCbIno7V/eTT+YqnLWNekVigNB8Q7Fp3WgMYfk73VYcOqPKO2qwQWyJqaQDW4Uo7nFrQWttqYAwWEDhjM/ABuYLkLX9V83/QFOPkhBJZ+eQoqsiVP3ZugFGB5/XuVZkoYWaG00BRQ3j55vTflJ2ne0WQcFAj6GcYNLodkII4Ji53kVoL+w55Cc9PmtSR1tynlWDylYBfkJbtDOJSuEUKDnKiD/ZFqMAejQFV9EcZr1g6QbLIf/FRldeLYRxsYsWPFc2STqEdgGA+osyO/zzyaeZLH5AJ02l7kKyMxKMPaRF2MGX1DPnZHrbXA4u0A5Vy3M3IMFNZaR0f08C4KDDi1xY="
 		},
 		{
@@ -575,7 +626,7 @@
 			"quickSearch": 1,
 			"playerType": 2,
 			"filterable": 1,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/fix1110.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/fix1110.jar",
 			"ext": "Nm6kHImBI1jr6VSKVUPgJGCYkeKLb8Sjp1Na6UBEM2CRUW8htts45LDQ18nx0gqcjehIgtVhsgHjWqvE5T4+I0FJF8Po2QBCUA/bMHdMJAYWxbeI9soGqn8bxOflshBTNBewsn20MTbpMjfAHYAgWmyLvES09FVNl74D3aTsMwRMwoSaMx6GFjKJ9Gs4CSRyD4MFqbaHbG/jsYcBykyYtgCk9hH4IFFnWVntJ8PqEirD9OzzNKWf6cNhMOMPGF9W9dKqwzGGuh+jQ3BISOMBVcQO35PL1cmHmsmf1T41zzc505s4MoLmF6MwoXVXgNk1ni/OMZWLP59tPLgRoK9tMXm270YWMJplTWEJ3bE8TrHVkM1dJ5udmlatuz/XqqdZCspJGX/LhokZNMl2IbwD5bMufwIRRqLzwcOv9+nTjElseZEM7g5qz6kNrkmVQNOFQ1zXc487lNqYph053yEQB/gn9z3iXhd+hYdVA59LWe5Ev7oLbCJqG1joJBU7s+6dfJ0Kamgoo9t8nvZc7NakY5qku6O35mvlVmjmQkgMmIL+VDAESF97J1hPaOTY0w0Q5CMyqmdxac3t+YTwENOiLUT5U1VmZYOsYHA9XURhbqgNPojj23Xj9j32bfUMZDK8WPcltxOb3SmwQe0Y8ibIlqKc+YGY5xvze81NVv39kQsc="
 		},
 		{
@@ -586,14 +637,14 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/fix1110.jar"
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/fix1110.jar"
 		},
 		{
 			"key": "sliu_spider",
 			"name": "🍒田|石榴直连",
 			"api": "csp_ShiLiuDY",
 			"type": 3,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/fix1110.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/fix1110.jar",
 			"filterable": 1,
 			"playerType": 2,
 			"quickSearch": 1,
@@ -604,7 +655,7 @@
 			"name": "🍒田|快看直连",
 			"type": 3,
 			"api": "csp_Kuaikan",
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/fix1110.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/fix1110.jar",
 			"searchable": 1,
 			"playerType": 2,
 			"quickSearch": 1,
@@ -621,7 +672,7 @@
 			},
 			"quickSearch": 0,
 			"api": "csp_XBPQ",
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/ghjdz.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ghjdz.jar",
 			"ext": {
 				"主页url": "https://www.xsmp3.com",
 				"数组二次截取": "<ul id=\"post_list_box\">&&</ul",
@@ -656,7 +707,7 @@
 			},
 			"quickSearch": 0,
 			"api": "csp_XBPQ",
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/ghjdz.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ghjdz.jar",
 			"ext": {
 				"主页url": "https://www.psmp3.com",
 				"数组二次截取": "<ul id=\"post_list_box\">&&</ul",
@@ -708,7 +759,7 @@
 			"changeable": 0,
 			"quickSearch": 1,
 			"playerType": "2",
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/ghjdz.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ghjdz.jar",
 			"api": "csp_XBPQ",
 			"ext": {
 				"嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
@@ -730,7 +781,7 @@
 			"api": "csp_XBPQ",
 			"changeable": 0,
 			"playerType": "1",
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/ghjdz.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ghjdz.jar",
 			"ext": {
 				"分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
 				"分类": "最新热榜&今日更新&FREE电影&FREE剧集&FREE动漫&FREE综艺",
@@ -749,7 +800,7 @@
 			"name": "🍒田|迷你APP",
 			"type": 3,
 			"api": "csp_AppYs",
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/ghjdz.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ghjdz.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"ext": "http://www.miniku.cc/xgapp.php/v2/"
@@ -759,7 +810,7 @@
 			"name": "🍒田|夜猫影视",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/ghjdz.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ghjdz.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -797,7 +848,7 @@
 			"name": "🍒田|嘿嘿影视",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/ghjdz.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ghjdz.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -834,7 +885,7 @@
 			"name": "🍒田|爱看影视",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/ghjdz.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ghjdz.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -870,7 +921,7 @@
 			"key": "好戏",
 			"name": "🍒田|好戏BPQ",
 			"type": 3,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/ghjdz.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ghjdz.jar",
 			"api": "csp_XBPQ",
 			"ext": {
 				"主页url": "https://haoxi.vip/",
@@ -906,7 +957,7 @@
 			"name": "🍒田|云播BPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/ghjdz.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ghjdz.jar",
 			"ext": {
 				"影片类型": "分类：&&主演",
 				"导演": "导演：</span>&&</p>",
@@ -939,7 +990,7 @@
 			"name": "🍒田|乌鸦影视",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/ghjdz.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ghjdz.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -976,7 +1027,7 @@
 			"name": "🍒田|淘剧BPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/ghjdz.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ghjdz.jar",
 			"ext": {
 				"主页url": "http://dyxz.tv",
 				"数组": "<div class=\"stui-vodlist__box\">&&</div>",
@@ -1028,7 +1079,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/ghjdz.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ghjdz.jar",
 			"playerType": "2",
 			"api": "csp_XBPQ",
 			"ext": {
@@ -1069,7 +1120,7 @@
 			"name": "🍒田|龟龟BPQ",
 			"type": 3,
 			"changeable": 1,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/ghjdz.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ghjdz.jar",
 			"api": "csp_XBPQ",
 			"playerType": "2",
 			"ext": {
@@ -1090,7 +1141,7 @@
 			"key": "双黄",
 			"name": "🍒田|双黄BPQ",
 			"type": 3,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/ghjdz.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ghjdz.jar",
 			"api": "csp_XBPQ",
 			"ext": {
 				"嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
@@ -1108,7 +1159,7 @@
 			"name": "🍒田|热播BPQ",
 			"type": 3,
 			"changeable": 1,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/ghjdz.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/ghjdz.jar",
 			"api": "csp_XBPQ",
 			"playerType": "1",
 			"ext": {
@@ -1644,7 +1695,7 @@
 			"key": "csp_Bili",
 			"name": "🍒田|哔哔合集",
 			"type": 3,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/OpenSpider.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/OpenSpider.jar",
 			"api": "csp_Bili",
 			"searchable": 1,
 			"quickSearch": 0,
@@ -1655,7 +1706,7 @@
 			"key": "csp_Biliych",
 			"name": "🍒田|哔哔演唱会",
 			"type": 3,
-			"jar": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/jar/OpenSpider.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/OpenSpider.jar",
 			"api": "csp_Bili",
 			"searchable": 1,
 			"quickSearch": 0,
