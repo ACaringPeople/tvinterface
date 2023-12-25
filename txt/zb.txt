@@ -941,10 +941,9 @@ CCTV-2,http://120.196.232.18:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3
 CCTV-2,http://120.196.232.33:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8?
 CCTV-2,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
 CCTV-2,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
-CCTV3,http://47.242.38.45:9999/ysp.php?id=cctv3
-CCTV-3,http://1.195.111.251:11190/tsfile/live/0003_1.m3u8
-CCTV3,http://221.213.43.82:8888/newlive/live/hls/4/live.m3u8
-CCTV3,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+CCTV-3,http://47.242.38.45:9999/ysp.php?id=cctv3
+CCTV-3,http://221.213.43.82:8888/newlive/live/hls/4/live.m3u8
+CCTV-3,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 CCTV-4,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV-5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV-5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
