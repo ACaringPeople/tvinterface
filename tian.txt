@@ -1,16 +1,12 @@
 {
     "urls": [
         {
-            "url": "https://codeberg.org/tiantuhao/honor/raw/branch/master/honor.json",
-            "name": "🍒个人codeberg"
+            "url": "http://vipurl.icu/TVBOX/honor/honor.json",
+            "name": "🍒个人ftphonor"
         },
         {
             "url": "https://gitcode.net/qq_23897013/honor/-/raw/master/honor.json",
             "name": "🍒个人gitcode"
-        },
-        {
-            "url": "http://vipurl.icu/TVBOX/honor/honor.json",
-            "name": "🍒个人ftphonor"
         },
         {
             "url": "http://vipurl.icu/TVBOX/honor/DM.json",
