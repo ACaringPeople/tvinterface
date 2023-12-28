@@ -28,13 +28,13 @@
 			"searchable": 0,
 			"changeable": 0,
 			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/custom_spider.jar",
-			"ext": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/market.json"
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/market.json"
 		},
 		{
 			"key": "douyu",
 			"name": "🍒田|斗鱼直播",
 			"type": 3,
-			"api": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/douyu_open.js",
+			"api": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/douyu_open.js",
 			"ext": {
 				"from": "official",
 				"custom": "LOL,英雄联盟#wzry,王者荣耀"
@@ -44,7 +44,7 @@
 			"key": "huya",
 			"name": "🍒田|虎牙直播",
 			"type": 3,
-			"api": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/huya_open.js",
+			"api": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/huya_open.js",
 			"ext": {
 				"from": "official",
 				"custom": "1,英雄联盟#2336,王者荣耀"
@@ -72,7 +72,7 @@
 				"type": "rect",
 				"ratio": 1
 			},
-			"ext": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/PG.json"
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json"
 		},
 		{
 			"key": "玩偶哥哥1",
@@ -83,8 +83,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/PG.json$$$https://wogg.xyz/$$$null$$$1",
-			"timeout": 30
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json$$$https://api.wogg.xyz/$$$null$$$1$$$./json/wogg.json",
+			"timeout": 60
 		},
 		{
 			"key": "ok配置中心",
@@ -124,7 +124,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 30,
-			"ext": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/PG.json$$$null$$$1"
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json$$$null$$$1"
 		},
 		{
 			"key": "Ppxzy",
@@ -136,7 +136,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 30,
-			"ext": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/PG.json$$$https://ppxzy.net/$$$null$$$1"
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json$$$https://ppxzy.net/$$$null$$$1"
 		},
 		{
 			"key": "校长影视",
@@ -148,7 +148,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 30,
-			"ext": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/PG.json$$$null$$$1"
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json$$$null$$$1"
 		},
 		{
 			"key": "团长资源",
@@ -160,19 +160,44 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 30,
-			"ext": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/PG.json$$$null$$$1"
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json$$$null$$$1"
 		},
 		{
-			"key": "Wobg",
-			"name": "🍒田|玩偶表哥网盘",
+			"key": "玩偶表哥",
+			"name": "🍒田|表哥网盘",
 			"type": 3,
 			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
 			"api": "csp_Wobg",
+			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1,
+			"changeable": 0,
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json$$$https://wobge.run.goorm.io$$$1$$$./json/wogg.json",
+			"timeout": 60
+		},
+		{
+			"key": "影视车",
+			"name": "🍒田|影视车网盘",
+			"type": 3,
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
+			"api": "csp_Wogg",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json$$$https://www.weixine.net$$$1$$$./json/wogg.json",
+			"timeout": 60
+		},
+		{
+			"key": "4KHDR网盘",
+			"name": "🍒田|4KHDR网盘",
+			"type": 3,
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
+			"api": "csp_FourKHDR",
+			"searchable": 1,
+			"quickSearch": 1,
 			"filterable": 1,
-			"timeout": 30,
-			"ext": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/PG.json$$$https://wobge.run.goorm.io$$$1"
+			"changeable": 0,
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json$$$https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/4khdr.txt$$$1",
+			"timeout": 60
 		},
 		{
 			"key": "YunSo",
@@ -184,7 +209,7 @@
 			"changeable": 1,
 			"filterable": 1,
 			"timeout": 30,
-			"ext": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/PG.json"
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json"
 		},
 		{
 			"key": "云盘资源",
@@ -242,7 +267,7 @@
 			"type": 3,
 			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
 			"api": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/drpy2.min.js",
-			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/js/funletu.js",
+			"ext": "./js/funletu.js",
 			"quickSearch": 1,
 			"changeable": 0,
 			"timeout": 60
@@ -294,7 +319,7 @@
 			"searchable": 1,
 			"changeable": 1,
 			"timeout": 60,
-			"ext": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/PG.json$$$https://www.66ss.org$$$null$$$1"
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json$$$https://www.66ss.org$$$null$$$1"
 		},
 		{
 			"key": "Czsapp",
@@ -494,7 +519,7 @@
 			"quickSearch": 1,
 			"changeable": 1,
 			"playerType": "1",
-			"api": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/drpy1.min.js",
+			"api": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/drpy1.min.js",
 			"ext": "http://tv.jukemf.com/tvbox/oppo/jsjp.js"
 		},
 		{
@@ -525,7 +550,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/nmys.json"
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/nmys.json"
 		},
 		{
 			"key": "Xinsj",
@@ -735,8 +760,8 @@
 			"key": "赞赞",
 			"name": "🍒田|赞赞切片",
 			"type": 3,
-			"api": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/drpy1.min.js",
-			"ext": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/zanzan.js",
+			"api": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/drpy1.min.js",
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/zanzan.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0
@@ -746,7 +771,7 @@
 			"name": "🍒田|飞云切片",
 			"type": 3,
 			"api": "http://tv.jukemf.com/tvbox/oppo/js/drpy2.min.js",
-			"ext": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/fy.js",
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/fy.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0
@@ -1680,7 +1705,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/cc.json"
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/cc.json"
 		},
 		{
 			"key": "push_agent",
@@ -1695,23 +1720,23 @@
 			"key": "csp_Bili",
 			"name": "🍒田|哔哔合集",
 			"type": 3,
-			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/OpenSpider.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
 			"api": "csp_Bili",
 			"searchable": 1,
 			"quickSearch": 0,
 			"changeable": 0,
-			"ext": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/bilibili.json"
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/bilibili.json"
 		},
 		{
 			"key": "csp_Biliych",
 			"name": "🍒田|哔哔演唱会",
 			"type": 3,
-			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/OpenSpider.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
 			"api": "csp_Bili",
 			"searchable": 1,
 			"quickSearch": 0,
 			"changeable": 0,
-			"ext": "https://raw.githubusercontentS.com/ACaringPeople/honor/master/lib/biliych.json"
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/biliych.json"
 		}
 	],
 	"parses": [
