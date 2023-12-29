@@ -5,6 +5,10 @@
             "name": "🍒个人ftphonor"
         },
         {
+            "url": "https://raw.gitcode.com/qq_23897013/honor/raw/master/honor.json",
+            "name": "🍒个人gitcode新"
+        },
+        {
             "url": "https://gitcode.net/qq_23897013/honor/-/raw/master/honor.json",
             "name": "🍒个人gitcode"
         },
