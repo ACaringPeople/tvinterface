@@ -83,7 +83,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json$$$https://api.wogg.xyz/$$$null$$$1$$$./json/wogg.json",
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json$$$https://api.wogg.xyz/$$$null$$$1$$$https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/json/wogg.json",
 			"timeout": 60
 		},
 		{
@@ -110,7 +110,7 @@
 			"changeable": 0,
 			"ext": {
 				"token": "http://127.0.0.1:9978/file/tvfan/token.txt",
-				"filter": "./json/wogg.json",
+				"filter": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/json/wogg.json",
 				"danmu": true
 			}
 		},
@@ -170,8 +170,8 @@
 			"api": "csp_Wobg",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 0,
-			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json$$$https://wobge.run.goorm.io$$$1$$$./json/wogg.json",
+			"changeable": 2,
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json$$$https://wobge.run.goorm.io$$$1$$$https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/json/wogg.json",
 			"timeout": 60
 		},
 		{
@@ -183,8 +183,29 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json$$$https://www.weixine.net$$$1$$$./json/wogg.json",
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json$$$https://www.weixine.net$$$1$$$https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/json/wogg.json",
 			"timeout": 60
+		},
+		{
+			"key": "996影院",
+			"name": "🍒田|九六影院",
+			"type": 3,
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
+			"api": "csp_Cs1369",
+			"searchable": 1,
+			"changeable": 2
+		},
+		{
+			"key": "Pan99",
+			"name": "🍒田|盘九九网盘",
+			"type": 3,
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
+			"api": "csp_Pan99",
+			"quickSearch": 1,
+			"changeable": 2,
+			"filterable": 1,
+			"timeout": 30,
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json$$$https://pan99.xyz$$$null$$$1"
 		},
 		{
 			"key": "4KHDR网盘",
@@ -267,7 +288,7 @@
 			"type": 3,
 			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
 			"api": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/drpy2.min.js",
-			"ext": "./js/funletu.js",
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/js/funletu.js",
 			"quickSearch": 1,
 			"changeable": 0,
 			"timeout": 60
@@ -1698,16 +1719,6 @@
 			"changeable": 0
 		},
 		{
-			"key": "py_cctv",
-			"name": "🍒田|CC",
-			"type": 3,
-			"api": "py_cctv",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/cc.json"
-		},
-		{
 			"key": "push_agent",
 			"name": "🍒田|手机推送",
 			"type": 3,
@@ -1720,7 +1731,7 @@
 			"key": "哔哩哔哩",
 			"name": "🍒田|哔哩官源",
 			"type": 3,
-			"jar":"https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
 			"api": "csp_Bili",
 			"searchable": 1,
 			"quickSearch": 1,
