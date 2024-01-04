@@ -110,6 +110,7 @@
 			"changeable": 0,
 			"ext": {
 				"token": "http://127.0.0.1:9978/file/tvfan/token.txt",
+				"site": "https://wogg.888484.xyz/",
 				"filter": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/json/wogg.json",
 				"danmu": true
 			}
