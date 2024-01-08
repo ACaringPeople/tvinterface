@@ -59,13 +59,19 @@
 
 CCTV-1 综合,http://222.223.119.21:8888/newlive/live/hls/2/live.m3u8
 CCTV-2 财经,http://222.223.119.21:8888/newlive/live/hls/3/live.m3u8
+CCTV-3 综艺,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁1.php?id=tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3 综艺,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/吉林.php?id=hls/3/index.m3u8
+CCTV-3 综艺,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/广东.php?id=tsfile/live/0003_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3 综艺,http://222.223.119.21:8888/newlive/live/hls/4/live.m3u8
 CCTV-4 中文国际,http://222.223.119.21:8888/newlive/live/hls/5/live.m3u8
-CCTV-5 体育,http://222.223.119.21:8888/newlive/live/hls/6/live.m3u8
+CCTV-5 体育,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁1.php?id=tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5 体育,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/广东.php?id=tsfile/live/0005_3.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5 体育,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/广东.php?id=tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV-5+ 体育赛事,http://222.223.119.21:8888/newlive/live/hls/7/live.m3u8
-CCTV-6 电影,http://222.223.119.21:8888/newlive/live/hls/8/live.m3u8
+
 CCTV-7 国防军事,http://222.223.119.21:8888/newlive/live/hls/9/live.m3u8
-CCTV-8 电视剧,http://222.223.119.21:8888/newlive/live/hls/10/live.m3u8
+
 CCTV-9 纪录,http://222.223.119.21:8888/newlive/live/hls/11/live.m3u8
 CCTV-10 科教,http://222.223.119.21:8888/newlive/live/hls/12/live.m3u8
 CCTV-11 戏曲,http://222.223.119.21:8888/newlive/live/hls/13/live.m3u8
@@ -75,78 +81,16 @@ CCTV-14 少儿,http://222.223.119.21:8888/newlive/live/hls/16/live.m3u8
 CCTV-15 音乐,http://222.223.119.21:8888/newlive/live/hls/17/live.m3u8
 CGTN新闻,http://222.223.119.21:8888/newlive/live/hls/18/live.m3u8
 
-CCTV-1 综合,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-1 综合b
-CCTV-1 综合,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-1 综合
-CCTV-2 财经,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-2 财经
 
-CCTV-4 中文国际,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-4 中文国际
-CCTV-5 体育,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-5 体育
-CCTV-5 体育,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-5 体育b
-CCTV-5+ 体育赛事,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-5 体育p
-CCTV-5+ 体育赛事,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-5 体育p2
-CCTV-6 电影,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-6 电影
-CCTV-7 国防军事,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-7 国防军事
-CCTV-8 电视剧,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-8 电视剧
-CCTV-9 纪录,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-9 纪录
-CCTV-10 科教,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-10 科教
-CCTV-11 戏曲,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-11 戏曲
-CCTV-12 社会与法,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-12 社会与法
-CCTV-13 新闻,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-13 新闻
-CCTV-14 少儿,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-14 少儿
-CCTV-15 音乐,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-15 音乐
-CCTV-16 奥林匹克,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-16 奥林匹克
-CCTV-17 农业农村,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-17 农业农村
-CCTV-6 电影,http://103.108.67.142:909/猎狼TV吧/PLTV/1905.php?id=CCTV-6 电影
-1905电影国外,http://103.108.67.142:909/猎狼TV吧/PLTV/1905.php?id=1905a
-1905电影国内,http://103.108.67.142:909/猎狼TV吧/PLTV/1905.php?id=1905b
 
-CCTV-1 综合,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php?id=CCTV-1 综合hd8m/8000000
-CCTV-2 财经,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php?id=CCTV-2 财经hd8m/8000000
 
-CCTV-4 中文国际,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php?id=CCTV-4 中文国际hd8m/8000000
-CCTV-5 体育,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php?id=CCTV-5 体育8m/8000000
-CCTV-5+ 体育赛事,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php?id=CCTV-5 体育phd8m/8000000
-CCTV-6 电影,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php?id=CCTV-6 电影hd8m/8000000
-CCTV-7 国防军事,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php?id=CCTV-7 国防军事hd8m/8000000
-CCTV-8 电视剧,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php?id=CCTV-8 电视剧hd8m/8000000
-CCTV-9 纪录,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php?id=CCTV-9 纪录hd8m/8000000
-CCTV-10 科教,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php?id=CCTV-10 科教hd8m/8000000
-CCTV-11 戏曲,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php?id=CCTV-11 戏曲hd8m/8000000
-CCTV-12 社会与法,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php?id=CCTV-12 社会与法hd8m/8000000
-CCTV-13 新闻,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php?id=CCTV-13 新闻xwhd8m/8000000
-CCTV-14 少儿,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php?id=cctvsehd8m/8000000
-CCTV-15 音乐,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php?id=CCTV-15 音乐hd8m/8000000
-CCTV-16 奥林匹克,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php?id=CCTV-16 奥林匹克hd8m/8000000
-CCTV-17 农业农村,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php?id=CCTV-17 农业农村hd8m/8000000
-CCTV-4k,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php?id=CCTV-4 中文国际k/15000000
-CCTV-16 奥林匹克-4k,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php?id=CCTV-16 奥林匹克hd4k/15000000
 
-CCTV-1 综合,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=CCTV-1 综合H265_4000
-CCTV-2 财经,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=CCTV-2 财经H265_4000
-
-CCTV-4 中文国际,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=CCTV-4 中文国际H265_4000
-CCTV-5 体育,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=CCTV-5 体育H265_4000
-CCTV-5+ 体育赛事,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=CCTV-5 体育plusH265_4000
-CCTV-6 电影,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=CCTV-6 电影H265_4000
-CCTV-7 国防军事,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=CCTV-7 国防军事H265_4000
-CCTV-8 电视剧,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=CCTV-8 电视剧H265_4000
-CCTV-9 纪录,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=CCTV-9 纪录H265_4000
-CCTV-10 科教,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=CCTV-10 科教H265_4000
-CCTV-11 戏曲,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=CCTV-11 戏曲-H265_4000
-CCTV-12 社会与法,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=CCTV-12 社会与法H265_4000
-CCTV-13 新闻,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=CCTVxw_4000
-CCTV-14 少儿,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=CCTV-14 少儿H265_4000
-CCTV-15 音乐,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=CCTV-15 音乐-yyH265_4000
-CCTV-16 奥林匹克,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=CCTV-16 奥林匹克_4000
-CCTV-16 奥林匹克-4k,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=CCTV-16 奥林匹克-4K_8000
-CCTV-17 农业农村,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=CCTV-17 农业农村_4000
-CCTV-4k,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=ys4Kcq_2000
 
 CCTV-1 综合,http://103.108.67.142:909/猎狼TV吧/PLTV/ysp1.php?id=CCTV-1 综合
 CCTV-2 财经,http://103.108.67.142:909/猎狼TV吧/PLTV/ysp1.php?id=CCTV-2 财经
 
 CCTV-4 中文国际,http://103.108.67.142:909/猎狼TV吧/PLTV/ysp1.php?id=CCTV-4 中文国际
-CCTV-5 体育,http://103.108.67.142:909/猎狼TV吧/PLTV/ysp1.php?id=CCTV-5 体育
+
 CCTV-5+ 体育赛事,http://103.108.67.142:909/猎狼TV吧/PLTV/ysp1.php?id=CCTV-5 体育p
 CCTV-6 电影,http://103.108.67.142:909/猎狼TV吧/PLTV/ysp1.php?id=CCTV-6 电影
 CCTV-7 国防军事,http://103.108.67.142:909/猎狼TV吧/PLTV/ysp1.php?id=CCTV-7 国防军事
@@ -185,9 +129,9 @@ CGTN法语,http://103.108.67.142:909/猎狼TV吧/PLTV/ysp1.php?id=cgtnf
 
 CCTV-1 综合,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁.php?id=tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2 财经,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁.php?id=tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3 综艺,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁.php?id=tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV-4 中文国际,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁.php?id=tsfile/live/0001_3.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5 体育,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁.php?id=tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV-5+ 体育赛事,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁.php?id=tsfile/live/0001_17.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6 电影,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁.php?id=tsfile/live/0001_5.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7 国防军事,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁.php?id=tsfile/live/0001_6.m3u8?key=txiptv&playlive=1&authid=0
@@ -225,9 +169,9 @@ CGTN法语,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁.php?id=tsfil
 
 CCTV-1 综合,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁1.php?id=tsfile/live/1156_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2 财经,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁1.php?id=tsfile/live/1157_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3 综艺,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁1.php?id=tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV-4 中文国际,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁1.php?id=tsfile/live/1158_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5 体育,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁1.php?id=tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV-5+ 体育赛事,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁1.php?id=tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6 电影,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁1.php?id=tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7 国防军事,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁1.php?id=tsfile/live/1159_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -249,9 +193,9 @@ CCTV风云足球,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁1.php?i
 CCTV风云音乐,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁1.php?id=tsfile/live/1123_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV-1 综合,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/广东.php?id=tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5 体育,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/广东.php?id=tsfile/live/0005_3.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV-2 财经,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/广东.php?id=tsfile/live/0002_2.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3 综艺,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/广东.php?id=tsfile/live/0003_2.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV-6 电影,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/广东.php?id=tsfile/live/0006_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7 国防军事,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/广东.php?id=tsfile/live/0007_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8 电视剧,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/广东.php?id=tsfile/live/0008_2.m3u8?key=txiptv&playlive=1&authid=0
@@ -259,12 +203,12 @@ CCTV-9 纪录,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/广东.php?id=ts
 CCTV-10 科教,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/广东.php?id=tsfile/live/0010_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12 社会与法,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/广东.php?id=tsfile/live/0012_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14 少儿,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/广东.php?id=tsfile/live/0014_2.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5 体育,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/广东.php?id=tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 CCTV-1 综合,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/上海.php?id=hls/1/index.m3u8
 CCTV-2 财经,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/上海.php?id=hls/2/index.m3u8
-CCTV-3 综艺,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/上海.php?id=hls/3/index.m3u8
+
 CCTV-4 中文国际,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/上海.php?id=hls/4/index.m3u8
 CCTV-5 体育,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/上海.php?id=hls/5/index.m3u8
 CCTV-6 电影,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/上海.php?id=hls/6/index.m3u8
@@ -299,7 +243,7 @@ CCTV-17 农业农村,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/福建.ph
 
 CCTV-1 综合,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/吉林.php?id=hls/1/index.m3u8
 CCTV-2 财经,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/吉林.php?id=hls/2/index.m3u8
-CCTV-3 综艺,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/吉林.php?id=hls/3/index.m3u8
+
 CCTV-4 中文国际,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/吉林.php?id=hls/4/index.m3u8
 CCTV-5 体育,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/吉林.php?id=hls/5/index.m3u8
 CCTV-6 电影,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/吉林.php?id=hls/6/index.m3u8
