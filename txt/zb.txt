@@ -78,7 +78,7 @@ CGTN新闻,http://222.223.119.21:8888/newlive/live/hls/18/live.m3u8
 CCTV-1 综合,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-1 综合b
 CCTV-1 综合,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-1 综合
 CCTV-2 财经,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-2 财经
-CCTV-3 综艺,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-3 综艺
+
 CCTV-4 中文国际,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-4 中文国际
 CCTV-5 体育,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-5 体育
 CCTV-5 体育,http://103.108.67.142:909/猎狼TV吧/PLTV/migu.php?id=CCTV-5 体育b
@@ -102,7 +102,7 @@ CCTV-6 电影,http://103.108.67.142:909/猎狼TV吧/PLTV/1905.php?id=CCTV-6 电�
 
 CCTV-1 综合,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php?id=CCTV-1 综合hd8m/8000000
 CCTV-2 财经,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php?id=CCTV-2 财经hd8m/8000000
-CCTV-3 综艺,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php?id=CCTV-3 综艺8m/8000000
+
 CCTV-4 中文国际,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php?id=CCTV-4 中文国际hd8m/8000000
 CCTV-5 体育,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php?id=CCTV-5 体育8m/8000000
 CCTV-5+ 体育赛事,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php?id=CCTV-5 体育phd8m/8000000
@@ -123,7 +123,7 @@ CCTV-16 奥林匹克-4k,http://103.108.67.142:909/猎狼TV吧/PLTV/百事通.php
 
 CCTV-1 综合,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=CCTV-1 综合H265_4000
 CCTV-2 财经,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=CCTV-2 财经H265_4000
-CCTV-3 综艺,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=CCTV-3 综艺H265_4000
+
 CCTV-4 中文国际,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=CCTV-4 中文国际H265_4000
 CCTV-5 体育,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=CCTV-5 体育H265_4000
 CCTV-5+ 体育赛事,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=CCTV-5 体育plusH265_4000
@@ -144,7 +144,7 @@ CCTV-4k,http://103.108.67.142:909/猎狼TV吧/PLTV/小果.php?id=ys4Kcq_2000
 
 CCTV-1 综合,http://103.108.67.142:909/猎狼TV吧/PLTV/ysp1.php?id=CCTV-1 综合
 CCTV-2 财经,http://103.108.67.142:909/猎狼TV吧/PLTV/ysp1.php?id=CCTV-2 财经
-CCTV-3 综艺,http://103.108.67.142:909/猎狼TV吧/PLTV/ysp1.php?id=CCTV-3 综艺
+
 CCTV-4 中文国际,http://103.108.67.142:909/猎狼TV吧/PLTV/ysp1.php?id=CCTV-4 中文国际
 CCTV-5 体育,http://103.108.67.142:909/猎狼TV吧/PLTV/ysp1.php?id=CCTV-5 体育
 CCTV-5+ 体育赛事,http://103.108.67.142:909/猎狼TV吧/PLTV/ysp1.php?id=CCTV-5 体育p
@@ -185,7 +185,7 @@ CGTN法语,http://103.108.67.142:909/猎狼TV吧/PLTV/ysp1.php?id=cgtnf
 
 CCTV-1 综合,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁.php?id=tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2 财经,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁.php?id=tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3 综艺,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁.php?id=tsfile/live/0001_2.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3 综艺,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁.php?id=tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4 中文国际,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁.php?id=tsfile/live/0001_3.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5 体育,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁.php?id=tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+ 体育赛事,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁.php?id=tsfile/live/0001_17.m3u8?key=txiptv&playlive=1&authid=0
