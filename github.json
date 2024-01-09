@@ -119,6 +119,7 @@
 			"key": "影视车",
 			"name": "🍒田|影视车",
 			"type": 3,
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
 			"api": "csp_Wogg",
 			"searchable": 1,
 			"quickSearch": 1,
