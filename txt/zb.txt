@@ -72,99 +72,668 @@
 
 高清央视,#genre#
 
-CCTV1-综合,http://116.131.1.2:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2-财经,http://116.131.1.2:9901/tsfile/live/faacts/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3-综艺,http://116.131.1.2:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4-国际,http://116.131.1.2:9901/tsfile/live/faacts/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5-体育,http://116.131.1.2:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+-体育赛事,http://116.131.1.2:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6-电影,http://116.131.1.2:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7-军事,http://116.131.1.2:9901/tsfile/live/faacts/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8-电视剧,http://116.131.1.2:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9-纪录,http://116.131.1.2:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10-科教,http://116.131.1.2:9901/tsfile/live/faacts/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11-戏曲,http://116.131.1.2:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12-社会与法,http://116.131.1.2:9901/tsfile/live/faacts/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13-新闻,http://116.131.1.2:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14-少儿,http://116.131.1.2:9901/tsfile/live/faacts/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15-音乐,http://116.131.1.2:9901/tsfile/live/faacts/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV16-奥林匹克,http://1.180.245.195:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17-农业农村,http://116.131.1.2:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1 综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+CCTV-2 财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV-3 综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+CCTV-4 中文国际,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV-5 体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV-5+ 体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+CCTV-6 电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+CCTV-7 国防军事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+CCTV-8 电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+CCTV-9 纪录,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV-10 科教,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV-11 戏曲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+CCTV-12 社会与法,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+CCTV-13 新闻,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV-14 少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+CCTV-15 音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+CCTV-16 奥林匹克,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV-17 农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+CETV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
+CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
+CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
+CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 
-CCTV1-综合,http://1.180.245.195:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2-财经,http://1.180.245.195:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3-综艺,http://1.180.245.195:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4-国际,http://1.180.245.195:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5-体育,http://1.180.245.195:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6-电影,http://1.180.245.195:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7-军事,http://1.180.245.195:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8-电视剧,http://1.180.245.195:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9-纪录,http://1.180.245.195:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10-科教,http://1.180.245.195:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12-社会与法,http://1.180.245.195:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13-新闻,http://1.180.245.195:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14-少儿,http://1.180.245.195:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15-音乐,http://1.180.245.195:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17-农业农村,http://1.180.245.195:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1 综合,http://www.biaozhun114.com/dl/dl666/gzyd.php?5726
+CCTV-1 综合,http://www.biaozhun114.com/dl/dl666/gzyd.php?5777
+CCTV-1 综合,http://www.biaozhun114.com/dl/dl666/gzyd.php?6290
+CCTV-1 综合,http://www.biaozhun114.com/dl/dl666/gzyd.php?6030
+CCTV-1 综合,http://www.biaozhun114.com/dl/dl666/gzyd.php?6127
+CCTV-2 财经,http://www.biaozhun114.com/dl/dl666/gzyd.php?5706
+CCTV-2 财经,http://www.biaozhun114.com/dl/dl666/gzyd.php?6282
+CCTV-3 综艺,http://www.biaozhun114.com/dl/dl666/gzyd.php?6040
+CCTV-3 综艺,http://www.biaozhun114.com/dl/dl666/gzyd.php?6008
+CCTV-3 综艺,http://www.biaozhun114.com/dl/dl666/gzyd.php?6263
+CCTV-4 中文国际,http://www.biaozhun114.com/dl/dl666/gzyd.php?5744
+CCTV-4 中文国际,http://www.biaozhun114.com/dl/dl666/gzyd.php?5674
+CCTV-4 中文国际,http://www.biaozhun114.com/dl/dl666/gzyd.php?6129
+CCTV-4 中文国际欧洲,http://www.biaozhun114.com/dl/dl666/gzyd.php?6266
+CCTV-4 中文国际欧洲,http://www.biaozhun114.com/dl/dl666/gzyd.php?6269
+CCTV-4 中文国际欧洲,http://www.biaozhun114.com/dl/dl666/gzyd.php?6268
+CCTV-4 中文国际美洲,http://www.biaozhun114.com/dl/dl666/gzyd.php?6300
+CCTV-5 体育,http://www.biaozhun114.com/dl/dl666/gzyd.php?6043
+CCTV-5 体育,http://www.biaozhun114.com/dl/dl666/gzyd.php?6259
+CCTV-5 体育,http://www.biaozhun114.com/dl/dl666/gzyd.php?6024
+CCTV-5 体育,http://www.biaozhun114.com/dl/dl666/gzyd.php?6248
+CCTV-5+ 体育赛事,http://www.biaozhun114.com/dl/dl666/gzyd.php?6285
+CCTV-5+ 体育赛事,http://www.biaozhun114.com/dl/dl666/gzyd.php?6171
+CCTV-5+ 体育赛事,http://www.biaozhun114.com/dl/dl666/gzyd.php?6128
+CCTV-6 电影,http://www.biaozhun114.com/dl/dl666/gzyd.php?6011
+CCTV-6 电影,http://www.biaozhun114.com/dl/dl666/gzyd.php?6046
+CCTV-6 电影,http://www.biaozhun114.com/dl/dl666/gzyd.php?6250
+CCTV-7 国防军事,http://www.biaozhun114.com/dl/dl666/gzyd.php?6027
+CCTV-7 国防军事,http://www.biaozhun114.com/dl/dl666/gzyd.php?6235
+CCTV-7 国防军事,http://www.biaozhun114.com/dl/dl666/gzyd.php?5745
+CCTV-8 电视剧,http://www.biaozhun114.com/dl/dl666/gzyd.php?6005
+CCTV-8 电视剧,http://www.biaozhun114.com/dl/dl666/gzyd.php?6060
+CCTV-8 电视剧,http://www.biaozhun114.com/dl/dl666/gzyd.php?6244
+CCTV-9 纪录,http://www.biaozhun114.com/dl/dl666/gzyd.php?6279
+CCTV-9 纪录,http://www.biaozhun114.com/dl/dl666/gzyd.php?6031
+CCTV-9 纪录,http://www.biaozhun114.com/dl/dl666/gzyd.php?6291
+CCTV-10 科教,http://www.biaozhun114.com/dl/dl666/gzyd.php?5685
+CCTV-10 科教,http://www.biaozhun114.com/dl/dl666/gzyd.php?6254
+CCTV-11 戏曲,http://www.biaozhun114.com/dl/dl666/gzyd.php?6273
+CCTV-11 戏曲,http://www.biaozhun114.com/dl/dl666/gzyd.php?5746
+CCTV-12 社会与法,http://www.biaozhun114.com/dl/dl666/gzyd.php?5747
+CCTV-12 社会与法,http://www.biaozhun114.com/dl/dl666/gzyd.php?6251
+CCTV-13 新闻,http://www.biaozhun114.com/dl/dl666/gzyd.php?6303
+CCTV-13 新闻,http://www.biaozhun114.com/dl/dl666/gzyd.php?6245
+CCTV-13 新闻,http://www.biaozhun114.com/dl/dl666/gzyd.php?6256
+CCTV-13 新闻,http://www.biaozhun114.com/dl/dl666/gzyd.php?5718
+CCTV-14 少儿,http://www.biaozhun114.com/dl/dl666/gzyd.php?5727
+CCTV-14 少儿,http://www.biaozhun114.com/dl/dl666/gzyd.php?6288
+CCTV-15 音乐,http://www.biaozhun114.com/dl/dl666/gzyd.php?6247
+CCTV-15 音乐,http://www.biaozhun114.com/dl/dl666/gzyd.php?5749
+CCTV-17 农业农村,http://www.biaozhun114.com/dl/dl666/gzyd.php?6168
+
+CCTV-1 综合,http://www.biaozhun114.com/dl/dl666/gsyd.php?6247
+CCTV-2 财经,http://www.biaozhun114.com/dl/dl666/gsyd.php?6220
+CCTV-3 综艺,http://www.biaozhun114.com/dl/dl666/gsyd.php?6490
+CCTV-4 中文国际,http://www.biaozhun114.com/dl/dl666/gsyd.php?6539
+CCTV-5 体育,http://www.biaozhun114.com/dl/dl666/gsyd.php?6587
+CCTV-5+ 体育赛事,http://www.biaozhun114.com/dl/dl666/gsyd.php?6253
+CCTV-6 电影,http://www.biaozhun114.com/dl/dl666/gsyd.php?6492
+CCTV-7 国防军事,http://www.biaozhun114.com/dl/dl666/gsyd.php?6432
+CCTV-8 电视剧,http://www.biaozhun114.com/dl/dl666/gsyd.php?6589
+CCTV-9 纪录,http://www.biaozhun114.com/dl/dl666/gsyd.php?6434
+CCTV-10 科教,http://www.biaozhun114.com/dl/dl666/gsyd.php?6164
+CCTV-11 戏曲,http://www.biaozhun114.com/dl/dl666/gsyd.php?6541
+CCTV-12 社会与法,http://[2409:8087:74F1:0021::0008]:80/270000001322/69900158041111100000002147/1.m3u8
+CCTV-13 新闻,http://www.biaozhun114.com/dl/dl666/gsyd.php?6438
+CCTV-14 少儿,http://www.biaozhun114.com/dl/dl666/gsyd.php?6166
+CCTV-15 音乐,http://www.biaozhun114.com/dl/dl666/gsyd.php?6616
+CCTV-16 奥林匹克,http://www.biaozhun114.com/dl/dl666/gsyd.php?6413
+CCTV-17 农业农村,http://www.biaozhun114.com/dl/dl666/gsyd.php?6407
+
+CCTV-1 综合,http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8
+CCTV-1 综合,http://39.134.66.66/PLTV/88888888/224/3221225706/index.m3u8
+CCTV-2 财经,http://39.134.66.66/PLTV/88888888/224/3221225599/index.m3u8
+CCTV-3 综艺,http://39.134.66.66/PLTV/88888888/224/3221225799/index.m3u8
+CCTV-4 中文国际,http://39.134.66.66/PLTV/88888888/224/3221225797/index.m3u8
+CCTV-5 体育,http://39.134.66.66/PLTV/88888888/224/3221225818/index.m3u8
+CCTV-5+ 体育赛事,http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
+CCTV-6 电影,http://39.134.66.66/PLTV/88888888/224/3221225814/index.m3u8
+CCTV-7 国防军事,http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
+CCTV-8 电视剧,http://39.134.66.66/PLTV/88888888/224/3221225795/index.m3u8
+CCTV-9 纪录,http://39.134.66.66/PLTV/88888888/224/3221225676/index.m3u8
+CCTV-10 科教,http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
+CCTV-11 戏曲,http://39.134.66.66/PLTV/88888888/224/3221225517/index.m3u8
+CCTV-12 社会与法,http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
+CCTV-13 新闻,http://39.134.66.66/PLTV/88888888/224/3221225812/index.m3u8
+CCTV-14 少儿,http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
+CCTV-15 音乐,http://39.134.66.66/PLTV/88888888/224/3221225513/index.m3u8
+CCTV-17 农业农村,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
+CGTN,http://39.134.66.66/PLTV/88888888/224/3221225510/index.m3u8
+CGTN纪录,http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8
+
+CCTV-1 综合,http://116.131.1.2:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2 财经,http://116.131.1.2:9901/tsfile/live/faacts/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3 综艺,http://116.131.1.2:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4 国际,http://116.131.1.2:9901/tsfile/live/faacts/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5 体育,http://116.131.1.2:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+ 体育赛事,http://116.131.1.2:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6 电影,http://116.131.1.2:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7 军事,http://116.131.1.2:9901/tsfile/live/faacts/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8 电视剧,http://116.131.1.2:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9 纪录,http://116.131.1.2:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10 科教,http://116.131.1.2:9901/tsfile/live/faacts/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11 戏曲,http://116.131.1.2:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12 社会与法,http://116.131.1.2:9901/tsfile/live/faacts/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13 新闻,http://116.131.1.2:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14 少儿,http://116.131.1.2:9901/tsfile/live/faacts/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15 音乐,http://116.131.1.2:9901/tsfile/live/faacts/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-16 奥林匹克,http://1.180.245.195:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-17 农业农村,http://116.131.1.2:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+
+CCTV-1 综合,http://1.180.245.195:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2 财经,http://1.180.245.195:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3 综艺,http://1.180.245.195:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4 国际,http://1.180.245.195:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5 体育,http://1.180.245.195:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6 电影,http://1.180.245.195:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7 军事,http://1.180.245.195:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8 电视剧,http://1.180.245.195:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9 纪录,http://1.180.245.195:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10 科教,http://1.180.245.195:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12 社会与法,http://1.180.245.195:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13 新闻,http://1.180.245.195:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14 少儿,http://1.180.245.195:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15 音乐,http://1.180.245.195:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-17 农业农村,http://1.180.245.195:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 
 高清卫视,#genre#
 
-河北卫视,http://116.131.1.2:9901/tsfile/live/0017_2.m3u8?key=txiptv&playlive=1&authid=0
-河北经济,http://116.131.1.2:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://116.131.1.2:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://116.131.1.2:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://116.131.1.2:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://116.131.1.2:9901/tsfile/live/faacts/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://116.131.1.2:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://116.131.1.2:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://116.131.1.2:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://116.131.1.2:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://116.131.1.2:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://116.131.1.2:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://116.131.1.2:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://116.131.1.2:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://116.131.1.2:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://116.131.1.2:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://116.131.1.2:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://116.131.1.2:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://116.131.1.2:9901/tsfile/live/faacts/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://116.131.1.2:9901/tsfile/live/0138_2.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://116.131.1.2:9901/tsfile/live/faacts/0139_2.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://116.131.1.2:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://116.131.1.2:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://116.131.1.2:9901/tsfile/live/0142_2.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://116.131.1.2:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://116.131.1.2:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视,http://116.131.1.2:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://116.131.1.2:9901/tsfile/live/0140_2.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://116.131.1.2:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,http://116.131.1.2:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://116.131.1.2:9901/tsfile/live/0141_2.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8
+北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
+湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
+东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
+浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
+江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+四川卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
+重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
+安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
+天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
+山西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
+山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
+山东教育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
+东南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
+海南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
+厦门卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
+河南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8
+湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
+金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
+哈哈炫动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
+辽宁卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
+黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
+吉林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8
+广西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8
+江西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8
+优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
+深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
+广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
+大湾区卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
+北京卡酷,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
+冬奥纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
+嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
+云南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8
+贵州卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
+宁夏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8
+甘肃卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8
+西藏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
+安多卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226228/index.m3u8
+康巴卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
+新疆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225747/index.m3u8
+兵团卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
+延边卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
+内蒙古卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
+康巴卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
+电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+央视文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+哒啵电竞,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8
+哒啵赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226954/index.m3u8
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
+农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
+陕西一套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
+陕西二套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8
+陕西三套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8
+陕西四套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/1.m3u8
+陕西五套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226361/1.m3u8
+陕西六套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8
+陕西七套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8
+陕西八套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8
+西安新闻综合,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8
+西安都市,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8
+西安商务资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8
+西安影视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226369/1.m3u8
+西安丝路,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8
+西安教育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
+咸阳-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226372/index.m3u8
+杨凌-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226373/index.m3u8
+延安-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8
+延安-2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8
+铜川-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8
+铜川-2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8
+宝鸡-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8
+宝鸡-2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226384/1.m3u8
+宁强-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226390/1.m3u8
+宁强-2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226389/1.m3u8
+汉中-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
+汉中-3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225991/index.m3u8
+佛坪-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226454/1.m3u8
+镇巴-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226457/1.m3u8
+略阳-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
+西乡-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226556/index.m3u8
+榆林-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8
+商洛-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226378/1.m3u8
+渭南-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8
+安康-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8
+纪实人文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
+山东教育卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
+置业频道,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
+京视剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226242/index.m3u8
+家庭理财,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/index.m3u8
+奕坦春秋,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226245/index.m3u8
+发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
+老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 
-湖南卫视,http://1.180.245.195:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://1.180.245.195:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://1.180.245.195:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://1.180.245.195:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://1.180.245.195:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://1.180.245.195:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://1.180.245.195:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://1.180.245.195:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://1.180.245.195:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://1.180.245.195:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://1.180.245.195:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://1.180.245.195:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://1.180.245.195:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://1.180.245.195:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://1.180.245.195:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-上海卫视,http://1.180.245.195:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://1.180.245.195:9901/tsfile/live/0142_2.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://1.180.245.195:9901/tsfile/live/0137_2.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://1.180.245.195:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://1.180.245.195:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://1.180.245.195:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://1.180.245.195:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://1.180.245.195:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-海峡卫视,http://1.180.245.195:9901/tsfile/live/0150_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5778#http://www.biaozhun114.com/dl/dl666/gzyd.php?6089#http://www.biaozhun114.com/dl/dl666/gzyd.php?5707
+江苏卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5751#http://www.biaozhun114.com/dl/dl666/gzyd.php?6029
+浙江卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5750#http://www.biaozhun114.com/dl/dl666/gzyd.php?5780#http://www.biaozhun114.com/dl/dl666/gzyd.php?6110
+东方卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5752#http://www.biaozhun114.com/dl/dl666/gzyd.php?6055
+北京卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5754#http://www.biaozhun114.com/dl/dl666/gzyd.php?6049
+广东卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5720#http://www.biaozhun114.com/dl/dl666/gzyd.php?6041
+山东卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5728#http://www.biaozhun114.com/dl/dl666/gzyd.php?6066
+延边卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5721
+西藏卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5668
+河北卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5713
+农林卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5696
+东南卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5739
+重庆卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5686
+江西卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5710
+安多卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5694
+河南卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5709
+新疆卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5759
+海南卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5762
+兵团卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5722
+四川卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5748#http://www.biaozhun114.com/dl/dl666/gzyd.php?6035
+新疆卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5697
+山西卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5680
+陕西卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5681
+天津卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5688
+辽宁卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5756
+吉林卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5767
+河北卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5714
+湖北卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5772
+大湾区卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5708
+宁夏卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5677
+内蒙古卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5719
+深圳卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5712
+康巴卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5695
+云南卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5687
+黑龙江卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5758
+青海卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5760
+广西卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5711
+甘肃卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5755
+延边卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5690
+安徽卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5716
+厦门卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5761
+重庆卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?6038
+湖北卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?6044
+江西卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?6063
+安徽卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?6072
+深圳卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?6069
+河南卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?6032
+天津卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?6067
+黑龙江卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?6052
+吉林卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?6078
+东南卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?6061
+河北卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?6058
+辽宁卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?6050
+厦门卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?6246
+海南卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?6298
+三沙卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?6324
+青海卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?6301
+甘肃卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?6260
+山东教育卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5764
+卡酷少儿,http://www.biaozhun114.com/dl/dl666/gzyd.php?5732
+嘉佳卡通,http://www.biaozhun114.com/dl/dl666/gzyd.php?5779
+优曼卡通,http://www.biaozhun114.com/dl/dl666/gzyd.php?5763
+金鹰卡通,http://www.biaozhun114.com/dl/dl666/gzyd.php?6296#http://www.biaozhun114.com/dl/dl666/gzyd.php?5730
+哈哈炫动,http://www.biaozhun114.com/dl/dl666/gzyd.php?5689
+CCTV-电视指南,http://www.biaozhun114.com/dl/dl666/gzyd.php?5673
+CCTV-怀旧剧场,http://www.biaozhun114.com/dl/dl666/gzyd.php?5765
+CCTV-兵器科技,http://www.biaozhun114.com/dl/dl666/gzyd.php?5676
+CCTV-中央文化精品,http://www.biaozhun114.com/dl/dl666/gzyd.php?5675
+CCTV-世界地理,http://www.biaozhun114.com/dl/dl666/gzyd.php?5731
+CCTV-高尔夫网球,http://www.biaozhun114.com/dl/dl666/gzyd.php?5733
+CCTV-第一剧场,http://www.biaozhun114.com/dl/dl666/gzyd.php?5702
+CCTV-女性时尚,http://www.biaozhun114.com/dl/dl666/gzyd.php?5699
+CCTV-风云剧场,http://www.biaozhun114.com/dl/dl666/gzyd.php?5700
+CCTV-风云音乐,http://www.biaozhun114.com/dl/dl666/gzyd.php?5698
+CCTV-风云足球,http://www.biaozhun114.com/dl/dl666/gzyd.php?5734
+CCTV-风云音乐,http://www.biaozhun114.com/dl/dl666/gzyd.php?6083
+CCTV-风云剧场,http://www.biaozhun114.com/dl/dl666/gzyd.php?6107
+CCTV女性时尚,http://www.biaozhun114.com/dl/dl666/gzyd.php?6104
+CCTV-世界地理,http://www.biaozhun114.com/dl/dl666/gzyd.php?6071
+CCTV-中央文化精品,http://www.biaozhun114.com/dl/dl666/gzyd.php?6100
+CCTV-怀旧剧场,http://www.biaozhun114.com/dl/dl666/gzyd.php?6097
+CCTV-高尔夫网球,http://www.biaozhun114.com/dl/dl666/gzyd.php?6114
+CCTV-第一剧场,http://www.biaozhun114.com/dl/dl666/gzyd.php?6124
+CCTV-央视台球,http://www.biaozhun114.com/dl/dl666/gzyd.php?6117
+CCTV-央视台球,http://www.biaozhun114.com/dl/dl666/gzyd.php?6156
+CCTV-风云足球,http://www.biaozhun114.com/dl/dl666/gzyd.php?6153
+CCTV-电视指南,http://www.biaozhun114.com/dl/dl666/gzyd.php?6120
+CCTV-兵器科技,http://www.biaozhun114.com/dl/dl666/gzyd.php?6111
+CCTV-女性时尚,http://www.biaozhun114.com/dl/dl666/gzyd.php?6311
+CCTV-中视购物,http://www.biaozhun114.com/dl/dl666/gzyd.php?6335
+CCTV-第一剧场,http://www.biaozhun114.com/dl/dl666/gzyd.php?6315
+CCTV-风云音乐,http://www.biaozhun114.com/dl/dl666/gzyd.php?6308
+中央新影-中学生,http://www.biaozhun114.com/dl/dl666/gzyd.php?5663
+中央新影-老故事,http://www.biaozhun114.com/dl/dl666/gzyd.php?5738
+中央新影-发现之旅,http://www.biaozhun114.com/dl/dl666/gzyd.php?6162
+国学频道,http://www.biaozhun114.com/dl/dl666/gzyd.php?5692
+摄影频道,http://www.biaozhun114.com/dl/dl666/gzyd.php?5683
+书画,http://www.biaozhun114.com/dl/dl666/gzyd.php?5757
+天元围棋,http://www.biaozhun114.com/dl/dl666/gzyd.php?5753
+上海纪实人文,http://www.biaozhun114.com/dl/dl666/gzyd.php?5717
+湖南金鹰纪实,http://www.biaozhun114.com/dl/dl666/gzyd.php?5671#http://www.biaozhun114.com/dl/dl666/gzyd.php?6064
+北京纪实科教,http://www.biaozhun114.com/dl/dl666/gzyd.php?6075#http://www.biaozhun114.com/dl/dl666/gzyd.php?6105
+上海纪实人文,http://www.biaozhun114.com/dl/dl666/gzyd.php?6144
+家有购物,http://www.biaozhun114.com/dl/dl666/gzyd.php?6068
+家有购物,http://www.biaozhun114.com/dl/dl666/gzyd.php?605
+聚鲨环球精选,http://www.biaozhun114.com/dl/dl666/gzyd.php?6148
+财富天下,http://www.biaozhun114.com/dl/dl666/gzyd.php?6145
+快乐垂钓,http://www.biaozhun114.com/dl/dl666/gzyd.php?6190
+新视觉HD,http://www.biaozhun114.com/dl/dl666/gzyd.php?6188
+欢乐剧场4K,http://www.biaozhun114.com/dl/dl666/gzyd.php?6210
+动漫秀场,http://www.biaozhun114.com/dl/dl666/gzyd.php?6211
+法治天地,http://www.biaozhun114.com/dl/dl666/gzyd.php?6199
+生活时尚,http://www.biaozhun114.com/dl/dl666/gzyd.php?6207
+乐游,http://www.biaozhun114.com/dl/dl666/gzyd.php?6214
+快乐垂钓,http://www.biaozhun114.com/dl/dl666/gzyd.php?6224
+动漫秀场,http://www.biaozhun114.com/dl/dl666/gzyd.php?6215
+快乐购,http://www.biaozhun114.com/dl/dl666/gzyd.php?6217
+都市剧场,http://www.biaozhun114.com/dl/dl666/gzyd.php?6231
+法治天地,http://www.biaozhun114.com/dl/dl666/gzyd.php?6209
+茶频道,http://www.biaozhun114.com/dl/dl666/gzyd.php?6240
+乐游,http://www.biaozhun114.com/dl/dl666/gzyd.php?6221
+新视觉HD,http://www.biaozhun114.com/dl/dl666/gzyd.php?6237
+生活时尚,http://www.biaozhun114.com/dl/dl666/gzyd.php?6222
+茶频道,http://www.biaozhun114.com/dl/dl666/gzyd.php?6216
+都市剧场,http://www.biaozhun114.com/dl/dl666/gzyd.php?6243
+天元围棋,http://www.biaozhun114.com/dl/dl666/gzyd.php?6341
+金色学堂,http://www.biaozhun114.com/dl/dl666/gzyd.php?6327
+金色学堂,http://www.biaozhun114.com/dl/dl666/gzyd.php?6330
+中国交通,http://www.biaozhun114.com/dl/dl666/gzyd.php?6286
+风云游戏,http://www.biaozhun114.com/dl/dl666/gzyd.php?6252
+新视觉HD,http://www.biaozhun114.com/dl/dl666/gzyd.php?6314
+汽摩,http://www.biaozhun114.com/dl/dl666/gzyd.php?5736
+CETV-1,http://www.biaozhun114.com/dl/dl666/gzyd.php?5723#http://www.biaozhun114.com/dl/dl666/gzyd.php?6121
+CETV-2,http://www.biaozhun114.com/dl/dl666/gzyd.php?6332
+CETV-4,http://www.biaozhun114.com/dl/dl666/gzyd.php?6338#http://www.biaozhun114.com/dl/dl666/gzyd.php?6295
+CETV-早期教育,http://www.biaozhun114.com/dl/dl666/gzyd.php?6304
+CGTN-记录,http://www.biaozhun114.com/dl/dl666/gzyd.php?5670
+CGTN-E,http://www.biaozhun114.com/dl/dl666/gzyd.php?5666
+CGTN-A,http://www.biaozhun114.com/dl/dl666/gzyd.php?5669
+CGTN,http://www.biaozhun114.com/dl/dl666/gzyd.php?5664
+CGTN-P,http://www.biaozhun114.com/dl/dl666/gzyd.php?5667
+CGTN-F,http://www.biaozhun114.com/dl/dl666/gzyd.php?5665
+CGTN-记录,http://www.biaozhun114.com/dl/dl666/gzyd.php?6238
+CGTN-P,http://www.biaozhun114.com/dl/dl666/gzyd.php?6278
+CGTN-E,http://www.biaozhun114.com/dl/dl666/gzyd.php?6232
+CGTN,http://www.biaozhun114.com/dl/dl666/gzyd.php?6239
+CGTN-F,http://www.biaozhun114.com/dl/dl666/gzyd.php?6265
+CGTN-P,http://www.biaozhun114.com/dl/dl666/gzyd.php?6242
+CGTN-A,http://www.biaozhun114.com/dl/dl666/gzyd.php?6281
+CGTN-E,http://www.biaozhun114.com/dl/dl666/gzyd.php?6284
+CGTN,http://www.biaozhun114.com/dl/dl666/gzyd.php?6271
+CGTN,http://www.biaozhun114.com/dl/dl666/gzyd.php?6297
+CGTN-A,http://www.biaozhun114.com/dl/dl666/gzyd.php?6257
+CGTN-F,http://www.biaozhun114.com/dl/dl666/gzyd.php?6270
+咪咕1,http://www.biaozhun114.com/dl/dl666/gzyd.php?6152
+咪咕2,http://www.biaozhun114.com/dl/dl666/gzyd.php?6140
+咪咕3,http://www.biaozhun114.com/dl/dl666/gzyd.php?6149
+咪咕4,http://www.biaozhun114.com/dl/dl666/gzyd.php?6137
+咪咕5,http://www.biaozhun114.com/dl/dl666/gzyd.php?6143
+咪咕6,http://www.biaozhun114.com/dl/dl666/gzyd.php?6134
+咪咕7,http://www.biaozhun114.com/dl/dl666/gzyd.php?6154
+咪咕8,http://www.biaozhun114.com/dl/dl666/gzyd.php?6157
+咪咕9,http://www.biaozhun114.com/dl/dl666/gzyd.php?6146
+咪咕10,http://www.biaozhun114.com/dl/dl666/gzyd.php?6177
+咪咕11,http://www.biaozhun114.com/dl/dl666/gzyd.php?6151
+咪咕12,http://www.biaozhun114.com/dl/dl666/gzyd.php?6186
+咪咕13,http://www.biaozhun114.com/dl/dl666/gzyd.php?6183
+咪咕14,http://www.biaozhun114.com/dl/dl666/gzyd.php?6229
+咪咕15,http://www.biaozhun114.com/dl/dl666/gzyd.php?6236
+咪咕16,http://www.biaozhun114.com/dl/dl666/gzyd.php?6227
+咪咕17,http://www.biaozhun114.com/dl/dl666/gzyd.php?6255
+咪咕18,http://www.biaozhun114.com/dl/dl666/gzyd.php?6226
+咪咕19,http://www.biaozhun114.com/dl/dl666/gzyd.php?6223
+咪咕20,http://www.biaozhun114.com/dl/dl666/gzyd.php?6292
+咪咕21,http://www.biaozhun114.com/dl/dl666/gzyd.php?6230
+咪咕22,http://www.biaozhun114.com/dl/dl666/gzyd.php?6323
+咪咕23,http://www.biaozhun114.com/dl/dl666/gzyd.php?6264
+咪咕24,http://www.biaozhun114.com/dl/dl666/gzyd.php?6258
+咪咕25,http://www.biaozhun114.com/dl/dl666/gzyd.php?6233
+咪咕26,http://www.biaozhun114.com/dl/dl666/gzyd.php?6344
+咪咕27,http://www.biaozhun114.com/dl/dl666/gzyd.php?6261
+6频测试1,http://www.biaozhun114.com/dl/dl666/gzyd.php?6159
+6频测试2,http://www.biaozhun114.com/dl/dl666/gzyd.php?6136
+6频测试3,http://www.biaozhun114.com/dl/dl666/gzyd.php?6116
+6频测试4,http://www.biaozhun114.com/dl/dl666/gzyd.php?6329
+贵州卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?5703#http://www.biaozhun114.com/dl/dl666/gzyd.php?5776#http://www.biaozhun114.com/dl/dl666/gzyd.php?5771
+贵州卫视,http://www.biaozhun114.com/dl/dl666/gzyd.php?6165
+贵州-2,http://www.biaozhun114.com/dl/dl666/gzyd.php?6119#http://www.biaozhun114.com/dl/dl666/gzyd.php?5682
+贵州-3,http://www.biaozhun114.com/dl/dl666/gzyd.php?5704#http://www.biaozhun114.com/dl/dl666/gzyd.php?6287
+贵州-3,http://www.biaozhun114.com/dl/dl666/gzyd.php?6158#http://www.biaozhun114.com/dl/dl666/gzyd.php?6131#http://www.biaozhun114.com/dl/dl666/gzyd.php?6007
+贵州-4,http://www.biaozhun114.com/dl/dl666/gzyd.php?5740#http://www.biaozhun114.com/dl/dl666/gzyd.php?6280
+贵州-5,http://www.biaozhun114.com/dl/dl666/gzyd.php?5662#http://www.biaozhun114.com/dl/dl666/gzyd.php?6277
+贵州-6,http://www.biaozhun114.com/dl/dl666/gzyd.php?5672#http://www.biaozhun114.com/dl/dl666/gzyd.php?6293
+贵州-7,http://www.biaozhun114.com/dl/dl666/gzyd.php?6289#http://www.biaozhun114.com/dl/dl666/gzyd.php?6274#http://www.biaozhun114.com/dl/dl666/gzyd.php?5741
+贵州移动,http://www.biaozhun114.com/dl/dl666/gzyd.php?5774
+贵阳-1,http://www.biaozhun114.com/dl/dl666/gzyd.php?6037#http://www.biaozhun114.com/dl/dl666/gzyd.php?5743
+贵阳-2,http://www.biaozhun114.com/dl/dl666/gzyd.php?5684
+贵阳-3,http://www.biaozhun114.com/dl/dl666/gzyd.php?5705
+六盘水-2,http://www.biaozhun114.com/dl/dl666/gzyd.php?5773
+铜仁,http://www.biaozhun114.com/dl/dl666/gzyd.php?6299
+铜仁-1,http://www.biaozhun114.com/dl/dl666/gzyd.php?5775
+铜仁-2,http://www.biaozhun114.com/dl/dl666/gzyd.php?6102
+毕节-1,http://www.biaozhun114.com/dl/dl666/gzyd.php?6113#http://www.biaozhun114.com/dl/dl666/gzyd.php?6002
+毕节-2,http://www.biaozhun114.com/dl/dl666/gzyd.php?6133#http://www.biaozhun114.com/dl/dl666/gzyd.php?6021
+黔西南综合,http://www.biaozhun114.com/dl/dl666/gzyd.php?5995
+黔西南公共,http://www.biaozhun114.com/dl/dl666/gzyd.php?6003
+黔南-1,http://www.biaozhun114.com/dl/dl666/gzyd.php?6022
+黔南-2,http://www.biaozhun114.com/dl/dl666/gzyd.php?6025
+遵义新闻综合,http://www.biaozhun114.com/dl/dl666/gzyd.php?6318#http://www.biaozhun114.com/dl/dl666/gzyd.php?6026
+遵义都市频道,http://www.biaozhun114.com/dl/dl666/gzyd.php?6051#http://www.biaozhun114.com/dl/dl666/gzyd.php?6317
+遵义公共频道,http://www.biaozhun114.com/dl/dl666/gzyd.php?6028#http://www.biaozhun114.com/dl/dl666/gzyd.php?6320
+安顺新闻综合,http://www.biaozhun114.com/dl/dl666/gzyd.php?6241#http://www.biaozhun114.com/dl/dl666/gzyd.php?6054
+安顺公共频道,http://www.biaozhun114.com/dl/dl666/gzyd.php?6276#http://www.biaozhun114.com/dl/dl666/gzyd.php?6034
+瓮安电视台,http://www.biaozhun114.com/dl/dl666/gzyd.php?6294#http://www.biaozhun114.com/dl/dl666/gzyd.php?6174
+雷山综合,http://www.biaozhun114.com/dl/dl666/gzyd.php?6130#http://www.biaozhun114.com/dl/dl666/gzyd.php?5998
+KLTV凯里,http://www.biaozhun114.com/dl/dl666/gzyd.php?6062#http://www.biaozhun114.com/dl/dl666/gzyd.php?6094
+QDNTV综合,http://www.biaozhun114.com/dl/dl666/gzyd.php?6091#http://www.biaozhun114.com/dl/dl666/gzyd.php?6033
+桐梓电视台,http://www.biaozhun114.com/dl/dl666/gzyd.php?6095
+黔西电视台,http://www.biaozhun114.com/dl/dl666/gzyd.php?5693
+瑜伽运动,http://www.biaozhun114.com/dl/dl666/gzyd.php?6160
+摄像头,http://www.biaozhun114.com/dl/dl666/gzyd.php?6163
+电影1,http://www.biaozhun114.com/dl/dl666/gzyd.php?6313#http://www.biaozhun114.com/dl/dl666/gzyd.php?6098#http://www.biaozhun114.com/dl/dl666/gzyd.php?6125
+电影2,http://www.biaozhun114.com/dl/dl666/gzyd.php?6101#http://www.biaozhun114.com/dl/dl666/gzyd.php?6336
+云看贵州,http://www.biaozhun114.com/dl/dl666/gzyd.php?6333
+云看贵州,http://www.biaozhun114.com/dl/dl666/gzyd.php?6267
+云看贵州,http://www.biaozhun114.com/dl/dl666/gzyd.php?6310
+云看贵州,http://www.biaozhun114.com/dl/dl666/gzyd.php?6302
+云看贵州,http://www.biaozhun114.com/dl/dl666/gzyd.php?6305
+云看贵州,http://www.biaozhun114.com/dl/dl666/gzyd.php?6309
+云看贵州,http://www.biaozhun114.com/dl/dl666/gzyd.php?6142
+云看贵州,http://www.biaozhun114.com/dl/dl666/gzyd.php?6220
+云看贵州,http://www.biaozhun114.com/dl/dl666/gzyd.php?6283
+云看贵州,http://www.biaozhun114.com/dl/dl666/gzyd.php?6306
+
+安徽卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6205
+江苏卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6157
+东方卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6155
+广东卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6180
+北京卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6161
+黑龙江卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6142
+浙江卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6144
+湖北卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6159
+山东卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6162
+湖南卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6193
+天津卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6191
+东南卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6182
+江西卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6207
+深圳卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6199
+辽宁卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6209
+河北卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6442
+海南卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6450
+四川卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6454
+贵州卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6547
+甘肃卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6240
+重庆卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6551
+河南卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6614
+内蒙古卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?5664
+厦门卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?5689
+兵团卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?5631
+西藏卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?5698
+吉林卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6440
+陕西卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6444
+广西卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6452
+云南卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6549
+新疆卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6608
+青海卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6606
+山西卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6604
+三沙卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6701
+宁夏卫视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6693
+卡酷少儿,http://www.biaozhun114.com/dl/dl666/gsyd.php?5643
+哈哈炫动,http://www.biaozhun114.com/dl/dl666/gsyd.php?5668
+金鹰卡通,http://www.biaozhun114.com/dl/dl666/gsyd.php?5634
+嘉佳卡通,http://www.biaozhun114.com/dl/dl666/gsyd.php?5681
+上海都市,http://www.biaozhun114.com/dl/dl666/gsyd.php?5673
+上海外语,http://www.biaozhun114.com/dl/dl666/gsyd.php?6201
+欢笑剧场,http://www.biaozhun114.com/dl/dl666/gsyd.php?6203
+第一财*,http://www.biaozhun114.com/dl/dl666/gsyd.php?6172
+都市剧场,http://www.biaozhun114.com/dl/dl666/gsyd.php?6176
+生活时尚,http://www.biaozhun114.com/dl/dl666/gsyd.php?6358
+纪实人文,http://www.biaozhun114.com/dl/dl666/gsyd.php?6174
+法治天地,http://www.biaozhun114.com/dl/dl666/gsyd.php?5627
+游戏风云,http://www.biaozhun114.com/dl/dl666/gsyd.php?6187
+哈哈炫动,http://www.biaozhun114.com/dl/dl666/gsyd.php?6618
+动漫秀场,http://www.biaozhun114.com/dl/dl666/gsyd.php?6197
+东方财*,http://www.biaozhun114.com/dl/dl666/gsyd.php?6602
+甘肃都市,http://www.biaozhun114.com/dl/dl666/gsyd.php?6248
+甘肃经济,http://www.biaozhun114.com/dl/dl666/gsyd.php?6252
+甘肃文化影视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6287
+甘肃少儿,http://www.biaozhun114.com/dl/dl666/gsyd.php?6289
+甘肃公共应急,http://www.biaozhun114.com/dl/dl666/gsyd.php?6250
+兰州新闻综合,http://www.biaozhun114.com/dl/dl666/gsyd.php?6242
+兰州生活经济,http://www.biaozhun114.com/dl/dl666/gsyd.php?6285
+兰州文旅频道,http://www.biaozhun114.com/dl/dl666/gsyd.php?6597
+咪咕综合体育,http://www.biaozhun114.com/dl/dl666/gsyd.php?6504
+咪咕精彩足球,http://www.biaozhun114.com/dl/dl666/gsyd.php?6506
+咪咕精彩足球,http://www.biaozhun114.com/dl/dl666/gsyd.php?6508
+
+北京冬奥纪实,http://39.134.66.66/PLTV/88888888/224/3221225670/index.m3u8
+北京卡酷少儿,http://39.134.66.66/PLTV/88888888/224/3221225562/index.m3u8
+北京卫视,http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8
+重庆卫视,http://39.134.66.66/PLTV/88888888/224/3221225502/index.m3u8
+大庆公共,http://39.134.66.66/PLTV/88888888/224/3221225734/index.m3u8
+大庆新闻综合,http://39.134.66.66/PLTV/88888888/224/3221225736/index.m3u8
+东方卫视,http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
+东南卫视,http://39.134.66.66/PLTV/88888888/224/3221225500/index.m3u8
+甘肃卫视,http://39.134.66.66/PLTV/88888888/224/3221225584/index.m3u8
+贵州卫视,http://39.134.66.66/PLTV/88888888/224/3221225576/index.m3u8
+哈尔滨生活,http://39.134.66.66/PLTV/88888888/224/3221225698/index.m3u8
+哈尔滨新闻综合,http://39.134.66.66/PLTV/88888888/224/3221225684/index.m3u8
+哈尔滨影视,http://39.134.66.66/PLTV/88888888/224/3221225700/index.m3u8
+哈尔滨娱乐,http://39.134.66.66/PLTV/88888888/224/3221225699/index.m3u8
+哈尔滨资讯,http://39.134.66.66/PLTV/88888888/224/3221225697/index.m3u8
+海南卫视,http://39.134.66.66/PLTV/88888888/224/3221225530/index.m3u8
+河北卫视,http://39.134.66.66/PLTV/88888888/224/3221225495/index.m3u8
+鹤岗公共,http://39.134.66.66/PLTV/88888888/224/3221225787/index.m3u8
+鹤岗新闻综合,http://39.134.66.66/PLTV/88888888/224/3221225785/index.m3u8
+黑莓电竞,http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
+黑莓电影,http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
+黑莓动画,http://39.134.66.66/PLTV/88888888/224/3221225529/index.m3u8
+湖北卫视,http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
+湖南金鹰卡通,http://39.134.66.66/PLTV/88888888/224/3221225561/index.m3u8
+湖南卫视,http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
+江苏好享购物,http://39.134.66.66/PLTV/88888888/224/3221225695/index.m3u8
+江苏卫视,http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
+江苏优漫卡通,http://39.134.66.66/PLTV/88888888/224/3221225556/index.m3u8
+辽宁卫视,http://39.134.66.66/PLTV/88888888/224/3221225499/index.m3u8
+咪咕视频1,http://39.134.66.66/PLTV/88888888/224/3221225643/index.m3u8
+咪咕视频2,http://39.134.66.66/PLTV/88888888/224/3221225648/index.m3u8
+咪咕视频3,http://39.134.66.66/PLTV/88888888/224/3221225639/index.m3u8
+咪咕视频4,http://39.134.66.66/PLTV/88888888/224/3221225652/index.m3u8
+咪咕视频5,http://39.134.66.66/PLTV/88888888/224/3221225647/index.m3u8
+咪咕视频6,http://39.134.66.66/PLTV/88888888/224/3221225645/index.m3u8
+咪咕视频7,http://39.134.66.66/PLTV/88888888/224/3221225650/index.m3u8
+咪咕视频8,http://39.134.66.66/PLTV/88888888/224/3221225641/index.m3u8
+咪咕视频9,http://39.134.66.66/PLTV/88888888/224/3221225617/index.m3u8
+咪咕视频10,http://39.134.66.66/PLTV/88888888/224/3221225651/index.m3u8
+咪咕视频11,http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8
+咪咕视频12,http://39.134.66.66/PLTV/88888888/224/3221225611/index.m3u8
+咪咕视频13,http://39.134.66.66/PLTV/88888888/224/3221225649/index.m3u8
+咪咕视频14,http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
+咪咕视频15,http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
+咪咕视频16,http://39.134.66.66/PLTV/88888888/224/3221225658/index.m3u8
+咪咕视频8M1,http://39.134.66.66/PLTV/88888888/224/3221225762/index.m3u8
+咪咕视频8M2,http://39.134.66.66/PLTV/88888888/224/3221225749/index.m3u8
+咪咕视频8M3,http://39.134.66.66/PLTV/88888888/224/3221225758/index.m3u8
+咪咕视频8M4,http://39.134.66.66/PLTV/88888888/224/3221225764/index.m3u8
+咪咕视频8M5,http://39.134.66.66/PLTV/88888888/224/3221225747/index.m3u8
+咪咕视频8M6,http://39.134.66.66/PLTV/88888888/224/3221225766/index.m3u8
+咪咕视频8M7,http://39.134.66.66/PLTV/88888888/224/3221225760/index.m3u8
+咪咕视频8M8,http://39.134.66.66/PLTV/88888888/224/3221225756/index.m3u8
+咪咕视频8M9,http://39.134.66.66/PLTV/88888888/224/3221225745/index.m3u8
+咪咕视频8M10,http://39.134.66.66/PLTV/88888888/224/3221225735/index.m3u8
+咪咕视频8M11,http://39.134.66.66/PLTV/88888888/224/3221225741/index.m3u8
+咪咕视频8M12,http://39.134.66.66/PLTV/88888888/224/3221225739/index.m3u8
+咪咕视频8M13,http://39.134.66.66/PLTV/88888888/224/3221225654/index.m3u8
+咪咕视频 30M2160HDR,http://39.134.66.66/PLTV/88888888/224/3221225655/index.m3u8
+咪咕直播,http://39.134.66.66/PLTV/88888888/224/3221225782/index.m3u8
+内蒙古卫视,http://39.134.66.66/PLTV/88888888/224/3221225577/index.m3u8
+宁夏卫视,http://39.134.66.66/PLTV/88888888/224/3221225579/index.m3u8
+七台河公共,http://39.134.66.66/PLTV/88888888/224/3221225800/index.m3u8
+青海安多卫视,http://39.134.66.66/PLTV/88888888/224/3221225531/index.m3u8
+青海卫视,http://39.134.66.66/PLTV/88888888/224/3221225573/index.m3u8
+求索动物8M,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+求索纪录8M,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
+求索科学8M,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
+求索生活8M,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+山东教育卫视,http://39.134.66.66/PLTV/88888888/224/3221225558/index.m3u8
+山西卫视,http://39.134.66.66/PLTV/88888888/224/3221225496/index.m3u8
+陕西卫视,http://39.134.66.66/PLTV/88888888/224/3221225567/index.m3u8
+上海哈哈炫动,http://39.134.66.66/PLTV/88888888/224/3221225534/index.m3u8
+上海纪实人文,http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
+深圳卫视,http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8
+四川康巴卫视,http://39.134.66.66/PLTV/88888888/224/3221225527/index.m3u8
+天津卫视,http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
+西藏卫视,http://39.134.66.66/PLTV/88888888/224/3221225570/index.m3u8
+新疆卫视,http://39.134.66.66/PLTV/88888888/224/3221225582/index.m3u8
+浙江卫视,http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
+中国教育1,http://39.134.66.66/PLTV/88888888/224/3221225563/index.m3u8
+
+NewTV,#genre#
+
+NewTV爱情喜剧,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+NewTV超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
+NewTV超级电影,http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+NewTV超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+NewTV超级综艺,http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
+NewTV潮妈辣婆,http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
+NewTV东北热剧,http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
+NewTV动作电影,http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8
+NewTV古装剧场,http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
+NewTV家庭剧场,http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
+NewTV家庭剧场,http://39.134.66.66/PLTV/88888888/224/3221225682/index.m3u8
+NewTV金牌综艺,http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
+NewTV惊悚悬疑,http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
+NewTV精品大剧,http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
+NewTV精品纪录,http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
+NewTV精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
+NewTV军旅剧场,http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
+NewTV军事评论,http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
+NewTV明星大片,http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
+NewTV农业致富,http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
+NewTV武搏世界,http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
+NewTV炫舞未来,http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
+NewTV怡伴健康,http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
+NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 
 移动,#genre#
 CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
