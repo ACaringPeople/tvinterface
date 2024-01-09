@@ -59,17 +59,38 @@
 
 CCTV-1 综合,http://222.223.119.21:8888/newlive/live/hls/2/live.m3u8
 CCTV-2 财经,http://222.223.119.21:8888/newlive/live/hls/3/live.m3u8
+CCTV-3 综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+CCTV-3 综艺,http://www.biaozhun114.com/dl/dl666/gzyd.php?6040
+CCTV-3 综艺,http://www.biaozhun114.com/dl/dl666/gzyd.php?6008
+CCTV-3 综艺,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727c125355/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMUNNEYLCPUtKY62j1Wp5u04wipypKUQ1TTuR2lXvBl5YpHqBJmlA19x22TD9bUOjk
+CCTV-3 综艺,http://www.biaozhun114.com/dl/dl666/gsyd.php?6490
+CCTV-3 综艺,http://39.134.66.66/PLTV/88888888/224/3221225799/index.m3u8
 CCTV-3 综艺,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁1.php?id=tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3 综艺,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/吉林.php?id=hls/3/index.m3u8
 CCTV-3 综艺,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/广东.php?id=tsfile/live/0003_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3 综艺,http://222.223.119.21:8888/newlive/live/hls/4/live.m3u8
 CCTV-4 中文国际,http://222.223.119.21:8888/newlive/live/hls/5/live.m3u8
+CCTV-5 体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV-5 体育,http://www.biaozhun114.com/dl/dl666/gzyd.php?6043
+CCTV-5 体育,http://www.biaozhun114.com/dl/dl666/gzyd.php?6259
+CCTV-5 体育,http://www.biaozhun114.com/dl/dl666/gzyd.php?6024
+CCTV-5 体育,http://www.biaozhun114.com/dl/dl666/gzyd.php?6248
+CCTV-5 体育,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMSXw4ajlL%2FoUYC2RZQQDco6uQSifXBocz5ID6RePfIKQ4rFWiHjq%2FeZoDmrzW%2FKlw
+CCTV-5 体育,http://www.biaozhun114.com/dl/dl666/gsyd.php?6587
+
 CCTV-5 体育,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/辽宁1.php?id=tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5 体育,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/广东.php?id=tsfile/live/0005_3.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5 体育,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/广东.php?id=tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+ 体育赛事,http://222.223.119.21:8888/newlive/live/hls/7/live.m3u8
 CCTV-6 电影,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/上海.php?id=hls/6/index.m3u8
 CCTV-7 国防军事,http://222.223.119.21:8888/newlive/live/hls/9/live.m3u8
+CCTV-8 电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+CCTV-8 电视剧,http://www.biaozhun114.com/dl/dl666/gzyd.php?6005
+CCTV-8 电视剧,http://www.biaozhun114.com/dl/dl666/gzyd.php?6060
+CCTV-8 电视剧,http://www.biaozhun114.com/dl/dl666/gzyd.php?6244
+CCTV-8 电视剧.5M1080HEVC,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728970aa82/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaymid9ta2tVUW0%2FdVrFqszC1EVEkAbpip1IYxn%2Ba2aA%2BVAihIiw9D8ejUsDbfU0K68
+CCTV-8 电视剧,http://www.biaozhun114.com/dl/dl666/gsyd.php?6589
+
 CCTV-8 电视剧,http://103.108.67.142:909/猎狼TV吧/PLTV/酒店/吉林.php?id=hls/8/index.m3u8
 CCTV-9 纪录,http://222.223.119.21:8888/newlive/live/hls/11/live.m3u8
 CCTV-10 科教,http://222.223.119.21:8888/newlive/live/hls/12/live.m3u8
