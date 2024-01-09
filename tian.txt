@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "http://vipurl.icu/TVBOX/honor/honor.json",
+            "url": "http://i.rdhk.net/TVBOX/honor/honor.json",
             "name": "🍒个人ftphonor"
         },
         {
