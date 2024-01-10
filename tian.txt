@@ -13,6 +13,10 @@
             "name": "🍒个人gitcode"
         },
         {
+            "url": "https://atomgit.com/18581493872/honor/raw/master/honor.json",
+            "name": "🍒个人atomgit"
+        },
+        {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/ACaringPeople/honor/master/honor.json",
             "name": "🍒个人Github1"
         },
