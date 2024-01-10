@@ -1,6 +1,6 @@
 测试,#genre#
 
-1,http://123.182.60.29:9002/hls/1/index.m3u8
+张家口1,http://123.182.60.29:9002/hls/1/index.m3u8
 2,http://123.182.60.29:9002/hls/2/index.m3u8
 3,http://123.182.60.29:9002/hls/3/index.m3u8
 4,http://123.182.60.29:9002/hls/4/index.m3u8
