@@ -284,6 +284,19 @@
 			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json$$$https://dapanso.com$$$null"
 		},
 		{
+			"key": "秒搜",
+			"name": "🍒田|秒搜网盘",
+			"type": 3,
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
+			"api": "csp_MiaoSou",
+			"changeable": 2,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json",
+			"timeout": 60
+		},
+		{
 			"key": "Qianfan",
 			"name": "🍒田|千帆网盘",
 			"type": 3,
