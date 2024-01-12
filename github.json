@@ -297,6 +297,19 @@
 			"timeout": 60
 		},
 		{
+			"key": "PikaSo",
+			"name": "🍒田|皮卡网盘",
+			"type": 3,
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
+			"api": "csp_PikaSo",
+			"changeable": 2,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json$$$https://www.pikaso.top/$$$null",
+			"timeout": 60
+		},
+		{
 			"key": "Qianfan",
 			"name": "🍒田|千帆网盘",
 			"type": 3,
@@ -1846,6 +1859,15 @@
 			"type": 0,
 			"url": "https://raw.githubusercontentS.com/ACaringPeople/tvinterface/main/txt/zb.txt",
 			"playerType": 2,
+			"ua": "okhttp/3.15",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "shenx",
+			"type": 0,
+			"url": "http://sx.liuyun.wang:88/zb.txt",
+			"playerType": 1,
 			"ua": "okhttp/3.15",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
