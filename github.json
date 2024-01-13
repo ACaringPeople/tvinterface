@@ -31,25 +31,32 @@
 			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/market.json"
 		},
 		{
-			"key": "douyu",
-			"name": "🍒田|斗鱼直播",
+			"key": "哔哩哔哩",
+			"name": "🍒田|哔哩官源",
 			"type": 3,
-			"api": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/douyu_open.js",
+			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
+			"api": "csp_Bili",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 1.755
+			},
+			"filterable": 1,
 			"ext": {
-				"from": "official",
-				"custom": "LOL,英雄联盟#wzry,王者荣耀"
+				"type": "沙雕#说案#搞笑#鬼畜#相声小品#探索发现#美食#帕梅拉#八段锦#广场舞#演唱会#贝瓦儿歌",
+				"cookie":"i-wanna-go-back=-1; buvid_fp_plain=undefined; header_theme_version=CLOSE; PVID=1; b_ut=7; FEED_LIVE_VERSION=V8; CURRENT_BLACKGAP=0; buvid4=3A49A725-00D0-2AF2-7037-F442C85F130937725-022100900-zOXW6fOdu77ioX%2BIVm0nwA%3D%3D; CURRENT_FNVAL=4048; CURRENT_PID=84a2a660-ed72-11ed-b29f-d7eaa4f43fe4; DedeUserID=186957646; DedeUserID__ckMd5=4f717c8832ee1e62; buvid3=2FBAD7D5-658A-4DE3-B93F-34AEAB029A3B33241infoc; b_nut=1696324033; _uuid=66C37D101-DB12-BDC3-810F1-8D436BE38D2728848infoc; enable_web_push=DISABLE; hit-dyn-v2=1; fingerprint=1c0962ce584a4c104a234c96b7446190; home_feed_column=5; browser_resolution=2552-1292; rpdid=|(ku|kk~JRRk0J'u~|R)k||YJ; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDUwNzkyNjYsImlhdCI6MTcwNDgyMDAwNiwicGx0IjotMX0.LWgkxIv9lpVl6OOODwloZvDzFsg3iwP2Hss7AtSC9dA; bili_ticket_expires=1705079206; SESSDATA=e70eb56b%2C1720372067%2C6cf68%2A11CjA2ghdnEDLHjdhigvfjCJ0txCedUQx5A-zE9K6_fizRbhPk_0NGucxx8ycQu7-DLjwSVlpGV01qX0RTSS1Bd0E5T1ZHZjNZUFZCcEJhZlRsMmRVYkhyN3hJSEdhWjI2S1lpOUMzd1VYTkNiX2JyVkNKdUo2UUJER3I4R3lmSXVZUDlDWTdPLUtnIIEC; bili_jct=0cd7f44fdc331e39310fca4e2f418529; sid=nbq6cd3t; innersign=0; b_lsid=109441365_18CFC904CEA; buvid_fp=2FBAD7D5-658A-4DE3-B93F-34AEAB029A3B33241infoc"
 			}
 		},
 		{
-			"key": "huya",
-			"name": "🍒田|虎牙直播",
-			"type": 3,
-			"api": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/huya_open.js",
-			"ext": {
-				"from": "official",
-				"custom": "1,英雄联盟#2336,王者荣耀"
-			}
-		},
+      "key": "csp_JustLive",
+      "name": "🍒田|️JustLive ",
+      "type": 3,
+      "jar": "https://qlql.link/jar/Qile1222.jar",
+      "api": "csp_JustLive",
+      "searchable": 0
+    },
 		{
 			"key": "玩偶哥哥",
 			"name": "🍒田|玩偶4K",
@@ -1406,25 +1413,6 @@
 			"changeable": 2,
 			"ext": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/lib/PG.json",
 			"timeout": 60
-		},
-		{
-			"key": "哔哩哔哩",
-			"name": "🍒田|哔哩官源",
-			"type": 3,
-			"jar": "https://gh.con.sh/https://raw.githubusercontent.com/ACaringPeople/honor/master/jar/pg.jar",
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 1.755
-			},
-			"filterable": 1,
-			"ext": {
-				"type": "沙雕#说案#搞笑#鬼畜#相声小品#探索发现#美食#帕梅拉#八段锦#广场舞#演唱会#贝瓦儿歌",
-				"cookie": "i-wanna-go-back=-1; buvid_fp_plain=undefined; rpdid=|(ku|kk~Y)|~0J'uYY)~R|Ruu; header_theme_version=CLOSE; PVID=1; b_ut=7; FEED_LIVE_VERSION=V8; CURRENT_BLACKGAP=0; buvid4=3A49A725-00D0-2AF2-7037-F442C85F130937725-022100900-zOXW6fOdu77ioX%2BIVm0nwA%3D%3D; CURRENT_FNVAL=4048; CURRENT_PID=84a2a660-ed72-11ed-b29f-d7eaa4f43fe4; DedeUserID=186957646; DedeUserID__ckMd5=4f717c8832ee1e62; buvid3=2FBAD7D5-658A-4DE3-B93F-34AEAB029A3B33241infoc; b_nut=1696324033; _uuid=66C37D101-DB12-BDC3-810F1-8D436BE38D2728848infoc; enable_web_push=DISABLE; hit-dyn-v2=1; innersign=0; b_lsid=981EC88B_18C872AD87A; SESSDATA=c4779b74%2C1718626788%2C3611e%2Ac1CjCOSRxDoHRlVinsLP2lc3AvbmPzXLDvKWjWK1ckaxqv1lEAev7joUdWp6JgQwy8xk8SVmFHcndrTEpOT05DbWpvaDNfdXdPVTBQR2NtSHNJMjVCOGJ3VXdhY3gxVmVKMnd6dWhrUkkyYkd2MWdFbVItblN6VDQ5clgwd00zR3dGS1FtODdOWVdRIIEC; bili_jct=bf0412377f4ff1389b9358355d037fa5; sid=fv34lvdg; home_feed_column=4; browser_resolution=819-1292; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDMzMzQwMjcsImlhdCI6MTcwMzA3NDc2NywicGx0IjotMX0.tAO5Lh-srETkWo86IqbiZwEYuKc4_n-Cz0Se0dF9qm0; bili_ticket_expires=1703333967; fingerprint=1c0962ce584a4c104a234c96b7446190; buvid_fp=1c0962ce584a4c104a234c96b7446190"
-			}
 		}
 	],
 	"parses": [
