@@ -25,18 +25,6 @@
             "name": "🍒个人Gitlink"
         },
         {
-            "url": "https://raw.githubusercontentS.com/ACaringPeople/tvinterface/main/github.json",
-            "name": "🍒个人Github2"
-        },
-        {
-            "url": "http://vipurl.icu/TVBOX/honor/DM.json",
-            "name": "🍒个人ftpDM接口"
-        },
-        {
-            "url": "http://vipurl.icu/TVBOX/honor/DM1.json",
-            "name": "🍒个人ftpDM1接口"
-        },
-        {
             "url": "http://tiantuhao.3vkj.club/honor/honor.json",
             "name": "🍒个人ftp"
         },
@@ -55,31 +43,19 @@
         {
             "url":"https://notabug.org/tiantuhao/GitHubHonor/raw/master/honor.json",
             "name":"🍒个人notanbug"
-        },
-        {
-            "url": "https://us1.wuaipan.com/api/v3/slave/source/1048576/dXBsb2Fkcy8yMDIzLzA4LzIxL1luckVhQWFVX3RpYW4uanNvbg/honor.json?sign=aV0LS5-EPoPytxw1S31XSPm0fpNFGEwBwRLRRcwBobU%3D%3A0",
-            "name": "🍒个人吾爱"
-        },
-        {
-            "url": "https://pan.shangui.cc/f/G5x0hz/tian.json",
-            "name": "🍒个人跑路"
-        },
-        {
-            "url": "https://cloud.lxweb.cn/f/8q2U1/tian.json",
-            "name": "🍒个人天霜"
-        },
-        {
-            "url": "https://pan.ly93.cc/f/J7xiZ/honor.json",
-            "name": "🍒个人涟漪"
-        },
+        }
          {
             "url": "https://download.kstore.space/download/4828/honor.json",
             "name": "🍒个人凯速网"
         }, 
         {
-        "url": "https://ghproxy.net/https://raw.githubusercontent.com/ACaringPeople/honor/master/caiji.json",
-            "name": "🍒个人caiji"
-        }, 
+            "url": "https://gitee.com/moyu0913/xiaohei/raw/master/DM1.json",
+            "name": "👑小白┃弹幕1👑"
+        },
+        {
+            "url": "https://gitee.com/moyu0913/xiaohei/raw/master/DM2.json",
+            "name": "👑小白┃弹幕2👑"
+        },
         {
             "url":"https://tv.jukemf.com/tvbox/oppo/ghjdz.json",
             "name":"🍒oppo"
