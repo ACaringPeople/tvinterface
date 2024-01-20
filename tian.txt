@@ -43,7 +43,7 @@
         {
             "url":"https://notabug.org/tiantuhao/GitHubHonor/raw/master/honor.json",
             "name":"🍒个人notanbug"
-        }
+        },
          {
             "url": "https://download.kstore.space/download/4828/honor.json",
             "name": "🍒个人凯速网"
